@@ -1,3 +1,6 @@
+import requests #used for scraping web pages
+from bs4 import BeautifulSoup #BeautifulSoup is a Python library helping with using HTML pages
+                              #https://www.crummy.com/software/BeautifulSoup/
 import tkinter      #used for GUI
 from datetime import datetime
 import pandas
@@ -110,3 +113,4 @@ griz_button = tkinter.Button(frame, text="Montana Grizzlies",fg="red",command=la
 seahawks_button.pack()
 griz_button.pack()
 gui.mainloop()
+###

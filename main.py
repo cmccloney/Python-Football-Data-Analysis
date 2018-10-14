@@ -8,10 +8,6 @@ date = str(datetime.now())
 year = date[0:4]
 month = date[5:7]
 day = date[8:10]
-if(int(month) < 8): #if past season is already over, then all games occurred were last year
-    temp = int(year)
-    temp2 = temp-1
-    year = str(temp2)
 
 def __salary_stats(gui,page):
     #with open('nfl_salaries.csv', 'r') as csvfile:

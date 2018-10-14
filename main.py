@@ -13,104 +13,95 @@ if(int(month) < 8): #if past season is already over, then all games occurred wer
     temp2 = temp-1
     year = str(temp2)
 
-def __hawks_salary_stats(gui,page):
+def __salary_stats(gui,page):
     #with open('nfl_salaries.csv', 'r') as csvfile:
         #salaries = csv.reader(csvfile, delimiter=',', dialect='excel')
     salaries_data_frame = pandas.read_csv('nfl_salaries.csv')
     print(salaries_data_frame.loc[0,:]) #print first row and all columns
-            
 
-def __next_game(team,gui,page):
-    if(team == "Seahawks"):
+def __games(team,gui):
+        url1 = "https://en.wikipedia.org/wiki/2018_"
+        url2 = "_season"
+        url = url1 + team + url2
+        page = requests.get(url)
+        name = team.split("_")
         soup = BeautifulSoup(page.content, 'html.parser')
-        past_scores = soup.find_all("span", {"class": "nfl-o-matchup-cards__score--points"}) #used for offset
-        last_week_played = len(past_scores)
-        next_dates = soup.select("p.nfl-o-matchup-cards__date-info span")
-        date = next_dates[last_week_played+6].get_text()
-        time = next_dates[last_week_played+7].get_text()
-        next_teams = soup.find_all("p", {"class": "nfl-o-matchup-cards__team-full-name"})
-        next_stadiums = soup.find_all("span", {"class": "nfl-o-matchup-cards__venue--location"})
-        statement = "The next game of the Seattle Seahawks is on "
-        statement += date[2:] #ignore dot and space at beginning of string
-        statement += "/"
-        statement += year
-        statement += " at "
-        statement += time[2:]
-        statement += " vs. the "
-        statement += next_teams[last_week_played-4].get_text().strip() #subtract 4 for preseason
-        statement += " in "
-        statement += next_stadiums[last_week_played-4].get_text().strip()
-        hawks_label = tkinter.Label(gui, text=statement) #Seahawks next game
-        hawks_label.pack()
-        __hawks_salary_stats(gui,page)
-    elif(team == "Grizzlies"):
-        soup = BeautifulSoup(page.content, 'html.parser')
-        past_scores = soup.find_all("span", {"class": "ml4"}) #used for offset
-        last_week_played = len(past_scores)
-        next_dates = soup.select("tr.Table2__tr td.Table2__td span")
-        next_teams = soup.select("td.Table2__td div.flex span")
-        statement = "The next game of the Montana Grizzlies is on "
-        statement += next_dates[last_week_played+66].get_text()
-        statement += ", "
-        statement += year
-        statement += " vs. "
-        statement += next_teams[last_week_played+14].get_text()
-        griz_label = tkinter.Label(gui, text=statement) #Griz next game
-        griz_label.pack()
-        
+        future_weeks = soup.find_all("tr", {"style": "background:#"})
+        wins = soup.find_all("tr", {"style": "background:#cfc"})
+        losses = soup.find_all("tr", {"style": "background:#fcc"})
+        if(future_weeks):
+            current_week = future_weeks[0].get_text().split("\n")
+            current_team = current_week[7]
+            current_time = current_week[5].split("\\")[0]
+            current_date = current_week[3]
+            statement = "The next game of the "
+            for i in range(0,len(name)):
+                statement += name[i] + " "
+            statement += "is on " + current_date
+            statement += ", "
+            statement += year
+            statement += " "
+            statement += current_team
+            statement += " at "
+            statement += current_time
+            label = tkinter.Label(gui, text=statement) #next game
+            label.pack()
+        if(wins):
+            recent_win = wins[len(wins)-1].get_text().split("\n")
+            recent_date = recent_win[3]
+            recent_time = recent_win[5].split("\\")[0]
+            recent_team = recent_win[7]
+            recent_score = recent_win[9]
+            statement2 = "The most recent win of the "
+            for i in range(0,len(name)):
+                statement2 += name[i] + " "
+            statement2 += "was "
+            statement2 += recent_team
+            statement2 += " on "
+            statement2 += recent_date
+            statement2 += ", "
+            statement2 += year
+            statement2 += ": "
+            statement2 += recent_score
+            label2 = tkinter.Label(gui, text=statement2) #recent win
+            label2.pack()
+        if(losses):
+            recent_loss = losses[len(losses)-1].get_text().split("\n")
+            recent_date = recent_loss[3]
+            recent_time = recent_loss[5].split("\\")[0]
+            recent_team = recent_loss[7]
+            recent_score = recent_loss[9]
+            statement3 = "The most recent loss of the "
+            for i in range(0,len(name)):
+                statement3 += name[i] + " "
+            statement3 += "was "
+            statement3 += recent_team
+            statement3 += " on "
+            statement3 += recent_date
+            statement3 += ", "
+            statement3 += year
+            statement3 += ": "
+            statement3 += recent_score
+            label3 = tkinter.Label(gui, text=statement3) #recent loss
+            label3.pack()
+        #__salary_stats(gui,page)
 
-def __last_game_played(team,gui,page):
-    if(team == "Seahawks"):
-        soup = BeautifulSoup(page.content, 'html.parser')
-        past_scores = soup.find_all("span", {"class": "nfl-o-matchup-cards__score--points"})
-        past_results = soup.find_all("span", {"class": "nfl-o-matchup-cards__score--result"})
-        past_teams = soup.find_all("p", {"class": "nfl-o-matchup-cards__team-full-name"})
-        past_dates = soup.find_all("span", {"class": "nfl-o-matchup-cards__date-info--date"})
-        last_week_played = len(past_scores) - 4 #subtract 4 for preseason
-        date = past_dates[last_week_played-1].get_text()
-        statement = "The score of the Seattle Seahawks most recent game is "
-        statement += past_results[last_week_played-1].get_text()
-        statement += " "
-        statement += past_scores[last_week_played-1].get_text()
-        statement += " vs. the "
-        statement += past_teams[last_week_played-1].get_text().strip()
-        statement += " on "
-        statement += date[2:] #ignore dot and space at beginning of string
-        statement += "/"
-        statement += year
-        label1 = tkinter.Label(gui, text=statement) #Seahawks most recent game
-        label1.pack()
-        __next_game(team,gui,page)
-    elif(team == "Grizzlies"):
-        soup = BeautifulSoup(page.content, 'html.parser')
-        past_scores = soup.find_all("span", {"class": "ml4"})
-        past_results = soup.select("td.Table2__td div span.fw-bold")
-        past_teams = soup.select("td.Table2__td div.flex span")
-        past_dates = soup.select("tbody.Table2__tbody tr.filled td.Table2__td span")
-        last_week_played = len(past_scores)
-        statement = "The score of the Montana Grizzlies most recent game is "
-        statement += past_results[last_week_played-1].get_text()
-        statement += " "
-        statement += past_scores[last_week_played-1].get_text().strip()
-        statement += " vs. "
-        statement += past_teams[last_week_played+11].get_text() #different offset due to website HTML setup
-        statement += "on "
-        statement += past_dates[last_week_played+14].get_text() #different offset due to website HTML setup
-        statement += ", "
-        statement += year
-        label2 = tkinter.Label(gui, text=statement) #Grizzlies most recent game
-        label2.pack()
-        __next_game(team,gui,page)
-
-hawks_page = requests.get("https://www.seahawks.com/schedule/")
-griz_page = requests.get("http://www.espn.com/college-football/team/schedule/_/id/149/montana-grizzlies")
+teams = ["Arizona_Cardinals", "Atlanta_Falcons", "Baltimore_Ravens", "Buffalo_Bills", "Carolina_Panthers",
+         "Chicago_Bears", "Cincinnati_Bengals", "Cleveland_Browns", "Dallas_Cowboys", "Denver_Broncos",
+         "Detroit_Lions", "Green_Bay_Packers", "Houston_Texans", "Indianapolis_Colts", "Jacksonville_Jaguars",
+         "Kansas_City_Chiefs", "Los_Angeles_Chargers", "Los_Angeles_Rams", "Miami_Dolphins",
+         "Minnesota_Vikings", "New_England_Patriots","New_Orleans_Saints","New_York_Giants", "New_York_Jets",
+         "Oakland_Raiders", "Philadelphia_Eagles", "Pittsburgh_Steelers", "San_Francisco_49ers",
+         "Seattle_Seahawks", "Tampa_Bay_Buccaneers", "Tennessee_Titans", "Washington_Redskins"]
 gui = tkinter.Tk() #window
 gui.geometry("750x500")
 frame = tkinter.Frame(gui) #frame
 frame.pack()
-seahawks_button = tkinter.Button(frame, text="Seattle Seahawks",fg="blue",command=lambda : __last_game_played("Seahawks",gui,hawks_page))
-griz_button = tkinter.Button(frame, text="Montana Grizzlies",fg="red",command=lambda : __last_game_played("Grizzlies",gui,griz_page))
-seahawks_button.pack()
-griz_button.pack()
+team = tkinter.StringVar(gui)
+team.set(teams[0]) #default value
+menu = tkinter.OptionMenu(gui, team, *teams)
+menu.pack()
+button = tkinter.Button(gui, text="Next Game",command=lambda : __games(team.get(),gui))
+button.pack()
 gui.mainloop()
 ###

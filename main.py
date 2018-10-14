@@ -3,17 +3,42 @@ from bs4 import BeautifulSoup #BeautifulSoup is a Python library helping with us
                               #https://www.crummy.com/software/BeautifulSoup/
 import tkinter      #used for GUI
 from datetime import datetime
-import pandas
+import pandas #used for data frames and data analysis
+import matplotlib
+import matplotlib.pyplot as plt #provides MATLAB-like plotting framework
+                                #https://matplotlib.org/api/pyplot_api.html#matplotlib.pyplot.plot
+matplotlib.use("TkAgg")
+from matplotlib.figure import Figure  #use these two to print plots in Tkinter GUI
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 date = str(datetime.now())
 year = date[0:4]
 month = date[5:7]
 day = date[8:10]
 
-def __salary_stats(gui,page):
-    #with open('nfl_salaries.csv', 'r') as csvfile:
-        #salaries = csv.reader(csvfile, delimiter=',', dialect='excel')
+
+def __salary_stats(name,gui):
     salaries_data_frame = pandas.read_csv('nfl_salaries.csv')
-    print(salaries_data_frame.loc[0,:]) #print first row and all columns
+    team = name[0][0:3].upper()
+    df = pandas.DataFrame(data=[0],index=range(0,1),columns=['Salary'])
+    index = 0
+    for i in range(0,len(salaries_data_frame)):
+        if(salaries_data_frame.loc[i,'Tm'] == team):
+            #print(salaries_data_frame.loc[i,:]) #print ith row, all columns
+            df.loc[index,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
+            #print(df.loc[index])
+            index = index + 1
+    df['Salary'] = df['Salary'].astype(str).astype(int) #convert to string before converting to int, from object
+    fig = Figure(figsize=(6,4), dpi=100) #this part and below displays histogram of
+                                        #salaries in Tkinter GUI
+    p = fig.gca()
+    p.hist(df['Salary'])
+    p.set_xlabel('Salary', fontsize = 14)
+    p.set_ylabel('Number of Players', fontsize = 14)
+    p.set_title("Salary by Player of " + str(name[0]), fontsize = 16)
+    canvas = FigureCanvasTkAgg(fig,gui)
+    canvas.get_tk_widget().pack()
+    canvas.draw()
+            
 
 def __games(team,gui):
         url1 = "https://en.wikipedia.org/wiki/2018_"
@@ -25,7 +50,9 @@ def __games(team,gui):
         future_weeks = soup.find_all("tr", {"style": "background:#"})
         wins = soup.find_all("tr", {"style": "background:#cfc"})
         losses = soup.find_all("tr", {"style": "background:#fcc"})
-        if(future_weeks):
+        general_info = soup.select("table.infobox tbody tr td")
+        record = general_info[4].get_text().strip()
+        if(future_weeks and str(team) != "Denver_Broncos"): #Only Broncos wiki page doesn't work only here, weird
             current_week = future_weeks[0].get_text().split("\n")
             current_team = current_week[7]
             current_time = current_week[5].split("\\")[0]
@@ -33,13 +60,16 @@ def __games(team,gui):
             statement = "The next game of the "
             for i in range(0,len(name)):
                 statement += name[i] + " "
-            statement += "is on " + current_date
+            statement += "is "
+            statement += current_team
+            statement += " on "
+            statement += current_date
             statement += ", "
             statement += year
-            statement += " "
-            statement += current_team
             statement += " at "
             statement += current_time
+            statement += " ("
+            statement += record + ")"
             label = tkinter.Label(gui, text=statement) #next game
             label.pack()
         if(wins):
@@ -80,7 +110,7 @@ def __games(team,gui):
             statement3 += recent_score
             label3 = tkinter.Label(gui, text=statement3) #recent loss
             label3.pack()
-        #__salary_stats(gui,page)
+        __salary_stats(name,gui)
 
 teams = ["Arizona_Cardinals", "Atlanta_Falcons", "Baltimore_Ravens", "Buffalo_Bills", "Carolina_Panthers",
          "Chicago_Bears", "Cincinnati_Bengals", "Cleveland_Browns", "Dallas_Cowboys", "Denver_Broncos",
@@ -90,14 +120,14 @@ teams = ["Arizona_Cardinals", "Atlanta_Falcons", "Baltimore_Ravens", "Buffalo_Bi
          "Oakland_Raiders", "Philadelphia_Eagles", "Pittsburgh_Steelers", "San_Francisco_49ers",
          "Seattle_Seahawks", "Tampa_Bay_Buccaneers", "Tennessee_Titans", "Washington_Redskins"]
 gui = tkinter.Tk() #window
-gui.geometry("750x500")
+gui.geometry("1000x750")
 frame = tkinter.Frame(gui) #frame
 frame.pack()
 team = tkinter.StringVar(gui)
 team.set(teams[0]) #default value
-menu = tkinter.OptionMenu(gui, team, *teams)
+menu = tkinter.OptionMenu(gui, team, *teams) #drop-down menu
 menu.pack()
-button = tkinter.Button(gui, text="Next Game",command=lambda : __games(team.get(),gui))
+button = tkinter.Button(gui, text="Analysis",command=lambda : __games(team.get(),gui)) #button
 button.pack()
 gui.mainloop()
 ###

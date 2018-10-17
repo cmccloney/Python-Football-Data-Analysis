@@ -15,8 +15,41 @@ year = date[0:4]
 month = date[5:7]
 day = date[8:10]
 
+class Page(tkinter.Frame): #pages instead of scrollbar
+    def __init__(self, *args, **kwargs):
+        tkinter.Frame.__init__(self, *args, **kwargs)
+    def show(self):
+        self.lift()
 
-def __salary_stats(name,gui):
+class Page1(Page):
+   def __init__(self, *args, **kwargs):
+       Page.__init__(self, *args, **kwargs)
+   def figure(self,df,name):
+       fig = Figure(figsize=(100,100), dpi=100) #this part and below displays histogram of
+                                        #salaries in Tkinter GUI
+       p = fig.gca()
+       p.hist(df['Salary'])
+       p.set_xlabel('Salary', fontsize = 14)
+       p.set_ylabel('Number of Players', fontsize = 14)
+       p.set_title("Salary by Player of " + str(name[0]), fontsize = 16)
+       canvas = FigureCanvasTkAgg(fig,self)
+       canvas.draw()
+       canvas.get_tk_widget().pack(fill="y",expand=True)
+       self.lift()
+
+class Page2(Page):
+   def __init__(self, *args, **kwargs):
+       Page.__init__(self, *args, **kwargs)
+       label = tkinter.Label(self, text="This is page 2")
+       label.pack(side="top", fill="both", expand=True)
+
+def Destroy(p1,b_frame,container,frame): #destroy previous frames and select a new team
+    p1.destroy()
+    b_frame.destroy()
+    container.destroy()
+    frame.destroy()
+
+def __salary_stats(name,gui,frame):
     salaries_data_frame = pandas.read_csv('nfl_salaries.csv')
     team = name[0][0:3].upper()
     df = pandas.DataFrame(data=[0],index=range(0,1),columns=['Salary'])
@@ -28,19 +61,23 @@ def __salary_stats(name,gui):
             #print(df.loc[index])
             index = index + 1
     df['Salary'] = df['Salary'].astype(str).astype(int) #convert to string before converting to int, from object
-    fig = Figure(figsize=(6,4), dpi=100) #this part and below displays histogram of
-                                        #salaries in Tkinter GUI
-    p = fig.gca()
-    p.hist(df['Salary'])
-    p.set_xlabel('Salary', fontsize = 14)
-    p.set_ylabel('Number of Players', fontsize = 14)
-    p.set_title("Salary by Player of " + str(name[0]), fontsize = 16)
-    canvas = FigureCanvasTkAgg(fig,gui)
-    canvas.get_tk_widget().pack()
-    canvas.draw()
+
+    p1 = Page1(gui)
+    buttonframe = tkinter.Frame(gui)
+    container = tkinter.Frame(gui)
+    buttonframe.pack(side="bottom", fill="x", expand=False)
+    container.pack(side="top", fill="both", expand=True)
+    p1.place(in_=container, x=0, y=0, relwidth=1, relheight=1)
+    b1 = tkinter.Button(buttonframe, text="Page 1", command=p1.lift)
+    b1.pack(side="left")
+    b_forget = tkinter.Button(buttonframe, text="New Team", command=lambda : Destroy(p1,buttonframe,container,frame))
+    b_forget.pack(side="right")
+    p1.figure(df,name)
             
 
 def __games(team,gui):
+        frame = tkinter.Frame(gui) #frame
+        frame.pack()
         url1 = "https://en.wikipedia.org/wiki/2018_"
         url2 = "_season"
         url = url1 + team + url2
@@ -70,7 +107,7 @@ def __games(team,gui):
             statement += current_time
             statement += " ("
             statement += record + ")"
-            label = tkinter.Label(gui, text=statement) #next game
+            label = tkinter.Label(frame, text=statement) #next game
             label.pack()
         if(wins):
             recent_win = wins[len(wins)-1].get_text().split("\n")
@@ -89,7 +126,7 @@ def __games(team,gui):
             statement2 += year
             statement2 += ": "
             statement2 += recent_score
-            label2 = tkinter.Label(gui, text=statement2) #recent win
+            label2 = tkinter.Label(frame, text=statement2) #recent win
             label2.pack()
         if(losses):
             recent_loss = losses[len(losses)-1].get_text().split("\n")
@@ -108,9 +145,9 @@ def __games(team,gui):
             statement3 += year
             statement3 += ": "
             statement3 += recent_score
-            label3 = tkinter.Label(gui, text=statement3) #recent loss
+            label3 = tkinter.Label(frame, text=statement3) #recent loss
             label3.pack()
-        __salary_stats(name,gui)
+        __salary_stats(name,gui,frame)
 
 teams = ["Arizona_Cardinals", "Atlanta_Falcons", "Baltimore_Ravens", "Buffalo_Bills", "Carolina_Panthers",
          "Chicago_Bears", "Cincinnati_Bengals", "Cleveland_Browns", "Dallas_Cowboys", "Denver_Broncos",
@@ -121,13 +158,13 @@ teams = ["Arizona_Cardinals", "Atlanta_Falcons", "Baltimore_Ravens", "Buffalo_Bi
          "Seattle_Seahawks", "Tampa_Bay_Buccaneers", "Tennessee_Titans", "Washington_Redskins"]
 gui = tkinter.Tk() #window
 gui.geometry("1000x750")
-frame = tkinter.Frame(gui) #frame
-frame.pack()
+menuFrame = tkinter.Frame(gui) #frame for menu and analysis button
+menuFrame.pack()
 team = tkinter.StringVar(gui)
 team.set(teams[0]) #default value
-menu = tkinter.OptionMenu(gui, team, *teams) #drop-down menu
+menu = tkinter.OptionMenu(menuFrame, team, *teams) #drop-down menu
 menu.pack()
-button = tkinter.Button(gui, text="Analysis",command=lambda : __games(team.get(),gui)) #button
+button = tkinter.Button(menuFrame, text="Analysis",command=lambda : __games(team.get(),gui)) #button
 button.pack()
 gui.mainloop()
 ###

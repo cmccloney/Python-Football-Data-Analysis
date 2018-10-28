@@ -18,30 +18,30 @@ day = date[8:10]
 class Page(tkinter.Frame): #pages instead of scrollbar
     def __init__(self, *args, **kwargs):
         tkinter.Frame.__init__(self, *args, **kwargs)
-    def show(self):
-        self.lift()
-
-class Page1(Page):
-   def __init__(self, *args, **kwargs):
-       Page.__init__(self, *args, **kwargs)
-   def figure(self,df,name):
+    def figure(self,df,df2,name):
+       count = len(df2['Salary'])
+       statement = "There are " + str(count) + " players on the " + str(name).replace('_',' ') + " making over $1,000,000."
+       label = tkinter.Label(self, text=statement) #recent loss
+       label.pack()
        fig = Figure(figsize=(100,100), dpi=100) #this part and below displays histogram of
                                         #salaries in Tkinter GUI
        p = fig.gca()
        p.hist(df['Salary'])
        p.set_xlabel('Salary', fontsize = 14)
        p.set_ylabel('Number of Players', fontsize = 14)
-       p.set_title("Salary by Player of " + str(name[0]), fontsize = 16)
+       p.set_title("Salary by Player of " + str(name).replace('_',' '), fontsize = 16)
        canvas = FigureCanvasTkAgg(fig,self)
        canvas.draw()
        canvas.get_tk_widget().pack(fill="y",expand=True)
        self.lift()
 
+class Page1(Page):
+   def __init__(self, *args, **kwargs):
+       Page.__init__(self, *args, **kwargs)
+
 class Page2(Page):
    def __init__(self, *args, **kwargs):
        Page.__init__(self, *args, **kwargs)
-       label = tkinter.Label(self, text="This is page 2")
-       label.pack(side="top", fill="both", expand=True)
 
 def Destroy(p1,b_frame,container,frame): #destroy previous frames and select a new team
     p1.destroy()
@@ -51,31 +51,50 @@ def Destroy(p1,b_frame,container,frame): #destroy previous frames and select a n
 
 def __salary_stats(name,gui,frame):
     salaries_data_frame = pandas.read_csv('nfl_salaries.csv')
-    team = name[0][0:3].upper()
+    spec_teams = {'Green_Bay_Packers': 'GNB', 'Jacksonville_Jaguars' : 'JAX', 'Los_Angeles_Rams' : 'LAR',
+                  'Los_Angeles_Chargers' : 'LAC', 'New_Orleans_Saints' : 'NOR', 'New_England_Patriots' : 'NWE',
+                  'New_York_Giants' : 'NYG', 'New_York_Jets' : 'NYJ', 'San_Francisco_49ers' : 'SFO'}
+    full_name = name[0]
+    for i in range(1,len(name)):
+        full_name += "_"
+        full_name += name[i]
+    if(full_name in spec_teams):
+        team = spec_teams[full_name]
+    else:
+        team = full_name[0:3].upper()
     df = pandas.DataFrame(data=[0],index=range(0,1),columns=['Salary'])
+    df_big = pandas.DataFrame(data=[0],index=range(0,1),columns=['Salary'])
     index = 0
     for i in range(0,len(salaries_data_frame)):
+        #leagueDF.loc[i,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
         if(salaries_data_frame.loc[i,'Tm'] == team):
             #print(salaries_data_frame.loc[i,:]) #print ith row, all columns
             df.loc[index,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
-            #print(df.loc[index])
+            if(int(df.loc[index,'Salary']) >= 1000000):
+                df_big.loc[index,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
+                # only for player making more than a million
             index = index + 1
     df['Salary'] = df['Salary'].astype(str).astype(int) #convert to string before converting to int, from object
 
     p1 = Page1(gui)
+    p2 = Page2(gui)
     buttonframe = tkinter.Frame(gui)
     container = tkinter.Frame(gui)
     buttonframe.pack(side="bottom", fill="x", expand=False)
     container.pack(side="top", fill="both", expand=True)
     p1.place(in_=container, x=0, y=0, relwidth=1, relheight=1)
-    b1 = tkinter.Button(buttonframe, text="Page 1", command=p1.lift)
-    b1.pack(side="left")
-    b_forget = tkinter.Button(buttonframe, text="New Team", command=lambda : Destroy(p1,buttonframe,container,frame))
+    p2.place(in_=container, x=0, y=0, relwidth=1, relheight=1)
+    #b1 = tkinter.Button(buttonframe, text="Page 1", command=p1.lift)
+    #b2 = tkinter.Button(buttonframe, text="Page 2", command=p2.lift)
+    #b1.pack(side="left")
+    #b2.pack(side="left")
+    b_forget = tkinter.Button(buttonframe, text="Clear Screen", command=lambda : Destroy(p1,buttonframe,container,frame))
     b_forget.pack(side="right")
-    p1.figure(df,name)
+    p1.figure(df,df_big,full_name)
             
 
 def __games(team,gui):
+        team = team.replace(' ','_')
         frame = tkinter.Frame(gui) #frame
         frame.pack()
         url1 = "https://en.wikipedia.org/wiki/2018_"
@@ -149,13 +168,13 @@ def __games(team,gui):
             label3.pack()
         __salary_stats(name,gui,frame)
 
-teams = ["Arizona_Cardinals", "Atlanta_Falcons", "Baltimore_Ravens", "Buffalo_Bills", "Carolina_Panthers",
-         "Chicago_Bears", "Cincinnati_Bengals", "Cleveland_Browns", "Dallas_Cowboys", "Denver_Broncos",
-         "Detroit_Lions", "Green_Bay_Packers", "Houston_Texans", "Indianapolis_Colts", "Jacksonville_Jaguars",
-         "Kansas_City_Chiefs", "Los_Angeles_Chargers", "Los_Angeles_Rams", "Miami_Dolphins",
-         "Minnesota_Vikings", "New_England_Patriots","New_Orleans_Saints","New_York_Giants", "New_York_Jets",
-         "Oakland_Raiders", "Philadelphia_Eagles", "Pittsburgh_Steelers", "San_Francisco_49ers",
-         "Seattle_Seahawks", "Tampa_Bay_Buccaneers", "Tennessee_Titans", "Washington_Redskins"]
+teams = ["Arizona Cardinals", "Atlanta Falcons", "Baltimore Ravens", "Buffalo Bills", "Carolina Panthers",
+         "Chicago Bears", "Cincinnati Bengals", "Cleveland Browns", "Dallas Cowboys", "Denver Broncos",
+         "Detroit Lions", "Green Bay Packers", "Houston Texans", "Indianapolis Colts", "Jacksonville Jaguars",
+         "Kansas City Chiefs", "Los Angeles Chargers", "Los Angeles Rams", "Miami Dolphins",
+         "Minnesota Vikings", "New England Patriots","New Orleans Saints","New York Giants", "New York Jets",
+         "Oakland Raiders", "Philadelphia Eagles", "Pittsburgh Steelers", "San Francisco 49ers",
+         "Seattle Seahawks", "Tampa Bay Buccaneers", "Tennessee Titans", "Washington Redskins"]
 gui = tkinter.Tk() #window
 gui.geometry("1000x750")
 menuFrame = tkinter.Frame(gui) #frame for menu and analysis button

@@ -27,9 +27,9 @@ class Page(tkinter.Frame): #pages instead of scrollbar
                                         #salaries in Tkinter GUI
        p = fig.gca()
        p.hist(df['Salary'])
-       p.set_xlabel('Salary', fontsize = 14)
+       p.set_xlabel('Salary (in $1,000,000s)', fontsize = 14)
        p.set_ylabel('Number of Players', fontsize = 14)
-       p.set_title("Salary by Player of " + str(name).replace('_',' '), fontsize = 16)
+       p.set_title("Salary by Number of Players of " + str(name).replace('_',' '), fontsize = 16)
        canvas = FigureCanvasTkAgg(fig,self)
        canvas.draw()
        canvas.get_tk_widget().pack(fill="y",expand=True)
@@ -51,6 +51,7 @@ def Destroy(p1,b_frame,container,frame): #destroy previous frames and select a n
 
 def __salary_stats(name,gui,frame):
     salaries_data_frame = pandas.read_csv('nfl_salaries.csv')
+    players_data_frame = pandas.read_csv('nfl_players.csv')
     spec_teams = {'Green_Bay_Packers': 'GNB', 'Jacksonville_Jaguars' : 'JAX', 'Los_Angeles_Rams' : 'LAR',
                   'Los_Angeles_Chargers' : 'LAC', 'New_Orleans_Saints' : 'NOR', 'New_England_Patriots' : 'NWE',
                   'New_York_Giants' : 'NYG', 'New_York_Jets' : 'NYJ', 'San_Francisco_49ers' : 'SFO'}
@@ -62,16 +63,21 @@ def __salary_stats(name,gui,frame):
         team = spec_teams[full_name]
     else:
         team = full_name[0:3].upper()
-    df = pandas.DataFrame(data=[0],index=range(0,1),columns=['Salary'])
-    df_big = pandas.DataFrame(data=[0],index=range(0,1),columns=['Salary'])
+    df = pandas.DataFrame(data=0,index=range(0,1),columns=['Salary','Age'])
+    df_big = pandas.DataFrame(data=0,index=range(0,1),columns=['Salary','Age']) #players making more than a million
     index = 0
     for i in range(0,len(salaries_data_frame)):
-        #leagueDF.loc[i,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
         if(salaries_data_frame.loc[i,'Tm'] == team):
-            #print(salaries_data_frame.loc[i,:]) #print ith row, all columns
             df.loc[index,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
+            temp = salaries_data_frame.loc[i,'Player'].split("\\")
+            temp2 = players_data_frame[players_data_frame['Name'] == (temp[0])].values
+            if(len(temp2) > 0):
+                #print(temp2[0][0])
+                df.loc[index,'Age'] = temp2[0][0]
             if(int(df.loc[index,'Salary']) >= 1000000):
                 df_big.loc[index,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
+                if(len(temp2) > 0):
+                    df_big.loc[index,'Age'] = temp2[0][0]
                 # only for player making more than a million
             index = index + 1
     df['Salary'] = df['Salary'].astype(str).astype(int) #convert to string before converting to int, from object

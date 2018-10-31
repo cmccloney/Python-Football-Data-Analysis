@@ -1,0 +1,2765 @@
+﻿Jersey,Name,Position,Age,Height,Weight,Years,College,Team,Position Group,Side,Level
+53,A.Q. Shipley,C,30,73,307,5,Penn State,Arizona,OL,OFF,5-8 Yrs
+77,Evan Boehm,C,22,74,309,0,Missouri,Arizona,OL,OFF,Rookie
+65,Taylor Boggs,C,29,75,302,4,Humboldt State,Arizona,OL,OFF,1-4 Yrs
+28,Justin Bethel,CB,26,72,200,5,Presbyterian College,Arizona,DB,DEF,5-8 Yrs
+1,Harlan Miller,CB,22,72,182,0,Southeastern Louisiana,Arizona,DB,DEF,Rookie
+35,Cariel Brooks,CB,25,69,200,2,Adams State,Arizona,DB,DEF,1-4 Yrs
+43,Mike Jenkins,CB,31,70,197,9,South Florida,Arizona,DB,DEF,9-12 Yrs
+25,Jerraud Powers,CB,29,70,187,8,Auburn,Arizona,DB,DEF,5-8 Yrs
+46,Asa Jackson,CB,26,70,183,4,Cal Poly,Arizona,DB,DEF,1-4 Yrs
+39,Shaun Prater,CB,26,70,190,4,Iowa,Arizona,DB,DEF,1-4 Yrs
+--,Ronald Zamort,CB,24,70,174,0,Western Michigan,Arizona,DB,DEF,Rookie
+21,Brandon Williams,CB,23,71,197,0,Texas A&M,Arizona,DB,DEF,Rookie
+--,Elie Bouka,CB,--,73,205,0,--,Arizona,DB,DEF,Rookie
+21,Patrick Peterson,CB,26,73,219,6,LSU,Arizona,DB,DEF,5-8 Yrs
+--,Trevon Hartfield,CB,--,74,195,0,Southwestern Oklahoma,Arizona,DB,DEF,Rookie
+55,Chandler Jones,DE,26,77,265,5,Syracuse,Arizona,Front Seven,DEF,5-8 Yrs
+58,Tristan Okpalaugo,DE,26,78,250,0,Fresno State,Arizona,Front Seven,DEF,Rookie
+92,Frostee Rucker,DT,32,75,280,11,USC,Arizona,Front Seven,DEF,9-12 Yrs
+98,Corey Peters,DT,28,75,305,7,Kentucky,Arizona,Front Seven,DEF,5-8 Yrs
+71,Red Bryant,DT,32,76,323,9,Texas A&M,Arizona,Front Seven,DEF,9-12 Yrs
+91,Ed Stinson,DT,26,76,287,3,Alabama,Arizona,Front Seven,DEF,1-4 Yrs
+72,Olsen Pierre,DT,24,76,293,1,Miami,Arizona,Front Seven,DEF,1-4 Yrs
+5,Robert Nkemdiche,DT,21,76,296,0,Ole Miss,Arizona,Front Seven,DEF,Rookie
+95,Rodney Gunter,DT,24,77,305,2,Delaware State,Arizona,Front Seven,DEF,1-4 Yrs
+97,Josh Mauro,DT,25,78,282,3,Stanford,Arizona,Front Seven,DEF,1-4 Yrs
+93,Calais Campbell,DT,29,80,300,9,Miami,Arizona,Front Seven,DEF,9-12 Yrs
+78,Earl Watford,G,26,75,300,4,James Madison,Arizona,OL,OFF,1-4 Yrs
+64,Jake Bernstein,G,23,76,304,0,Vanderbilt,Arizona,OL,OFF,Rookie
+69,Evan Mathis,G,34,77,301,12,Alabama,Arizona,OL,OFF,9-12 Yrs
+76,Mike Iupati,G,29,77,331,7,Idaho,Arizona,OL,OFF,5-8 Yrs
+60,Antoine McClain,G,26,77,336,2,Clemson,Arizona,OL,OFF,1-4 Yrs
+51,Kevin Minter,LB,25,72,246,4,LSU,Arizona,Front Seven,DEF,1-4 Yrs
+42,Quayshawn Nealy,LB,24,72,237,1,Georgia Tech,Arizona,Front Seven,DEF,1-4 Yrs
+--,Lamar Louis,LB,22,72,231,0,LSU,Arizona,Front Seven,DEF,Rookie
+44,Markus Golden,LB,25,74,260,2,Missouri,Arizona,Front Seven,DEF,1-4 Yrs
+50,Gabe Martin,LB,24,74,236,1,Bowling Green,Arizona,Front Seven,DEF,1-4 Yrs
+88,Mike Reilly,LB,24,75,261,0,William & Mary,Arizona,Front Seven,DEF,Rookie
+49,Zack Wagenmann,LB,23,75,250,2,Montana,Arizona,Front Seven,DEF,1-4 Yrs
+57,Alex Okafor,LB,25,76,261,4,Texas,Arizona,Front Seven,DEF,1-4 Yrs
+59,Alani Fua,LB,24,77,234,2,BYU,Arizona,Front Seven,DEF,1-4 Yrs
+96,Kareem Martin,LB,24,78,272,3,North Carolina,Arizona,Front Seven,DEF,1-4 Yrs
+47,Shaq Riddick,LB,23,78,260,2,West Virginia,Arizona,Front Seven,DEF,1-4 Yrs
+10,Daniel Dillon,LS,23,75,225,0,Campbell,Arizona,ST,ST,Rookie
+--,Kameron Canaday,LS,22,76,245,0,Portland State,Arizona,ST,ST,Rookie
+94,Xavier Williams,NT,24,74,309,2,Northern Iowa,Arizona,Front Seven,DEF,1-4 Yrs
+--,Givens Price,OT,21,76,295,0,Nebraska,Arizona,OL,OFF,Rookie
+74,D.J. Humphries,OT,22,77,307,2,Florida,Arizona,OL,OFF,1-4 Yrs
+78,Cole Toner,OT,22,77,305,0,Harvard,Arizona,OL,OFF,Rookie
+--,Clay DeBord,OT,24,78,305,0,Eastern Washington,Arizona,OL,OFF,Rookie
+67,Rob Crisp,OT,25,79,300,1,NC State,Arizona,OL,OFF,1-4 Yrs
+73,John Wetzel,OT,25,79,328,1,Boston College,Arizona,OL,OFF,1-4 Yrs
+68,Jared Veldheer,OT,29,80,321,7,Hillsdale,Arizona,OL,OFF,5-8 Yrs
+--,Garrett Swanson,P,22,72,230,0,Fresno State,Arizona,ST,ST,Rookie
+2,Drew Butler,P,27,73,217,4,Georgia,Arizona,ST,ST,1-4 Yrs
+7,Chandler Catanzaro,PK,25,75,200,3,Clemson,Arizona,ST,ST,1-4 Yrs
+9,Matt Barkley,QB,25,74,227,4,USC,Arizona,QB,OFF,1-4 Yrs
+5,Drew Stanton,QB,32,75,243,10,Michigan State,Arizona,QB,OFF,9-12 Yrs
+3,Carson Palmer,QB,36,77,235,14,USC,Arizona,QB,OFF,13+ Yrs
+--,Jake Coker,QB,23,77,236,0,Alabama,Arizona,QB,OFF,Rookie
+33,Kerwynn Williams,RB,25,68,198,3,Utah State,Arizona,Tailback,OFF,1-4 Yrs
+38,Andre Ellington,RB,27,69,199,4,Clemson,Arizona,Tailback,OFF,1-4 Yrs
+30,Stepfan Taylor,RB,25,69,216,4,Stanford,Arizona,Tailback,OFF,1-4 Yrs
+23,Chris Johnson,RB,30,71,203,9,East Carolina,Arizona,Tailback,OFF,9-12 Yrs
+31,David Johnson,RB,24,73,224,2,Northern Iowa,Arizona,Tailback,OFF,1-4 Yrs
+--,Elijhaa Penny,RB,22,74,247,0,Idaho,Arizona,Tailback,OFF,Rookie
+27,Tyvon Branch,S,29,72,210,9,Connecticut,Arizona,DB,DEF,9-12 Yrs
+77,Tyrequek Zimmerman,S,23,72,213,1,Oregon State,Arizona,DB,DEF,1-4 Yrs
+32,Tyrann Mathieu,S,24,69,186,4,LSU,Arizona,DB,DEF,1-4 Yrs
+36,D.J. Swearinger,S,24,70,208,4,South Carolina,Arizona,DB,DEF,1-4 Yrs
+--,Matthias Farley,S,24,71,210,0,Notre Dame,Arizona,DB,DEF,Rookie
+22,Tony Jefferson,S,24,71,212,4,Oklahoma,Arizona,DB,DEF,1-4 Yrs
+29,Chris Clemons,S,30,73,215,8,Clemson,Arizona,DB,DEF,5-8 Yrs
+20,Deone Bucannon,S,23,73,211,3,Washington State,Arizona,DB,DEF,1-4 Yrs
+1,Marqui Christian,S,21,73,200,0,Midwestern State,Arizona,DB,DEF,Rookie
+37,Durell Eskridge,S,24,75,207,1,Syracuse,Arizona,DB,DEF,1-4 Yrs
+83,Gerald Christian,TE,24,75,250,2,Louisville,Arizona,TE,OFF,1-4 Yrs
+84,Jermaine Gresham,TE,28,77,260,7,Oklahoma,Arizona,TE,OFF,5-8 Yrs
+80,Hakeem Valles,TE,23,77,260,0,Monmouth,Arizona,TE,OFF,Rookie
+87,Troy Niklas,TE,23,78,270,3,Notre Dame,Arizona,TE,OFF,1-4 Yrs
+85,Darren Fells,TE,30,79,281,3,UC Irvine,Arizona,TE,OFF,1-4 Yrs
+80,Ifeanyi Momah,TE,26,79,255,2,Boston College,Arizona,TE,OFF,1-4 Yrs
+--,Chris Hubert,WR,23,69,155,0,Fayetteville State,Arizona,WR,OFF,Rookie
+14,J.J. Nelson,WR,24,70,160,2,UAB,Arizona,WR,OFF,1-4 Yrs
+--,Amir Carlisle,WR,23,70,195,0,Notre Dame,Arizona,WR,OFF,Rookie
+10,Brittan Golden,WR,28,71,186,3,West Texas A&M,Arizona,WR,OFF,1-4 Yrs
+12,John Brown,WR,26,71,179,3,Pittsburg State,Arizona,WR,OFF,1-4 Yrs
+17,Rico Richardson,WR,25,73,185,1,Jackson State,Arizona,WR,OFF,1-4 Yrs
+16,Jaxon Shipley,WR,24,73,190,1,Texas,Arizona,WR,OFF,1-4 Yrs
+13,Jaron Brown,WR,26,74,205,4,Clemson,Arizona,WR,OFF,1-4 Yrs
+15,Michael Floyd,WR,26,74,220,5,Notre Dame,Arizona,WR,OFF,5-8 Yrs
+11,Larry Fitzgerald,WR,32,75,218,13,Pittsburgh,Arizona,WR,OFF,13+ Yrs
+65,Chris Chester,C,33,75,303,11,Oklahoma,Atlanta,OL,OFF,9-12 Yrs
+62,James Stone,C,24,75,291,2,Tennessee,Atlanta,OL,OFF,1-4 Yrs
+55,Alex Mack,C,30,76,311,8,California,Atlanta,OL,OFF,5-8 Yrs
+68,Mike Person,C,28,76,300,6,Montana State,Atlanta,OL,OFF,5-8 Yrs
+21,Desmond Trufant,CB,25,72,190,4,Washington,Atlanta,DB,DEF,1-4 Yrs
+23,Jordan Sefon,CB,22,72,198,0,St. Cloud State,Atlanta,DB,DEF,Rookie
+22,David Mims,CB,--,70,184,0,Texas State,Atlanta,DB,DEF,Rookie
+23,Robert Alford,CB,27,70,186,4,Southeastern Louisiana,Atlanta,DB,DEF,1-4 Yrs
+37,DeMarcus Van Dyke,CB,27,73,185,4,Miami,Atlanta,DB,DEF,1-4 Yrs
+32,Jalen Collins,CB,23,73,203,2,LSU,Atlanta,DB,DEF,1-4 Yrs
+5,Devonte Johnson,CB,23,73,185,0,Weber State,Atlanta,DB,DEF,Rookie
+28,Akeem King,CB,23,73,212,2,San José State,Atlanta,DB,DEF,1-4 Yrs
+29,Sharrod Neasman,DB,--,72,198,0,Florida Atlantic,Atlanta,DB,DEF,Rookie
+27,Robenson Therezie,DB,24,69,212,2,Auburn,Atlanta,DB,DEF,1-4 Yrs
+24,Brian Poole,DB,23,69,210,0,Florida,Atlanta,DB,DEF,Rookie
+40,Damian Parms,DB,23,74,210,0,Florida Atlantic,Atlanta,DB,DEF,Rookie
+95,Jonathan Babineaux,DE,34,74,300,12,Iowa,Atlanta,Front Seven,DEF,9-12 Yrs
+--,Derrick Shelby,DE,27,74,280,5,Utah,Atlanta,Front Seven,DEF,5-8 Yrs
+44,Vic Beasley Jr.,DE,24,74,246,2,Clemson,Atlanta,Front Seven,DEF,1-4 Yrs
+99,Adrian Clayborn,DE,28,75,280,6,Iowa,Atlanta,Front Seven,DEF,5-8 Yrs
+--,Nordly Capi,DE,24,75,249,1,Akron,Atlanta,Front Seven,DEF,1-4 Yrs
+93,Malliciah Goodman,DE,26,76,276,4,Clemson,Atlanta,Front Seven,DEF,1-4 Yrs
+--,Brandon Williams,DE,22,77,254,0,Southern Illinois,Atlanta,Front Seven,DEF,Rookie
+77,Ra'Shede Hageman,DE,25,78,318,3,Minnesota,Atlanta,Front Seven,DEF,1-4 Yrs
+97,Grady Jarrett,DT,23,72,305,2,Clemson,Atlanta,Front Seven,DEF,1-4 Yrs
+67,Cory Johnson,DT,24,75,300,0,Kentucky,Atlanta,Front Seven,DEF,Rookie
+74,Joey Mbu,DT,23,75,310,1,Houston,Atlanta,Front Seven,DEF,1-4 Yrs
+94,Tyson Jackson,DT,30,76,296,8,LSU,Atlanta,Front Seven,DEF,5-8 Yrs
+42,Patrick DiMarco,FB,27,73,234,5,South Carolina,Atlanta,Tailback,OFF,5-8 Yrs
+67,Andy Levitre,G,30,74,303,8,Oregon State,Atlanta,OL,OFF,5-8 Yrs
+--,Michael Huey,G,27,76,317,1,Texas,Atlanta,OL,OFF,1-4 Yrs
+63,Ben Garland,G,28,77,308,2,Air Force,Atlanta,OL,OFF,1-4 Yrs
+55,Paul Worrilow,LB,26,72,230,4,Delaware,Atlanta,Front Seven,DEF,1-4 Yrs
+51,Will Ratelle,LB,23,71,250,0,North Dakota,Atlanta,Front Seven,DEF,Rookie
+--,LaRoy Reynolds,LB,25,73,240,4,Virginia,Atlanta,Front Seven,DEF,1-4 Yrs
+45,Deion Jones,LB,21,73,222,0,LSU,Atlanta,Front Seven,DEF,Rookie
+51,Philip Wheeler,LB,31,74,245,9,Georgia Tech,Atlanta,Front Seven,DEF,9-12 Yrs
+55,Sean Weatherspoon,LB,28,74,244,7,Missouri,Atlanta,Front Seven,DEF,5-8 Yrs
+91,Courtney Upshaw,LB,26,74,272,5,Alabama,Atlanta,Front Seven,DEF,5-8 Yrs
+39,Torrey Green,LB,22,74,230,0,Utah State,Atlanta,Front Seven,DEF,Rookie
+56,Brooks Reed,LB,29,75,254,6,Arizona,Atlanta,Front Seven,DEF,5-8 Yrs
+26,De'Vondre Campbell,LB,23,76,232,0,Minnesota,Atlanta,Front Seven,DEF,Rookie
+3,Ivan McLennan,LB,23,76,233,0,Washington State,Atlanta,Front Seven,DEF,Rookie
+41,Tyler Starr,LB,25,77,250,2,South Dakota,Atlanta,Front Seven,DEF,1-4 Yrs
+47,Josh Harris,LS,27,73,224,5,Auburn,Atlanta,ST,ST,5-8 Yrs
+93,Chris Mayes,NT,24,75,321,0,Georgia,Atlanta,Front Seven,DEF,Rookie
+64,Collin Rahrig,OL,24,74,285,1,Indiana,Atlanta,OL,OFF,1-4 Yrs
+--,Shahbaz Ahmed,OL,22,75,285,0,Temple,Atlanta,OL,OFF,Rookie
+50,Jake Reed,OL,23,76,288,0,Indiana,Atlanta,OL,OFF,Rookie
+--,Tom Compton,OT,27,77,308,4,South Dakota,Atlanta,OL,OFF,1-4 Yrs
+70,Jake Matthews,OT,24,77,309,3,Texas A&M,Atlanta,OL,OFF,1-4 Yrs
+72,Wes Schweitzer,OT,22,77,314,0,San José State,Atlanta,OL,OFF,Rookie
+72,Bryce Harris,OT,27,78,300,5,Fresno State,Atlanta,OL,OFF,5-8 Yrs
+--,Laurence Gibson,OT,25,78,305,1,Virginia Tech,Atlanta,OL,OFF,1-4 Yrs
+73,Ryan Schraeder,OT,28,79,300,4,Valdosta State,Atlanta,OL,OFF,1-4 Yrs
+5,Matt Bosher,P,28,72,208,6,Miami,Atlanta,ST,ST,5-8 Yrs
+3,Matt Bryant,PK,41,69,203,15,Baylor,Atlanta,ST,ST,13+ Yrs
+23,Nick Rose,PK,--,74,203,0,Texas,Atlanta,ST,ST,Rookie
+8,Matt Simms,QB,27,75,210,2,Tennessee,Atlanta,QB,OFF,1-4 Yrs
+2,Matt Ryan,QB,31,76,217,9,Boston College,Atlanta,QB,OFF,9-12 Yrs
+12,Sean Renfree,QB,26,77,225,4,Duke,Atlanta,QB,OFF,1-4 Yrs
+8,Matt Schaub,QB,35,78,245,13,Virginia,Atlanta,QB,OFF,13+ Yrs
+26,Tevin Coleman,RB,23,72,210,2,Indiana,Atlanta,Tailback,OFF,1-4 Yrs
+33,Terron Ward,RB,24,67,201,2,Oregon State,Atlanta,Tailback,OFF,1-4 Yrs
+24,Devonta Freeman,RB,24,68,206,3,Florida State,Atlanta,Tailback,OFF,1-4 Yrs
+35,Gus Johnson,RB,22,70,215,1,Stephen F Austin,Atlanta,Tailback,OFF,1-4 Yrs
+22,Brandon Wilds,RB,23,73,225,0,South Carolina,Atlanta,Tailback,OFF,Rookie
+42,Keanu Neal,S,20,72,211,0,Florida,Atlanta,DB,DEF,Rookie
+37,Ricardo Allen,S,24,69,186,2,Purdue,Atlanta,DB,DEF,1-4 Yrs
+30,Charles Godfrey,S,30,71,210,9,Iowa,Atlanta,DB,DEF,9-12 Yrs
+36,Kemal Ishmael,SS,25,72,206,4,UCF,Atlanta,DB,DEF,1-4 Yrs
+83,Jacob Tamme,TE,31,75,230,9,Kentucky,Atlanta,TE,OFF,9-12 Yrs
+86,DJ Tialavea,TE,24,76,260,1,Utah State,Atlanta,TE,OFF,1-4 Yrs
+82,Joshua Perkins,TE,22,76,227,0,Washington,Atlanta,TE,OFF,Rookie
+18,Austin Hooper,TE,21,76,248,0,Stanford,Atlanta,TE,OFF,Rookie
+80,Levine Toilolo,TE,24,80,265,4,Stanford,Atlanta,TE,OFF,1-4 Yrs
+7,Devin Fuller,WR,22,72,194,0,UCLA,Atlanta,WR,OFF,Rookie
+--,David Glidden,WR,24,67,185,0,Oklahoma State,Atlanta,WR,OFF,Rookie
+4,Daje Johnson,WR,--,69,184,0,Texas,Atlanta,WR,OFF,Rookie
+14,Eric Weems,WR,31,69,195,10,Bethune-Cookman,Atlanta,WR,OFF,9-12 Yrs
+13,Aldrick Robinson,WR,27,70,187,4,SMU,Atlanta,WR,OFF,1-4 Yrs
+15,Nick Williams,WR,25,70,184,2,Connecticut,Atlanta,WR,OFF,1-4 Yrs
+16,Justin Hardy,WR,24,70,192,2,East Carolina,Atlanta,WR,OFF,1-4 Yrs
+17,Devin Hester,WR,33,71,190,11,Miami,Atlanta,WR,OFF,9-12 Yrs
+23,J.D. McKissic,WR,22,71,193,0,Arkansas State,Atlanta,WR,OFF,Rookie
+12,Mohamed Sanu,WR,26,74,210,5,Rutgers,Atlanta,WR,OFF,5-8 Yrs
+18,Jordan Leslie,WR,24,74,209,1,BYU,Atlanta,WR,OFF,1-4 Yrs
+11,Julio Jones,WR,27,75,220,6,Alabama,Atlanta,WR,OFF,5-8 Yrs
+89,C.J. Goodwin,WR,26,75,190,1,California (PA),Atlanta,WR,OFF,1-4 Yrs
+66,Ryan Jensen,C,25,76,310,3,Colorado State-Pueblo,Baltimore,OL,OFF,1-4 Yrs
+--,Anthony Fabiano,C,23,77,290,0,Harvard,Baltimore,OL,OFF,Rookie
+1,Tavon Young,CB,22,69,183,0,Temple,Baltimore,DB,DEF,Rookie
+21,Lardarius Webb,CB,30,70,182,8,Nicholls State,Baltimore,DB,DEF,5-8 Yrs
+24,Kyle Arrington,CB,29,70,190,8,Hofstra,Baltimore,DB,DEF,5-8 Yrs
+35,Shareece Wright,CB,29,71,182,6,USC,Baltimore,DB,DEF,5-8 Yrs
+39,Will Davis,CB,26,71,190,4,Utah State,Baltimore,DB,DEF,1-4 Yrs
+26,Maurice Canady,CB,22,73,193,0,Virginia,Baltimore,DB,DEF,Rookie
+22,Jimmy Smith,CB,27,74,206,6,Colorado,Baltimore,DB,DEF,5-8 Yrs
+32,Sheldon Price,CB,25,74,198,1,UCLA,Baltimore,DB,DEF,1-4 Yrs
+42,Julian Wilson,CB,24,74,205,2,Oklahoma,Baltimore,DB,DEF,1-4 Yrs
+38,Jumal Rolle,DB,26,72,188,3,Catawba,Baltimore,DB,DEF,1-4 Yrs
+9,Matt Judon,DE,23,75,250,0,Grand Valley State,Baltimore,Front Seven,DEF,Rookie
+93,Lawrence Guy,DE,26,76,305,6,Arizona State,Baltimore,Front Seven,DEF,5-8 Yrs
+95,Kapron Lewis-Moore,DE,26,76,315,4,Notre Dame,Baltimore,Front Seven,DEF,1-4 Yrs
+90,Bronson Kaufusi,DE,25,78,281,0,BYU,Baltimore,Front Seven,DEF,Rookie
+96,Brent Urban,DE,25,79,295,3,Virginia,Baltimore,Front Seven,DEF,1-4 Yrs
+98,Michael Pierce,DL,23,72,309,0,Samford,Baltimore,Front Seven,DEF,Rookie
+--,Trevon Coley,DT,22,72,305,0,Florida Atlantic,Baltimore,Front Seven,DEF,Rookie
+98,Brandon Williams,DT,27,73,335,4,Missouri Southern State,Baltimore,Front Seven,DEF,1-4 Yrs
+97,Timmy Jernigan,DT,23,74,302,3,Florida State,Baltimore,Front Seven,DEF,1-4 Yrs
+69,Willie Henry,DT,22,75,311,0,Michigan,Baltimore,Front Seven,DEF,Rookie
+94,Carl Davis,DT,24,77,320,2,Iowa,Baltimore,Front Seven,DEF,1-4 Yrs
+44,Kyle Juszczyk,FB,25,73,248,4,Harvard,Baltimore,Tailback,OFF,1-4 Yrs
+53,Jeremy Zuttah,G,30,76,300,9,Rutgers,Baltimore,OL,OFF,9-12 Yrs
+--,Jarell Broxton,G,23,77,325,0,Baylor,Baltimore,OL,OFF,Rookie
+59,Arthur Brown,LB,26,72,240,4,Kansas State,Baltimore,Front Seven,DEF,1-4 Yrs
+54,Zachary Orr,LB,24,72,255,3,North Texas,Baltimore,Front Seven,DEF,1-4 Yrs
+--,Cavellis Luckett,LB,23,72,245,0,Middle Tennessee,Baltimore,Front Seven,DEF,Rookie
+58,Elvis Dumervil,LB,32,71,255,11,Louisville,Baltimore,Front Seven,DEF,9-12 Yrs
+56,Chris Carter,LB,27,73,240,6,Fresno State,Baltimore,Front Seven,DEF,5-8 Yrs
+--,Victor Ochi,LB,22,73,241,0,Stony Brook,Baltimore,Front Seven,DEF,Rookie
+50,Albert McClellan,LB,30,74,254,6,Marshall,Baltimore,Front Seven,DEF,5-8 Yrs
+57,C.J. Mosley,LB,24,74,235,3,Alabama,Baltimore,Front Seven,DEF,1-4 Yrs
+--,Patrick Onwuasor,LB,23,74,225,0,Portland State,Baltimore,Front Seven,DEF,Rookie
+55,Terrell Suggs,LB,33,75,265,14,Arizona State,Baltimore,Front Seven,DEF,13+ Yrs
+8,Kamalei Correa,LB,22,75,248,0,Boise State,Baltimore,Front Seven,DEF,Rookie
+--,Mario Ojemudia,LB,22,75,249,0,Michigan,Baltimore,Front Seven,DEF,Rookie
+45,Brennen Beyer,LB,23,76,256,1,Michigan,Baltimore,Front Seven,DEF,1-4 Yrs
+90,Za'Darius Smith,LB,23,76,275,2,Kentucky,Baltimore,Front Seven,DEF,1-4 Yrs
+4,Blaine Clausell,LB,24,79,315,1,Mississippi State,Baltimore,Front Seven,DEF,1-4 Yrs
+46,Morgan Cox,LS,30,76,233,7,Tennessee,Baltimore,ST,ST,5-8 Yrs
+73,Marshal Yanda,OG,31,75,305,10,Iowa,Baltimore,OL,OFF,9-12 Yrs
+64,John Urschel,OG,25,75,305,3,Penn State,Baltimore,OL,OFF,1-4 Yrs
+74,James Hurst,OT,24,77,312,3,North Carolina,Baltimore,OL,OFF,1-4 Yrs
+71,Alex Lewis,OT,24,77,290,0,Nebraska,Baltimore,OL,OFF,Rookie
+78,Ronnie Stanley,OT,22,77,304,0,Notre Dame,Baltimore,OL,OFF,Rookie
+71,Rick Wagner,OT,26,78,310,4,Wisconsin,Baltimore,OL,OFF,1-4 Yrs
+77,De'Ondre Wesley,OT,23,78,326,2,BYU,Baltimore,OL,OFF,1-4 Yrs
+4,Sam Koch,P,33,73,219,11,Nebraska,Baltimore,ST,ST,9-12 Yrs
+--,Wil Lutz,PK,22,72,190,0,Georgia State,Baltimore,ST,ST,Rookie
+9,Justin Tucker,PK,26,73,183,5,Texas,Baltimore,ST,ST,5-8 Yrs
+--,Josh Johnson,QB,30,75,205,8,San Diego,Baltimore,QB,OFF,5-8 Yrs
+1,Jerrod Johnson,QB,27,77,251,1,Texas A&M,Baltimore,QB,OFF,1-4 Yrs
+5,Joe Flacco,QB,31,78,245,9,Delaware,Baltimore,QB,OFF,9-12 Yrs
+7,Ryan Mallett,QB,28,78,245,6,Arkansas,Baltimore,QB,OFF,5-8 Yrs
+37,Javorius Allen,RB,24,72,220,2,USC,Baltimore,Tailback,OFF,1-4 Yrs
+34,Lorenzo Taliaferro,RB,24,72,225,3,Coastal Carolina,Baltimore,Tailback,OFF,1-4 Yrs
+29,Justin Forsett,RB,30,68,195,9,California,Baltimore,Tailback,OFF,9-12 Yrs
+33,Trent Richardson,RB,26,69,225,4,Alabama,Baltimore,Tailback,OFF,1-4 Yrs
+27,Terrance West,RB,25,70,225,3,Towson,Baltimore,Tailback,OFF,1-4 Yrs
+28,Kenneth Dixon,RB,22,70,215,0,Louisiana Tech,Baltimore,Tailback,OFF,Rookie
+23,Kendrick Lewis,S,28,72,205,7,Ole Miss,Baltimore,DB,DEF,5-8 Yrs
+26,Matt Elam,S,24,70,200,4,Florida,Baltimore,DB,DEF,1-4 Yrs
+--,Eric Weddle,S,31,71,200,10,Utah,Baltimore,DB,DEF,9-12 Yrs
+41,Anthony Levine,S,29,71,200,5,Tennessee State,Baltimore,DB,DEF,5-8 Yrs
+31,Terrence Brooks,S,25,71,200,3,Florida State,Baltimore,DB,DEF,1-4 Yrs
+82,Benjamin Watson,TE,35,75,255,13,Georgia,Baltimore,TE,OFF,13+ Yrs
+88,Dennis Pitta,TE,31,76,245,7,BYU,Baltimore,TE,OFF,5-8 Yrs
+82,Nick Boyle,TE,23,76,260,2,Delaware,Baltimore,TE,OFF,1-4 Yrs
+87,Maxx Williams,TE,22,76,250,2,Minnesota,Baltimore,TE,OFF,1-4 Yrs
+80,Crockett Gillmore,TE,24,78,270,3,Colorado State,Baltimore,TE,OFF,1-4 Yrs
+11,Mike Wallace,WR,29,72,205,8,Ole Miss,Baltimore,WR,OFF,5-8 Yrs
+15,Chris Moore,WR,23,72,203,0,Cincinnati,Baltimore,WR,OFF,Rookie
+89,Steve Smith Sr.,WR,37,69,195,16,Utah,Baltimore,WR,OFF,13+ Yrs
+15,Michael Campanaro,WR,25,69,185,3,Wake Forest,Baltimore,WR,OFF,1-4 Yrs
+81,Kaelin Clay,WR,24,70,195,2,Utah,Baltimore,WR,OFF,1-4 Yrs
+6,Keenan Reynolds,WR,21,71,205,0,Navy,Baltimore,WR,OFF,Rookie
+11,Kamar Aiken,WR,27,74,215,4,UCF,Baltimore,WR,OFF,1-4 Yrs
+17,Jeremy Butler,WR,25,74,213,3,Tennessee-Martin,Baltimore,WR,OFF,1-4 Yrs
+18,Breshad Perriman,WR,22,74,218,2,UCF,Baltimore,WR,OFF,1-4 Yrs
+84,Chris Matthews,WR,26,77,218,3,Kentucky,Baltimore,WR,OFF,1-4 Yrs
+83,Daniel Brown,WR,24,77,225,2,James Madison,Baltimore,WR,OFF,1-4 Yrs
+12,Darren Waller,WR,23,78,245,2,Georgia Tech,Baltimore,WR,OFF,1-4 Yrs
+--,Robert Kugler,C,23,75,294,0,Purdue,Buffalo,OL,OFF,Rookie
+70,Eric Wood,C,30,76,310,8,Louisville,Buffalo,OL,OFF,5-8 Yrs
+44,Sammy Seamster,CB,25,72,205,2,Middle Tennessee,Buffalo,DB,DEF,1-4 Yrs
+37,Nickell Robey,CB,24,68,165,4,USC,Buffalo,DB,DEF,1-4 Yrs
+--,Javier Arenas,CB,28,69,197,5,Alabama,Buffalo,DB,DEF,5-8 Yrs
+--,Sterling Moore,CB,26,70,202,6,SMU,Buffalo,DB,DEF,5-8 Yrs
+28,Ronald Darby,CB,22,71,193,2,Florida State,Buffalo,DB,DEF,1-4 Yrs
+13,Kevon Seymour,CB,22,71,186,0,USC,Buffalo,DB,DEF,Rookie
+39,Mario Butler,CB,27,73,187,3,Georgia Tech,Buffalo,DB,DEF,1-4 Yrs
+--,Corey White,CB,26,73,210,5,Samford,Buffalo,DB,DEF,5-8 Yrs
+24,Stephon Gilmore,CB,25,73,190,5,South Carolina,Buffalo,DB,DEF,5-8 Yrs
+55,Jerry Hughes,DE,27,74,254,7,TCU,Buffalo,Front Seven,DEF,5-8 Yrs
+69,Jerel Worthy,DE,26,74,308,3,Michigan State,Buffalo,Front Seven,DEF,1-4 Yrs
+90,Shaq Lawson,DE,22,75,270,0,Clemson,Buffalo,Front Seven,DEF,Rookie
+--,Leger Douzable,DE,30,76,284,9,UCF,Buffalo,Front Seven,DEF,9-12 Yrs
+93,Lavar Edwards,DE,26,76,275,4,LSU,Buffalo,Front Seven,DEF,1-4 Yrs
+54,Max Valles,DE,21,76,250,1,Virginia,Buffalo,Front Seven,DEF,1-4 Yrs
+91,Manny Lawson,DE,32,77,240,11,NC State,Buffalo,Front Seven,DEF,9-12 Yrs
+56,Cedric Reed,DE,23,77,269,1,Texas,Buffalo,Front Seven,DEF,1-4 Yrs
+95,Bryson Albright,DL,22,77,225,0,Miami (OH),Buffalo,Front Seven,DEF,Rookie
+95,Kyle Williams,DT,33,73,303,11,LSU,Buffalo,Front Seven,DEF,9-12 Yrs
+99,Marcell Dareus,DT,26,75,331,6,Alabama,Buffalo,Front Seven,DEF,5-8 Yrs
+92,Adolphus Washington,DT,23,75,297,0,Ohio State,Buffalo,Front Seven,DEF,Rookie
+--,Justin Zimmer,DT,23,75,292,0,Ferris State,Buffalo,Front Seven,DEF,Rookie
+97,Corbin Bryant,DT,28,76,300,4,Northwestern,Buffalo,Front Seven,DEF,1-4 Yrs
+90,T.J. Barnes,DT,26,79,364,3,Georgia Tech,Buffalo,Front Seven,DEF,1-4 Yrs
+42,Jerome Felton,FB,30,72,248,9,Furman,Buffalo,Tailback,OFF,9-12 Yrs
+48,Glenn Gronkowski,FB,23,74,238,0,Kansas State,Buffalo,Tailback,OFF,Rookie
+76,John Miller,G,22,74,303,2,Louisville,Buffalo,OL,OFF,1-4 Yrs
+64,Richie Incognito,G,33,75,319,10,Nebraska,Buffalo,OL,OFF,9-12 Yrs
+61,Fernando Velasco,G,31,76,310,7,Georgia,Buffalo,OL,OFF,5-8 Yrs
+72,Ryan Groy,G,25,77,320,3,Wisconsin,Buffalo,OL,OFF,1-4 Yrs
+68,Cyril Richardson,G,25,77,343,2,Baylor,Buffalo,OL,OFF,1-4 Yrs
+--,Jamison Lalk,G,23,78,304,0,Iowa State,Buffalo,OL,OFF,Rookie
+--,Eric Striker,LB,22,61,227,0,Oklahoma,Buffalo,Front Seven,DEF,Rookie
+--,Lorenzo Alexander,LB,33,73,245,10,California,Buffalo,Front Seven,DEF,9-12 Yrs
+--,Zach Brown,LB,26,73,248,5,North Carolina,Buffalo,Front Seven,DEF,5-8 Yrs
+51,Kevin Reddick,LB,26,73,240,2,North Carolina,Buffalo,Front Seven,DEF,1-4 Yrs
+75,IK Enemkpali,LB,25,73,261,3,Louisiana Tech,Buffalo,Front Seven,DEF,1-4 Yrs
+52,Preston Brown,LB,23,73,251,3,Louisville,Buffalo,Front Seven,DEF,1-4 Yrs
+19,Reggie Ragland,LB,22,73,247,0,Alabama,Buffalo,Front Seven,DEF,Rookie
+--,Jamari Lattimore,LB,27,74,229,6,Middle Tennessee,Buffalo,Front Seven,DEF,5-8 Yrs
+58,Randell Johnson,LB,25,76,245,3,Florida Atlantic,Buffalo,Front Seven,DEF,1-4 Yrs
+65,Garrison Sanborn,LS,30,73,240,8,Florida State,Buffalo,ST,ST,5-8 Yrs
+--,Reid Ferguson,LS,22,74,244,0,LSU,Buffalo,ST,ST,Rookie
+79,Jordan Mills,OL,25,77,316,4,Louisiana Tech,Buffalo,OL,OFF,1-4 Yrs
+74,Justin Renfrow,OL,26,78,310,1,Miami,Buffalo,OL,OFF,1-4 Yrs
+--,Marquis Lucas,OT,23,75,319,0,West Virginia,Buffalo,OL,OFF,Rookie
+--,Chris Martin,OT,26,77,305,1,UCF,Buffalo,OL,OFF,1-4 Yrs
+77,Cordy Glenn,OT,26,78,345,5,Georgia,Buffalo,OL,OFF,5-8 Yrs
+66,Seantrel Henderson,OT,24,79,331,3,Miami,Buffalo,OL,OFF,1-4 Yrs
+71,Cyrus Kouandjio,OT,23,79,322,3,Alabama,Buffalo,OL,OFF,1-4 Yrs
+6,Colton Schmidt,P,25,71,224,3,UC Davis,Buffalo,ST,ST,1-4 Yrs
+4,Jordan Gay,PK,26,73,200,3,Centre,Buffalo,ST,ST,1-4 Yrs
+2,Dan Carpenter,PK,30,74,228,9,Montana,Buffalo,ST,ST,9-12 Yrs
+--,Marshall Morgan,PK,22,75,201,0,Georgia,Buffalo,ST,ST,Rookie
+5,Tyrod Taylor,QB,26,73,215,6,Virginia Tech,Buffalo,QB,OFF,5-8 Yrs
+3,EJ Manuel,QB,26,76,237,4,Florida State,Buffalo,QB,OFF,1-4 Yrs
+12,Cardale Jones,QB,23,77,250,0,Ohio State,Buffalo,QB,OFF,Rookie
+38,Daniel Herron,RB,27,70,212,4,Ohio State,Buffalo,Tailback,OFF,1-4 Yrs
+32,Jonathan Williams,RB,22,70,219,0,Arkansas,Buffalo,Tailback,OFF,Rookie
+25,LeSean McCoy,RB,28,71,208,8,Pittsburgh,Buffalo,Tailback,OFF,5-8 Yrs
+35,Mike Gillislee,RB,25,71,219,3,Florida,Buffalo,Tailback,OFF,1-4 Yrs
+29,Karlos Williams,RB,23,73,230,2,Florida State,Buffalo,Tailback,OFF,1-4 Yrs
+32,James Wilder Jr.,RB,24,75,232,1,Florida State,Buffalo,Tailback,OFF,1-4 Yrs
+20,Corey Graham,S,30,72,196,10,New Hampshire,Buffalo,DB,DEF,9-12 Yrs
+36,Jonathan Meeks,S,26,72,209,4,Clemson,Buffalo,DB,DEF,1-4 Yrs
+23,Aaron Williams,S,26,72,199,5,Texas,Buffalo,DB,DEF,5-8 Yrs
+--,Colt Anderson,S,30,70,195,7,Montana,Buffalo,DB,DEF,5-8 Yrs
+27,Duke Williams,S,25,71,201,4,Nevada,Buffalo,DB,DEF,1-4 Yrs
+36,Robert Blanton,S,26,73,200,5,Notre Dame,Buffalo,DB,DEF,5-8 Yrs
+31,Jonathan Dowling,S,24,75,190,2,Western Kentucky,Buffalo,DB,DEF,1-4 Yrs
+85,Charles Clay,TE,27,75,255,6,Tulsa,Buffalo,TE,OFF,5-8 Yrs
+89,Chris Gragg,TE,26,75,244,4,Arkansas,Buffalo,TE,OFF,1-4 Yrs
+84,Nick O'Leary,TE,23,75,252,1,Florida State,Buffalo,TE,OFF,1-4 Yrs
+86,Blake Annen,TE,25,76,247,1,Cincinnati,Buffalo,TE,OFF,1-4 Yrs
+--,Jim Dray,TE,29,77,255,7,Stanford,Buffalo,TE,OFF,5-8 Yrs
+10,Robert Woods,WR,24,72,190,4,USC,Buffalo,WR,OFF,1-4 Yrs
+88,Marquise Goodwin,WR,25,69,179,4,Texas,Buffalo,WR,OFF,1-4 Yrs
+16,Walter Powell,WR,24,71,189,2,Murray State,Buffalo,WR,OFF,1-4 Yrs
+14,Sammy Watkins,WR,23,73,211,3,Clemson,Buffalo,WR,OFF,1-4 Yrs
+7,Kolby Listenbee,WR,22,73,183,0,TCU,Buffalo,WR,OFF,Rookie
+81,Marcus Easley,WR,28,74,217,6,Connecticut,Buffalo,WR,OFF,5-8 Yrs
+80,Leonard Hankerson,WR,27,74,211,6,Miami,Buffalo,WR,OFF,5-8 Yrs
+11,Greg Little,WR,27,74,220,6,North Carolina,Buffalo,WR,OFF,5-8 Yrs
+17,Greg Salas,WR,27,74,210,5,Hawaii,Buffalo,WR,OFF,5-8 Yrs
+17,Jarrett Boykin,WR,26,74,218,3,Virginia Tech,Buffalo,WR,OFF,1-4 Yrs
+--,Davonte Allen,WR,23,74,201,0,Marshall,Buffalo,WR,OFF,Rookie
+--,Gary Chambers,WR,23,76,215,0,Arizona State,Buffalo,WR,OFF,Rookie
+13,Dezmin Lewis,WR,23,76,214,1,Central Arkansas,Buffalo,WR,OFF,1-4 Yrs
+67,Ryan Kalil,C,31,74,300,10,USC,Carolina,OL,OFF,9-12 Yrs
+66,Gino Gradkowski,C,27,75,300,5,Delaware,Carolina,OL,OFF,5-8 Yrs
+69,Tyler Larsen,C,25,76,315,0,Utah,Carolina,OL,OFF,Rookie
+25,Bene Benwikere,CB,24,72,195,3,San José State,Carolina,DB,DEF,1-4 Yrs
+27,Robert McClain,CB,28,69,195,6,Connecticut,Carolina,DB,DEF,5-8 Yrs
+15,Zack Sanchez,CB,21,71,185,0,Oklahoma,Carolina,DB,DEF,Rookie
+30,Travell Dixon,CB,25,73,195,0,Washington,Carolina,DB,DEF,Rookie
+22,Lou Young,CB,24,73,205,1,Georgia Tech,Carolina,DB,DEF,1-4 Yrs
+21,James Bradberry,CB,22,73,211,0,Samford,Carolina,DB,DEF,Rookie
+7,Daryl Worley,CB,21,73,204,0,West Virginia,Carolina,DB,DEF,Rookie
+42,Colin Jones,DB,28,72,205,6,TCU,Carolina,DB,DEF,5-8 Yrs
+20,Kurt Coleman,DB,28,71,200,7,Ohio State,Carolina,DB,DEF,5-8 Yrs
+21,Teddy Williams,DB,28,73,210,5,Texas San Antonio,Carolina,DB,DEF,5-8 Yrs
+95,Charles Johnson,DE,30,74,282,10,Georgia,Carolina,Front Seven,DEF,9-12 Yrs
+97,Mario Addison,DE,28,75,260,6,Troy,Carolina,Front Seven,DEF,5-8 Yrs
+77,Rakim Cox,DE,25,76,260,1,Villanova,Carolina,Front Seven,DEF,1-4 Yrs
+91,Ryan Delaire,DE,24,76,254,2,Towson,Carolina,Front Seven,DEF,1-4 Yrs
+94,Kony Ealy,DE,24,76,275,3,Missouri,Carolina,Front Seven,DEF,1-4 Yrs
+96,Wes Horton,DE,26,77,270,4,USC,Carolina,Front Seven,DEF,1-4 Yrs
+75,Larry Webster,DE,26,78,262,2,Bloomsburg,Carolina,Front Seven,DEF,1-4 Yrs
+71,Arthur Miley,DE,23,78,265,2,Southern,Carolina,Front Seven,DEF,1-4 Yrs
+65,Chas Alecxih,DL,27,76,295,1,Pittsburgh,Carolina,Front Seven,DEF,1-4 Yrs
+93,Kyle Love,DT,29,73,315,5,Mississippi State,Carolina,Front Seven,DEF,5-8 Yrs
+98,Star Lotulelei,DT,26,74,320,4,Utah,Carolina,Front Seven,DEF,1-4 Yrs
+72,Eric Crume,DT,22,74,297,1,Syracuse,Carolina,Front Seven,DEF,1-4 Yrs
+99,Kawann Short,DT,27,75,315,4,Purdue,Carolina,Front Seven,DEF,1-4 Yrs
+--,Robert Thomas,DT,25,75,325,1,Arkansas,Carolina,Front Seven,DEF,1-4 Yrs
+9,Vernon Butler,DT,22,75,325,0,Louisiana Tech,Carolina,Front Seven,DEF,Rookie
+96,Paul Soliai,DT,32,76,345,10,Utah,Carolina,Front Seven,DEF,9-12 Yrs
+35,Mike Tolbert,FB,30,69,250,9,Coastal Carolina,Carolina,Tailback,OFF,9-12 Yrs
+33,Tre Boston,FS,24,73,210,3,North Carolina,Carolina,DB,DEF,1-4 Yrs
+29,Dean Marlowe,FS,23,73,205,2,James Madison,Carolina,DB,DEF,1-4 Yrs
+62,Reese Dismukes,G,23,75,296,1,Auburn,Carolina,OL,OFF,1-4 Yrs
+--,Jared Barber,LB,23,72,234,0,West Virginia,Carolina,Front Seven,DEF,Rookie
+54,Shaq Thompson,LB,22,72,230,2,Washington,Carolina,Front Seven,DEF,1-4 Yrs
+58,Thomas Davis,LB,33,73,235,12,Georgia,Carolina,Front Seven,DEF,9-12 Yrs
+56,A.J. Klein,LB,24,73,240,4,Iowa State,Carolina,Front Seven,DEF,1-4 Yrs
+50,Brian Blechen,LB,24,74,225,1,Utah,Carolina,Front Seven,DEF,1-4 Yrs
+55,David Mayo,LB,22,74,240,2,Texas State,Carolina,Front Seven,DEF,1-4 Yrs
+59,Luke Kuechly,LB,25,75,238,5,Boston College,Carolina,Front Seven,DEF,5-8 Yrs
+53,Ben Jacobs,LB,28,76,240,4,Fresno State,Carolina,Front Seven,DEF,1-4 Yrs
+44,J.J. Jansen,LS,30,74,240,9,Notre Dame,Carolina,ST,ST,9-12 Yrs
+70,Trai Turner,OG,23,75,320,3,LSU,Carolina,OL,OFF,1-4 Yrs
+79,Chris Scott,OG,28,76,340,5,Tennessee,Carolina,OL,OFF,5-8 Yrs
+68,Andrew Norwell,OG,24,78,325,3,Ohio State,Carolina,OL,OFF,1-4 Yrs
+64,Matthew Masifilo,OL,26,75,280,4,Stanford,Carolina,OL,OFF,1-4 Yrs
+73,Michael Oher,OT,30,76,315,8,Ole Miss,Carolina,OL,OFF,5-8 Yrs
+78,Donald Hawkins,OT,24,76,305,2,Texas,Carolina,OL,OFF,1-4 Yrs
+--,Jordan Rigsbee,OT,23,76,311,0,California,Carolina,OL,OFF,Rookie
+74,Mike Remmers,OT,27,77,305,4,Oregon State,Carolina,OL,OFF,1-4 Yrs
+60,Daryl Williams,OT,23,77,335,2,Oklahoma,Carolina,OL,OFF,1-4 Yrs
+63,David Foucault,OT,27,80,320,2,null,Carolina,OL,OFF,1-4 Yrs
+--,Mike Scifres,P,35,74,215,14,Western Illinois,Carolina,ST,ST,13+ Yrs
+--,Swayze Waters,PK,29,71,178,1,UAB,Carolina,ST,ST,1-4 Yrs
+9,Graham Gano,PK,29,74,205,7,Florida State,Carolina,ST,ST,5-8 Yrs
+14,Joe Webb,QB,29,76,235,7,UAB,Carolina,QB,OFF,5-8 Yrs
+1,Cam Newton,QB,27,77,245,6,Auburn,Carolina,QB,OFF,5-8 Yrs
+3,Derek Anderson,QB,33,78,230,12,Oregon State,Carolina,QB,OFF,9-12 Yrs
+47,Devon Johnson,RB,22,72,243,0,Marshall,Carolina,Tailback,OFF,Rookie
+--,Jalen Simmons,RB,24,68,205,0,South Carolina State,Carolina,Tailback,OFF,Rookie
+28,Jonathan Stewart,RB,29,70,235,9,Oregon,Carolina,Tailback,OFF,9-12 Yrs
+43,Fozzy Whittaker,RB,27,70,205,4,Texas,Carolina,Tailback,OFF,1-4 Yrs
+34,Cameron Artis-Payne,RB,26,70,220,2,Auburn,Carolina,Tailback,OFF,1-4 Yrs
+32,Brandon Wegher,RB,25,70,215,2,Morningside,Carolina,Tailback,OFF,1-4 Yrs
+--,Trenton Robinson,S,26,69,195,5,Michigan State,Carolina,DB,DEF,5-8 Yrs
+36,Marcus Ball,S,29,73,209,2,Memphis,Carolina,DB,DEF,1-4 Yrs
+41,Roman Harper,SS,33,73,205,11,Alabama,Carolina,DB,DEF,9-12 Yrs
+84,Ed Dickson,TE,28,76,255,7,Oregon,Carolina,TE,OFF,5-8 Yrs
+85,Beau Sandland,TE,23,76,253,0,Montana State,Carolina,TE,OFF,Rookie
+88,Greg Olsen,TE,31,77,253,10,Miami,Carolina,TE,OFF,9-12 Yrs
+--,Braxton Deaver,TE,24,77,240,0,Duke,Carolina,TE,OFF,Rookie
+80,Scott Simonson,TE,24,77,250,2,Assumption,Carolina,TE,OFF,1-4 Yrs
+18,Damiere Byrd,WR,23,69,175,1,South Carolina,Carolina,WR,OFF,1-4 Yrs
+--,Miles Shuler,WR,22,70,174,0,Northwestern,Carolina,WR,OFF,Rookie
+19,Ted Ginn Jr.,WR,31,71,185,10,Ohio State,Carolina,WR,OFF,9-12 Yrs
+10,Corey Brown,WR,24,71,185,3,Ohio State,Carolina,WR,OFF,1-4 Yrs
+81,Kevin Norwood,WR,26,74,200,3,Alabama,Carolina,WR,OFF,1-4 Yrs
+83,Cobi Hamilton,WR,25,74,197,1,Arkansas,Carolina,WR,OFF,1-4 Yrs
+11,Brenton Bersin,WR,26,75,210,3,Wofford,Carolina,WR,OFF,1-4 Yrs
+1,Keyarris Garrett,WR,23,75,212,0,Tulsa,Carolina,WR,OFF,Rookie
+87,Stephen Hill,WR,25,76,215,4,Georgia Tech,Carolina,WR,OFF,1-4 Yrs
+17,Devin Funchess,WR,22,76,225,2,Michigan,Carolina,WR,OFF,1-4 Yrs
+13,Kelvin Benjamin,WR,25,77,245,3,Florida State,Carolina,WR,OFF,1-4 Yrs
+62,Ted Larsen,C,29,74,305,7,NC State,Chicago,OL,OFF,5-8 Yrs
+55,Hroniss Grasu,C,24,75,300,2,Oregon,Chicago,OL,OFF,1-4 Yrs
+60,Cornelius Edison,C,23,75,307,1,Portland State,Chicago,OL,OFF,1-4 Yrs
+39,Jacoby Glenn,CB,22,72,179,2,UCF,Chicago,DB,DEF,1-4 Yrs
+37,Bryce Callahan,CB,24,69,183,2,Rice,Chicago,DB,DEF,1-4 Yrs
+--,Kevin Peterson,CB,22,70,181,0,Oklahoma State,Chicago,DB,DEF,Rookie
+21,Tracy Porter,CB,29,71,190,9,Indiana,Chicago,DB,DEF,9-12 Yrs
+23,Kyle Fuller,CB,24,71,190,3,Virginia Tech,Chicago,DB,DEF,1-4 Yrs
+27,Sherrick McManis,CB,28,73,197,7,Northwestern,Chicago,DB,DEF,5-8 Yrs
+20,De'Vante Bausby,CB,23,73,177,1,Pittsburg State,Chicago,DB,DEF,1-4 Yrs
+--,Taveze Calhoun,DB,23,72,192,0,Mississippi State,Chicago,DB,DEF,Rookie
+90,Jonathan Bullard,DE,22,74,283,0,Florida,Chicago,Front Seven,DEF,Rookie
+90,Greg Scruggs,DE,25,75,310,4,Louisville,Chicago,Front Seven,DEF,1-4 Yrs
+79,Terry Williams,DL,24,72,329,1,East Carolina,Chicago,Front Seven,DEF,1-4 Yrs
+95,Ego Ferguson,DL,24,74,300,3,LSU,Chicago,Front Seven,DEF,1-4 Yrs
+91,Eddie Goldman,DL,22,75,332,2,Florida State,Chicago,Front Seven,DEF,1-4 Yrs
+98,Mitch Unrein,DL,29,76,306,6,Wyoming,Chicago,Front Seven,DEF,5-8 Yrs
+67,Keith Browner,DL,28,76,288,1,California,Chicago,Front Seven,DEF,1-4 Yrs
+--,Marquis Jackson,DL,26,76,280,0,Portland State,Chicago,Front Seven,DEF,Rookie
+94,Cornelius Washington,DL,26,76,285,4,Georgia,Chicago,Front Seven,DEF,1-4 Yrs
+43,Roy Robertson-Harris,DL,22,79,255,0,UTEP,Chicago,Front Seven,DEF,Rookie
+93,Will Sutton,DT,24,72,303,3,Arizona State,Chicago,Front Seven,DEF,1-4 Yrs
+96,Akiem Hicks,DT,26,77,324,5,University of Regina,Chicago,Front Seven,DEF,5-8 Yrs
+55,Cody Whitehair,G,24,75,300,0,Kansas State,Chicago,OL,OFF,Rookie
+62,Vladimir Ducasse,G,28,77,325,7,Massachusetts,Chicago,OL,OFF,5-8 Yrs
+50,Jerrell Freeman,LB,30,72,240,5,Mary Hardin-Baylor,Chicago,Front Seven,DEF,5-8 Yrs
+53,John Timu,LB,23,72,247,2,Washington,Chicago,Front Seven,DEF,1-4 Yrs
+59,Danny Trevathan,LB,26,73,240,5,Kentucky,Chicago,Front Seven,DEF,5-8 Yrs
+57,Lamin Barrow,LB,25,73,237,3,LSU,Chicago,Front Seven,DEF,1-4 Yrs
+58,Jonathan Anderson,LB,24,73,231,2,TCU,Chicago,Front Seven,DEF,1-4 Yrs
+59,Jarrett Grace,LB,23,74,254,0,Notre Dame,Chicago,Front Seven,DEF,Rookie
+35,Nick Kwiatkoski,LB,23,74,243,0,West Virginia,Chicago,Front Seven,DEF,Rookie
+99,Lamarr Houston,LB,29,75,270,7,Texas,Chicago,Front Seven,DEF,5-8 Yrs
+49,Sam Acho,LB,27,75,257,6,Texas,Chicago,Front Seven,DEF,5-8 Yrs
+92,Pernell McPhee,LB,27,75,275,6,Mississippi State,Chicago,Front Seven,DEF,5-8 Yrs
+52,Christian Jones,LB,25,75,248,3,Florida State,Chicago,Front Seven,DEF,1-4 Yrs
+97,Willie Young,LB,30,76,251,7,NC State,Chicago,Front Seven,DEF,5-8 Yrs
+84,Leonard Floyd,LB,23,78,244,0,Georgia,Chicago,Front Seven,DEF,Rookie
+48,Patrick Scales,LS,28,76,244,1,Utah State,Chicago,ST,ST,1-4 Yrs
+46,Aaron Brewer,LS,26,77,230,5,San Diego State,Chicago,ST,ST,5-8 Yrs
+--,Donovan Williams,OL,22,75,315,0,Louisiana Lafayette,Chicago,OL,OFF,Rookie
+--,Amini Silatolu,OL,27,76,320,5,Midwestern State,Chicago,OL,OFF,5-8 Yrs
+--,John Kling,OL,23,79,313,0,Buffalo,Chicago,OL,OFF,Rookie
+72,Charles Leno,OT,24,75,302,3,Boise State,Chicago,OL,OFF,1-4 Yrs
+--,Nate Chandler,OT,27,76,315,5,UCLA,Chicago,OL,OFF,5-8 Yrs
+78,Jason Weaver,OT,27,77,305,2,Southern Mississippi,Chicago,OL,OFF,1-4 Yrs
+64,Adrian Bellard,OT,21,77,344,0,Texas State,Chicago,OL,OFF,Rookie
+75,Kyle Long,OT,27,78,328,4,Oregon,Chicago,OL,OFF,1-4 Yrs
+71,Nick Becton,OT,26,78,323,4,Virginia Tech,Chicago,OL,OFF,1-4 Yrs
+70,Bobby Massie,OT,26,78,316,5,Ole Miss,Chicago,OL,OFF,5-8 Yrs
+64,Martin Wallace,OT,26,78,330,2,Temple,Chicago,OL,OFF,1-4 Yrs
+--,Ben LeCompte,P,23,70,196,0,North Dakota State,Chicago,ST,ST,Rookie
+16,Pat O'Donnell,P,25,76,220,3,Miami,Chicago,ST,ST,1-4 Yrs
+9,Robbie Gould,PK,34,72,185,12,Penn State,Chicago,ST,ST,9-12 Yrs
+12,David Fales,QB,25,73,219,2,San José State,Chicago,QB,OFF,1-4 Yrs
+--,Brian Hoyer,QB,30,74,215,8,Michigan State,Chicago,QB,OFF,5-8 Yrs
+6,Jay Cutler,QB,33,75,220,11,Vanderbilt,Chicago,QB,OFF,9-12 Yrs
+33,Jeremy Langford,RB,24,72,208,2,Michigan State,Chicago,Tailback,OFF,1-4 Yrs
+32,Senorise Perry,RB,24,72,187,3,Louisville,Chicago,Tailback,OFF,1-4 Yrs
+35,Jacquizz Rodgers,RB,26,66,199,6,Oregon State,Chicago,Tailback,OFF,5-8 Yrs
+25,Ka'Deem Carey,RB,23,70,210,3,Arizona,Chicago,Tailback,OFF,1-4 Yrs
+47,Paul Lasike,RB,26,71,232,1,BYU,Chicago,Tailback,OFF,1-4 Yrs
+8,Jordan Howard,RB,21,73,230,0,Indiana,Chicago,Tailback,OFF,Rookie
+38,Adrian Amos,S,23,72,218,2,Penn State,Chicago,DB,DEF,1-4 Yrs
+2,Deon Bush,S,22,72,199,0,Miami,Chicago,DB,DEF,Rookie
+30,Demontre Hurst,S,25,70,183,3,Oklahoma,Chicago,DB,DEF,1-4 Yrs
+29,Harold Jones-Quartey,S,22,71,215,2,Findlay,Chicago,DB,DEF,1-4 Yrs
+31,Chris Prosinski,S,29,73,208,6,Wyoming,Chicago,DB,DEF,5-8 Yrs
+36,DeAndre Houston-Carson,S,23,73,201,0,William & Mary,Chicago,DB,DEF,Rookie
+1,Deiondre' Hall,S,22,74,199,0,Northern Iowa,Chicago,DB,DEF,Rookie
+--,Tony Moeaki,TE,29,75,252,7,Iowa,Chicago,TE,OFF,5-8 Yrs
+82,Khari Lee,TE,24,76,235,2,Bowie State Bulldogs,Chicago,TE,OFF,1-4 Yrs
+--,Ben Braunecker,TE,22,76,240,0,Harvard,Chicago,TE,OFF,Rookie
+86,Zach Miller,TE,31,77,240,7,Nebraska-Omaha,Chicago,TE,OFF,5-8 Yrs
+88,Rob Housler,TE,28,77,250,6,Florida Atlantic,Chicago,TE,OFF,5-8 Yrs
+84,Gannon Sinclair,TE,23,78,256,1,Missouri State,Chicago,TE,OFF,1-4 Yrs
+11,Joshua Bellamy,WR,27,72,208,2,Louisville,Chicago,WR,OFF,1-4 Yrs
+14,Deonte Thompson,WR,27,72,203,5,Florida,Chicago,WR,OFF,5-8 Yrs
+19,Eddie Royal,WR,30,70,185,9,Virginia Tech,Chicago,WR,OFF,9-12 Yrs
+8,Daniel Braverman,WR,22,70,177,0,Western Michigan,Chicago,WR,OFF,Rookie
+--,Derek Keaton,WR,22,70,180,0,Georgia Southern,Chicago,WR,OFF,Rookie
+--,Kieren Duncan,WR,22,71,170,0,Colorado State-Pueblo,Chicago,WR,OFF,Rookie
+80,Marc Mariani,WR,29,73,187,7,Montana,Chicago,WR,OFF,5-8 Yrs
+13,Darrin Peterson,WR,22,74,190,0,Liberty,Chicago,WR,OFF,Rookie
+17,Alshon Jeffery,WR,26,75,216,5,South Carolina,Chicago,WR,OFF,5-8 Yrs
+13,Kevin White,WR,24,75,215,2,West Virginia,Chicago,WR,OFF,1-4 Yrs
+81,Cameron Meredith,WR,23,75,207,2,Illinois State,Chicago,WR,OFF,1-4 Yrs
+10,Marquess Wilson,WR,23,76,199,4,Washington State,Chicago,WR,OFF,1-4 Yrs
+61,Russell Bodine,C,24,75,308,3,North Carolina,Cincinnati,OL,OFF,1-4 Yrs
+60,T.J. Johnson,C,26,76,300,3,South Carolina,Cincinnati,OL,OFF,1-4 Yrs
+46,Clark Harris,C,32,77,250,8,Rutgers,Cincinnati,OL,OFF,5-8 Yrs
+3,William Jackson III,CB,23,72,189,0,Houston,Cincinnati,DB,DEF,Rookie
+24,Adam Jones,CB,32,70,180,10,West Virginia,Cincinnati,DB,DEF,9-12 Yrs
+37,Chris Lewis-Harris,CB,27,70,186,4,Chattanooga,Cincinnati,DB,DEF,1-4 Yrs
+23,Chykie Brown,CB,29,71,190,4,Texas,Cincinnati,DB,DEF,1-4 Yrs
+21,Darqueze Dennard,CB,24,71,197,3,Michigan State,Cincinnati,DB,DEF,1-4 Yrs
+--,Darius Hillary,CB,23,71,187,0,Wisconsin,Cincinnati,DB,DEF,Rookie
+26,Josh Shaw,CB,24,73,201,2,USC,Cincinnati,DB,DEF,1-4 Yrs
+27,Dre Kirkpatrick,CB,26,74,190,5,Alabama,Cincinnati,DB,DEF,5-8 Yrs
+96,Carlos Dunlap,DE,27,78,280,7,Florida,Cincinnati,Front Seven,DEF,5-8 Yrs
+93,Will Clarke,DE,25,78,291,3,West Virginia,Cincinnati,Front Seven,DEF,1-4 Yrs
+--,Ryan Brown,DE,22,78,266,0,Mississippi State,Cincinnati,Front Seven,DEF,Rookie
+90,Michael Johnson,DE,29,79,280,8,Georgia Tech,Cincinnati,Front Seven,DEF,5-8 Yrs
+99,Margus Hunt,DE,29,80,290,4,SMU,Cincinnati,Front Seven,DEF,1-4 Yrs
+97,Geno Atkins,DT,28,73,300,7,Georgia,Cincinnati,Front Seven,DEF,5-8 Yrs
+55,David Dean,DT,23,73,290,0,Virginia,Cincinnati,Front Seven,DEF,Rookie
+69,DeShawn Williams,DT,23,73,295,1,Clemson,Cincinnati,Front Seven,DEF,1-4 Yrs
+92,Pat Sims,DT,30,74,340,9,Auburn,Cincinnati,Front Seven,DEF,9-12 Yrs
+98,Brandon Thompson,DT,26,74,305,5,Clemson,Cincinnati,Front Seven,DEF,5-8 Yrs
+75,Andrew Billings,DT,21,74,310,0,Baylor,Cincinnati,Front Seven,DEF,Rookie
+94,Domata Peko,DT,31,75,325,11,Michigan State,Cincinnati,Front Seven,DEF,9-12 Yrs
+91,Marcus Hardison,DT,24,75,315,2,Arizona State,Cincinnati,Front Seven,DEF,1-4 Yrs
+46,Andrew Bonnet,FB,23,75,245,0,North Dakota State,Cincinnati,Tailback,OFF,Rookie
+40,Derron Smith,FS,24,70,200,2,Fresno State,Cincinnati,DB,DEF,1-4 Yrs
+66,Trey Hopkins,G,24,75,310,2,Texas,Cincinnati,OL,OFF,1-4 Yrs
+55,Christian Westerman,G,23,75,296,0,Arizona State,Cincinnati,OL,OFF,Rookie
+--,Trip Thurman,G,--,77,315,0,Florida,Cincinnati,OL,OFF,Rookie
+57,Vincent Rey,LB,28,72,255,6,Duke,Cincinnati,Front Seven,DEF,5-8 Yrs
+47,P.J. Dawson,LB,23,72,240,2,TCU,Cincinnati,Front Seven,DEF,1-4 Yrs
+--,Darien Harris,LB,23,72,220,0,Michigan State,Cincinnati,Front Seven,DEF,Rookie
+55,Vontaze Burfict,LB,25,73,248,5,Arizona State,Cincinnati,Front Seven,DEF,5-8 Yrs
+51,Jayson DiManche,LB,25,73,244,3,Southern Illinois,Cincinnati,Front Seven,DEF,1-4 Yrs
+1,Jeff Luc,LB,24,73,255,1,Cincinnati,Cincinnati,Front Seven,DEF,1-4 Yrs
+58,Rey Maualuga,LB,29,74,255,8,USC,Cincinnati,Front Seven,DEF,5-8 Yrs
+52,Trevor Roach,LB,24,74,237,1,Nebraska,Cincinnati,Front Seven,DEF,1-4 Yrs
+41,Nick Vigil,LB,22,74,239,0,Utah State,Cincinnati,Front Seven,DEF,Rookie
+--,Karlos Dansby,LB,34,75,251,13,Auburn,Cincinnati,Front Seven,DEF,13+ Yrs
+53,Marquis Flowers,LB,24,75,240,3,Arizona,Cincinnati,Front Seven,DEF,1-4 Yrs
+--,Dezmond Johnson,LB,24,75,245,0,Duke,Cincinnati,Front Seven,DEF,Rookie
+68,Kevin Zeitler,OG,26,76,315,5,Wisconsin,Cincinnati,OL,OFF,5-8 Yrs
+65,Clint Boling,OG,27,77,305,6,Georgia,Cincinnati,OL,OFF,5-8 Yrs
+--,Alex Cooper,OL,24,76,305,0,Houston,Cincinnati,OL,OFF,Rookie
+--,John Weidenaar,OL,23,79,302,0,Montana State,Cincinnati,OL,OFF,Rookie
+70,Cedric Ogbuehi,OT,24,77,306,2,Texas A&M,Cincinnati,OL,OFF,1-4 Yrs
+74,Jake Fisher,OT,22,78,306,2,Oregon,Cincinnati,OL,OFF,1-4 Yrs
+77,Andrew Whitworth,OT,34,79,330,11,LSU,Cincinnati,OL,OFF,9-12 Yrs
+73,Eric Winston,OT,32,79,302,10,Miami,Cincinnati,OL,OFF,9-12 Yrs
+--,Aaron Epps,OT,23,79,287,0,Louisville,Cincinnati,OL,OFF,Rookie
+10,Kevin Huber,P,31,73,214,8,Cincinnati,Cincinnati,ST,ST,5-8 Yrs
+--,Zach Hocker,PK,24,72,191,2,Arkansas,Cincinnati,ST,ST,1-4 Yrs
+2,Mike Nugent,PK,34,70,190,12,Ohio State,Cincinnati,ST,ST,9-12 Yrs
+--,Jon Brown,PK,23,70,202,0,Louisville,Cincinnati,ST,ST,Rookie
+14,Andy Dalton,QB,28,74,216,6,TCU,Cincinnati,QB,OFF,5-8 Yrs
+3,Keith Wenning,QB,25,74,223,1,Ball State,Cincinnati,QB,OFF,1-4 Yrs
+--,Joe Licata,QB,23,74,210,0,Buffalo,Cincinnati,QB,OFF,Rookie
+5,AJ McCarron,QB,25,75,210,2,Alabama,Cincinnati,QB,OFF,1-4 Yrs
+--,Tra Carson,RB,23,72,231,0,Texas A&M,Cincinnati,Tailback,OFF,Rookie
+7,Dy'Shawn Mobley,RB,22,72,225,0,Eastern Kentucky,Cincinnati,Tailback,OFF,Rookie
+25,Giovani Bernard,RB,24,69,205,4,North Carolina,Cincinnati,Tailback,OFF,1-4 Yrs
+30,Cedric Peerman,RB,29,70,212,7,Virginia,Cincinnati,Tailback,OFF,5-8 Yrs
+33,Rex Burkhead,RB,26,70,210,4,Nebraska,Cincinnati,Tailback,OFF,1-4 Yrs
+--,Bronson Hill,RB,23,70,215,1,Eastern Michigan,Cincinnati,Tailback,OFF,1-4 Yrs
+32,Jeremy Hill,RB,23,73,235,3,LSU,Cincinnati,Tailback,OFF,1-4 Yrs
+41,Floyd Raven,S,23,72,202,1,Texas A&M,Cincinnati,DB,DEF,1-4 Yrs
+20,Clayton Fejedelem,S,23,73,200,0,Illinois,Cincinnati,DB,DEF,Rookie
+20,Taylor Mays,S,28,75,225,7,USC,Cincinnati,DB,DEF,5-8 Yrs
+36,Shawn Williams,SS,25,72,210,4,Georgia,Cincinnati,DB,DEF,1-4 Yrs
+43,George Iloka,SS,26,76,225,5,Boise State,Cincinnati,DB,DEF,5-8 Yrs
+89,Ryan Hewitt,TE,25,76,254,3,Stanford,Cincinnati,TE,OFF,1-4 Yrs
+81,Tyler Kroft,TE,23,77,246,2,Rutgers,Cincinnati,TE,OFF,1-4 Yrs
+87,C.J. Uzomah,TE,23,77,271,2,Auburn,Cincinnati,TE,OFF,1-4 Yrs
+85,Tyler Eifert,TE,25,78,250,4,Notre Dame,Cincinnati,TE,OFF,1-4 Yrs
+88,Matt Lengel,TE,25,80,272,1,Eastern Kentucky,Cincinnati,TE,OFF,1-4 Yrs
+48,John Peters,TE,24,80,230,0,Mount St. Joseph,Cincinnati,TE,OFF,Rookie
+--,Alex Erickson,WR,23,72,198,0,Wisconsin,Cincinnati,WR,OFF,Rookie
+15,Mario Alford,WR,24,68,180,2,West Virginia,Cincinnati,WR,OFF,1-4 Yrs
+19,Brandon Tate,WR,28,73,195,8,North Carolina,Cincinnati,WR,OFF,5-8 Yrs
+86,James Wright,WR,24,73,201,3,LSU,Cincinnati,WR,OFF,1-4 Yrs
+--,Antwane Grant,WR,23,73,205,0,Western Kentucky,Cincinnati,WR,OFF,Rookie
+88,Cody Core,WR,22,74,196,0,Ole Miss,Cincinnati,WR,OFF,Rookie
+23,Tyler Boyd,WR,21,74,200,0,Pittsburgh,Cincinnati,WR,OFF,Rookie
+11,Brandon LaFell,WR,29,75,210,7,LSU,Cincinnati,WR,OFF,5-8 Yrs
+80,Michael Bennett,WR,24,75,202,1,Georgia,Cincinnati,WR,OFF,1-4 Yrs
+18,A.J. Green,WR,27,76,207,6,Georgia,Cincinnati,WR,OFF,5-8 Yrs
+--,Alonzo Russell,WR,23,76,201,0,Toledo,Cincinnati,WR,OFF,Rookie
+84,Jake Kumerow,WR,24,77,195,1,UW-Whitewater,Cincinnati,WR,OFF,1-4 Yrs
+47,Charley Hughlett,C,26,76,248,2,UCF,Cleveland,OL,OFF,1-4 Yrs
+33,Jordan Poyer,CB,25,72,191,4,Oregon State,Cleveland,DB,DEF,1-4 Yrs
+21,Justin Gilbert,CB,24,72,202,3,Oklahoma State,Cleveland,DB,DEF,1-4 Yrs
+24,Trey Caldwell,CB,22,69,186,0,Louisiana Monroe,Cleveland,DB,DEF,Rookie
+--,Jamar Taylor,CB,25,70,195,4,Boise State,Cleveland,DB,DEF,1-4 Yrs
+--,Eric Patterson,CB,23,70,193,2,Ball State,Cleveland,DB,DEF,1-4 Yrs
+26,Pierre Desir,CB,25,74,206,3,Lindenwood,Cleveland,DB,DEF,1-4 Yrs
+22,Tramon Williams,DB,33,72,192,10,Louisiana Tech,Cleveland,DB,DEF,9-12 Yrs
+40,Sean Baker,DB,27,72,209,2,Ball State,Cleveland,DB,DEF,1-4 Yrs
+36,K'Waun Williams,DB,25,69,183,3,Pittsburgh,Cleveland,DB,DEF,1-4 Yrs
+43,Charles Gaines,DB,23,70,180,2,Louisville,Cleveland,DB,DEF,1-4 Yrs
+1,A.J. Stamps,DB,--,71,193,0,Kentucky,Cleveland,DB,DEF,Rookie
+23,Joe Haden,DB,27,71,195,7,Florida,Cleveland,DB,DEF,5-8 Yrs
+2,Mikell Everette,DB,23,71,185,0,Sam Houston State,Cleveland,DB,DEF,Rookie
+37,Tim Scott,DB,23,71,195,1,North Carolina,Cleveland,DB,DEF,1-4 Yrs
+3,Tracy Howard,DB,22,71,185,0,Miami,Cleveland,DB,DEF,Rookie
+93,John Hughes III,DE,28,74,320,5,Cincinnati,Cleveland,Front Seven,DEF,5-8 Yrs
+38,Emmanuel Ogbah,DE,22,76,275,0,Oklahoma State,Cleveland,Front Seven,DEF,Rookie
+92,Desmond Bryant,DE,30,78,310,8,Harvard,Cleveland,Front Seven,DEF,5-8 Yrs
+95,Carl Nassib,DE,23,78,273,0,Penn State,Cleveland,Front Seven,DEF,Rookie
+99,Nile Lawrence-Stample,DL,24,73,326,0,Florida State,Cleveland,Front Seven,DEF,Rookie
+97,Dylan Wynn,DL,23,74,283,1,Oregon State,Cleveland,Front Seven,DEF,1-4 Yrs
+55,Danny Shelton,DL,22,74,339,2,Washington,Cleveland,Front Seven,DEF,1-4 Yrs
+98,Jamie Meder,DL,25,75,295,2,Ashland,Cleveland,Front Seven,DEF,1-4 Yrs
+93,Kyle Rose,DL,23,76,282,0,West Virginia,Cleveland,Front Seven,DEF,Rookie
+--,Nick Hayden,DT,30,76,301,0,Wisconsin,Cleveland,Front Seven,DEF,Rookie
+96,Xavier Cooper,DT,24,76,300,2,Washington State,Cleveland,Front Seven,DEF,1-4 Yrs
+24,Patrick Skov,FB,24,73,235,0,Georgia Tech,Cleveland,Tailback,OFF,Rookie
+42,Malcolm Johnson,FB,23,73,231,2,Mississippi State,Cleveland,Tailback,OFF,1-4 Yrs
+1,Dominique Alexander,LB,21,72,232,0,Oklahoma,Cleveland,Front Seven,DEF,Rookie
+33,Scooby Wright III,LB,21,72,239,0,Arizona,Cleveland,Front Seven,DEF,Rookie
+58,Joe Schobert,LB,22,73,244,0,Wisconsin,Cleveland,Front Seven,DEF,Rookie
+59,Tank Carder,LB,27,74,235,5,TCU,Cleveland,Front Seven,DEF,5-8 Yrs
+56,Demario Davis,LB,27,74,239,5,Arkansas State,Cleveland,Front Seven,DEF,5-8 Yrs
+58,Christian Kirksey,LB,23,74,235,3,Iowa,Cleveland,Front Seven,DEF,1-4 Yrs
+57,Cam Johnson,LB,26,75,260,3,Virginia,Cleveland,Front Seven,DEF,1-4 Yrs
+52,Justin Tuggle,LB,26,75,249,4,Kansas State,Cleveland,Front Seven,DEF,1-4 Yrs
+91,Jackson Jeffcoat,LB,25,75,253,3,Texas,Cleveland,Front Seven,DEF,1-4 Yrs
+44,Nate Orchard,LB,23,75,255,2,Utah,Cleveland,Front Seven,DEF,1-4 Yrs
+99,Paul Kruger,LB,30,76,270,8,Utah,Cleveland,Front Seven,DEF,5-8 Yrs
+95,Armonty Bryant,LB,26,76,265,4,East Central,Cleveland,Front Seven,DEF,1-4 Yrs
+51,Barkevious Mingo,LB,25,76,240,4,LSU,Cleveland,Front Seven,DEF,1-4 Yrs
+62,Garth Gerhart,OL,27,73,310,2,Arizona State,Cleveland,OL,OFF,1-4 Yrs
+56,Mike Matthews,OL,22,74,284,0,Texas A&M,Cleveland,OL,OFF,Rookie
+78,Alvin Bailey,OL,24,75,320,4,Arkansas,Cleveland,OL,OFF,1-4 Yrs
+77,John Greco,OL,31,76,318,9,Toledo,Cleveland,OL,OFF,9-12 Yrs
+75,Joel Bitonio,OL,24,76,305,3,Nevada,Cleveland,OL,OFF,1-4 Yrs
+68,Conor Boffeli,OL,24,76,304,1,Iowa,Cleveland,OL,OFF,1-4 Yrs
+65,Kaleb Johnson,OL,23,76,316,1,Rutgers,Cleveland,OL,OFF,1-4 Yrs
+79,Dan France,OL,25,77,315,1,Michigan State,Cleveland,OL,OFF,1-4 Yrs
+61,Michael Bowie,OL,24,77,320,4,Northeastern State,Cleveland,OL,OFF,1-4 Yrs
+72,Shon Coleman,OL,24,78,313,0,Auburn,Cleveland,OL,OFF,Rookie
+69,Erle Ladson,OL,24,78,346,1,Delaware,Cleveland,OL,OFF,1-4 Yrs
+67,Austin Pasztor,OL,25,79,308,4,Virginia,Cleveland,OL,OFF,1-4 Yrs
+74,Cameron Erving,OT,23,77,313,2,Florida State,Cleveland,OL,OFF,1-4 Yrs
+73,Joe Thomas,OT,31,78,312,10,Wisconsin,Cleveland,OL,OFF,9-12 Yrs
+58,Spencer Drango,OT,23,78,320,0,Baylor,Cleveland,OL,OFF,Rookie
+8,Andy Lee,P,33,73,185,13,Pittsburgh,Cleveland,ST,ST,13+ Yrs
+--,Patrick Murray,PK,25,67,182,3,Fordham,Cleveland,ST,ST,1-4 Yrs
+6,Travis Coons,PK,24,73,200,2,Washington,Cleveland,ST,ST,1-4 Yrs
+6,Cody Kessler,QB,23,73,224,0,USC,Cleveland,QB,OFF,Rookie
+7,Austin Davis,QB,27,74,221,5,Southern Mississippi,Cleveland,QB,OFF,5-8 Yrs
+10,Robert Griffin,QB,26,74,222,5,Baylor,Cleveland,QB,OFF,5-8 Yrs
+13,Josh McCown,QB,37,76,218,14,Sam Houston State,Cleveland,QB,OFF,13+ Yrs
+29,Duke Johnson Jr.,RB,22,69,210,2,Miami,Cleveland,Tailback,OFF,1-4 Yrs
+25,Raheem Mostert,RB,24,70,195,2,Purdue,Cleveland,Tailback,OFF,1-4 Yrs
+34,Isaiah Crowell,RB,23,71,225,3,Alabama State,Cleveland,Tailback,OFF,1-4 Yrs
+38,Terrell Watson,RB,22,73,242,1,Azusa Pacific,Cleveland,Tailback,OFF,1-4 Yrs
+28,Glenn Winston,RB,27,74,220,3,Northwood (MI),Cleveland,Tailback,OFF,1-4 Yrs
+26,Derrick Kindred,S,22,70,207,0,TCU,Cleveland,DB,DEF,Rookie
+35,Don Jones,S,26,71,205,4,Arkansas State,Cleveland,DB,DEF,1-4 Yrs
+20,Rahim Moore,S,26,73,195,6,UCLA,Cleveland,DB,DEF,5-8 Yrs
+88,E.J. Bibbs,TE,24,74,258,2,Iowa State,Cleveland,TE,OFF,1-4 Yrs
+86,Randall Telfer,TE,24,76,250,1,USC,Cleveland,TE,OFF,1-4 Yrs
+86,J.P. Holtz,TE,22,76,245,0,Pittsburgh,Cleveland,TE,OFF,Rookie
+82,Gary Barnidge,TE,30,78,250,9,Louisville,Cleveland,TE,OFF,9-12 Yrs
+89,Connor Hamlett,TE,24,79,266,1,Oregon State,Cleveland,TE,OFF,1-4 Yrs
+15,Marlon Moore,WR,28,72,190,7,Fresno State,Cleveland,WR,OFF,5-8 Yrs
+16,Andrew Hawkins,WR,30,67,180,6,Toledo,Cleveland,WR,OFF,5-8 Yrs
+18,Taylor Gabriel,WR,25,68,167,3,Abilene Christian,Cleveland,WR,OFF,1-4 Yrs
+17,Darius Jennings,WR,24,70,169,1,Virginia,Cleveland,WR,OFF,1-4 Yrs
+1,Corey Coleman,WR,22,71,190,0,Baylor,Cleveland,WR,OFF,Rookie
+85,Rannell Hall,WR,24,73,200,1,UCF,Cleveland,WR,OFF,1-4 Yrs
+5,Ricardo Louis,WR,22,73,214,0,Auburn,Cleveland,WR,OFF,Rookie
+9,Jordan Payton,WR,22,73,216,0,UCLA,Cleveland,WR,OFF,Rookie
+82,Rashard Higgins,WR,21,74,190,0,Colorado State,Cleveland,WR,OFF,Rookie
+--,Dennis Parks,WR,21,74,200,0,Rice,Cleveland,WR,OFF,Rookie
+12,Josh Gordon,WR,25,75,225,3,Utah,Cleveland,WR,OFF,1-4 Yrs
+11,Terrelle Pryor,WR,27,76,233,4,Ohio State,Cleveland,WR,OFF,1-4 Yrs
+87,Seth DeValve,WR,23,76,245,0,Princeton,Cleveland,WR,OFF,Rookie
+75,Joe Looney,C,25,75,315,5,Wake Forest,Dallas,OL,OFF,5-8 Yrs
+72,Travis Frederick,C,25,76,315,4,Wisconsin,Dallas,OL,OFF,1-4 Yrs
+39,Brandon Carr,CB,30,72,210,9,Grand Valley State,Dallas,DB,DEF,9-12 Yrs
+--,Isaiah Frey,CB,26,72,190,3,Nevada,Dallas,DB,DEF,1-4 Yrs
+31,Byron Jones,CB,23,72,205,2,Connecticut,Dallas,DB,DEF,1-4 Yrs
+7,Jeremiah McKinnon,CB,23,72,185,0,Florida Intl,Dallas,DB,DEF,Rookie
+32,Orlando Scandrick,CB,29,70,195,9,Boise State,Dallas,DB,DEF,9-12 Yrs
+26,Josh Thomas,CB,27,71,185,6,Buffalo,Dallas,DB,DEF,5-8 Yrs
+24,Morris Claiborne,CB,26,71,192,5,LSU,Dallas,DB,DEF,5-8 Yrs
+9,Anthony Brown,CB,22,71,192,0,Purdue,Dallas,DB,DEF,Rookie
+36,Arjen Colquhoun,CB,23,73,192,0,Michigan State,Dallas,DB,DEF,Rookie
+--,Daxton Swanson,DB,25,71,191,1,Sam Houston State,Dallas,DB,DEF,1-4 Yrs
+29,Deji Olatoye,DB,25,73,194,2,North Carolina A&T,Dallas,DB,DEF,1-4 Yrs
+91,Charles Tapper,DE,23,74,276,0,Oklahoma,Dallas,Front Seven,DEF,Rookie
+--,Zach Wood,DE,--,75,258,0,SMU,Dallas,Front Seven,DEF,Rookie
+90,DeMarcus Lawrence,DE,24,75,265,3,Boise State,Dallas,Front Seven,DEF,1-4 Yrs
+93,Benson Mayowa,DE,24,75,240,4,Idaho,Dallas,Front Seven,DEF,1-4 Yrs
+99,Ryan Russell,DE,24,77,275,2,Purdue,Dallas,Front Seven,DEF,1-4 Yrs
+94,Randy Gregory,DE,23,77,255,2,Nebraska,Dallas,Front Seven,DEF,1-4 Yrs
+66,Michael McAdoo,DE,26,79,245,3,North Carolina,Dallas,Front Seven,DEF,1-4 Yrs
+9,Rodney Coe,DL,23,75,305,0,Akron,Dallas,Front Seven,DEF,Rookie
+95,David Irving,DL,22,79,273,2,Iowa State,Dallas,Front Seven,DEF,1-4 Yrs
+63,Casey Walker,DT,26,73,340,2,Oklahoma,Dallas,Front Seven,DEF,1-4 Yrs
+97,Terrell McClain,DT,28,74,302,6,South Florida,Dallas,Front Seven,DEF,5-8 Yrs
+7,Maliek Collins,DT,21,74,300,0,Nebraska,Dallas,Front Seven,DEF,Rookie
+75,Cedric Thornton,DT,28,76,309,5,Southern Arkansas,Dallas,Front Seven,DEF,5-8 Yrs
+98,Tyrone Crawford,DT,26,76,290,5,Boise State,Dallas,Front Seven,DEF,5-8 Yrs
+58,Jack Crawford,DT,27,77,288,5,Penn State,Dallas,Front Seven,DEF,5-8 Yrs
+59,Anthony Hitchens,LB,24,72,235,3,Iowa,Dallas,Front Seven,DEF,1-4 Yrs
+56,Keith Smith,LB,24,72,232,2,San José State,Dallas,Front Seven,DEF,1-4 Yrs
+54,Derek Akunne,LB,22,72,242,1,North Texas,Dallas,Front Seven,DEF,1-4 Yrs
+--,Justin Durant,LB,30,73,230,10,Hampton,Dallas,Front Seven,DEF,9-12 Yrs
+53,Deon King,LB,23,73,229,0,Norfolk State,Dallas,Front Seven,DEF,Rookie
+57,Damien Wilson,LB,23,73,242,2,Minnesota,Dallas,Front Seven,DEF,1-4 Yrs
+50,Sean Lee,LB,30,74,238,7,Penn State,Dallas,Front Seven,DEF,5-8 Yrs
+52,Andrew Gachkar,LB,27,74,240,6,Missouri,Dallas,Front Seven,DEF,5-8 Yrs
+53,Mark Nzeocha,LB,26,74,235,2,Wyoming,Dallas,Front Seven,DEF,1-4 Yrs
+9,Jaylon Smith,LB,21,74,223,0,Notre Dame,Dallas,Front Seven,DEF,Rookie
+55,Rolando McClain,LB,27,76,255,6,Alabama,Dallas,Front Seven,DEF,5-8 Yrs
+51,Kyle Wilber,LB,27,76,245,5,Wake Forest,Dallas,Front Seven,DEF,5-8 Yrs
+91,L.P. Ladouceur,LS,35,77,256,12,California,Dallas,ST,ST,9-12 Yrs
+65,Ronald Leary,OG,27,75,320,4,Memphis,Dallas,OL,OFF,1-4 Yrs
+70,Zack Martin,OG,25,76,315,3,Notre Dame,Dallas,OL,OFF,1-4 Yrs
+62,Jared Smith,OL,26,76,302,1,New Hampshire,Dallas,OL,OFF,1-4 Yrs
+--,Boston Stiverson,OL,23,76,313,0,Kansas State,Dallas,OL,OFF,Rookie
+71,La'el Collins,OL,22,76,315,2,LSU,Dallas,OL,OFF,1-4 Yrs
+78,Charles Brown,OL,29,77,300,7,USC,Dallas,OL,OFF,5-8 Yrs
+79,Chaz Green,OL,24,77,315,2,Florida,Dallas,OL,OFF,1-4 Yrs
+75,David Hedelin,OT,25,76,298,0,Purdue,Dallas,OL,OFF,Rookie
+77,Tyron Smith,OT,25,77,320,6,USC,Dallas,OL,OFF,5-8 Yrs
+74,Ryan Mack,OT,23,77,310,0,Memphis,Dallas,OL,OFF,Rookie
+68,Doug Free,OT,32,78,325,10,Northern Illinois,Dallas,OL,OFF,9-12 Yrs
+6,Chris Jones,P,27,72,205,5,Carson-Newman,Dallas,ST,ST,5-8 Yrs
+2,Matt Wile,P,24,74,223,0,Michigan,Dallas,ST,ST,Rookie
+5,Dan Bailey,PK,28,72,195,6,Oklahoma State,Dallas,ST,ST,5-8 Yrs
+17,Kellen Moore,QB,27,72,200,5,Boise State,Dallas,QB,OFF,5-8 Yrs
+7,Jameill Showers,QB,24,73,230,1,UTEP,Dallas,QB,OFF,1-4 Yrs
+9,Tony Romo,QB,36,74,230,14,Eastern Illinois,Dallas,QB,OFF,13+ Yrs
+15,Dak Prescott,QB,22,74,226,0,Mississippi State,Dallas,QB,OFF,Rookie
+6,Darius Jackson,RB,22,72,221,0,Eastern Michigan,Dallas,Tailback,OFF,Rookie
+15,Ezekiel Elliott,RB,21,72,225,0,Ohio State,Dallas,Tailback,OFF,Rookie
+25,Lance Dunbar,RB,26,68,195,5,North Texas,Dallas,Tailback,OFF,5-8 Yrs
+46,Alfred Morris,RB,27,70,224,5,Florida Atlantic,Dallas,Tailback,OFF,5-8 Yrs
+20,Darren McFadden,RB,28,73,220,9,Arkansas,Dallas,Tailback,OFF,9-12 Yrs
+45,Rod Smith,RB,24,75,226,2,Ohio State,Dallas,Tailback,OFF,1-4 Yrs
+27,J.J. Wilcox,S,25,72,212,4,Georgia Southern,Dallas,DB,DEF,1-4 Yrs
+5,Kavon Frazier,S,22,72,217,0,Central Michigan,Dallas,DB,DEF,Rookie
+38,Jeff Heath,S,25,73,212,4,Saginaw Valley,Dallas,DB,DEF,1-4 Yrs
+42,Barry Church,S,28,74,218,7,Toledo,Dallas,DB,DEF,5-8 Yrs
+--,Austin Traylor,TE,22,75,247,0,Wisconsin,Dallas,TE,OFF,Rookie
+84,James Hanna,TE,27,76,260,5,Oklahoma,Dallas,TE,OFF,5-8 Yrs
+87,Geoff Swaim,TE,22,76,260,2,Texas,Dallas,TE,OFF,1-4 Yrs
+82,Jason Witten,TE,34,78,263,14,Tennessee,Dallas,TE,OFF,13+ Yrs
+89,Gavin Escobar,TE,25,78,260,4,San Diego State,Dallas,TE,OFF,1-4 Yrs
+2,Rico Gathers,TE,22,80,275,0,Baylor,Dallas,TE,OFF,Rookie
+11,Cole Beasley,WR,27,68,180,5,SMU,Dallas,WR,OFF,5-8 Yrs
+13,Lucky Whitehead,WR,24,69,180,2,Florida Atlantic,Dallas,WR,OFF,1-4 Yrs
+7,Ed Eagan,WR,23,71,183,0,Northwestern State,Dallas,WR,OFF,Rookie
+88,Dez Bryant,WR,27,74,220,7,Oklahoma State,Dallas,WR,OFF,5-8 Yrs
+83,Terrance Williams,WR,26,74,208,4,Baylor,Dallas,WR,OFF,1-4 Yrs
+85,Vince Mayle,WR,25,74,224,1,Washington State,Dallas,WR,OFF,1-4 Yrs
+2,Chris Brown,WR,22,74,191,0,Notre Dame,Dallas,WR,OFF,Rookie
+4,Andy Jones,WR,22,74,200,0,Jacksonville,Dallas,WR,OFF,Rookie
+19,Brice Butler,WR,26,75,215,4,San Diego State,Dallas,WR,OFF,1-4 Yrs
+15,Devin Street,WR,25,75,200,3,Pittsburgh,Dallas,WR,OFF,1-4 Yrs
+14,Rodney Smith,WR,26,77,220,3,Florida State,Dallas,WR,OFF,1-4 Yrs
+53,James Ferentz,C,27,74,285,2,Iowa,Denver,OL,OFF,1-4 Yrs
+67,Sam Brenner,C,26,74,310,3,Utah,Denver,OL,OFF,1-4 Yrs
+61,Matt Paradis,C,26,75,300,2,Boise State,Denver,OL,OFF,1-4 Yrs
+62,Dillon Day,C,24,76,299,1,Mississippi State,Denver,OL,OFF,1-4 Yrs
+73,Max Garcia,C,24,76,309,2,Florida,Denver,OL,OFF,1-4 Yrs
+25,Chris Harris Jr.,CB,27,70,199,5,Kansas,Denver,DB,DEF,5-8 Yrs
+39,Taurean Nixon,CB,25,70,187,1,Tulane,Denver,DB,DEF,1-4 Yrs
+37,Lorenzo Doss,CB,22,70,187,2,Tulane,Denver,DB,DEF,1-4 Yrs
+36,Kayvon Webster,CB,25,71,198,4,South Florida,Denver,DB,DEF,1-4 Yrs
+30,B.J. Lowery,CB,24,71,194,0,Iowa,Denver,DB,DEF,Rookie
+29,Bradley Roby,CB,24,71,194,3,Ohio State,Denver,DB,DEF,1-4 Yrs
+21,Aqib Talib,CB,30,73,205,9,Kansas,Denver,DB,DEF,9-12 Yrs
+--,John Tidwell,DB,23,72,191,0,Sioux Falls,Denver,DB,DEF,Rookie
+26,Darian Stewart,DB,27,71,214,7,South Carolina,Denver,DB,DEF,5-8 Yrs
+55,Eddie Yarbrough,DE,23,75,251,0,Wyoming,Denver,Front Seven,DEF,Rookie
+94,DeMarcus Ware,DE,33,76,258,12,Troy,Denver,Front Seven,DEF,9-12 Yrs
+91,Kenny Anunike,DE,26,76,275,3,Duke,Denver,Front Seven,DEF,1-4 Yrs
+93,Jared Crick,DE,26,76,285,5,Nebraska,Denver,Front Seven,DEF,5-8 Yrs
+95,Derek Wolfe,DE,26,77,285,5,Cincinnati,Denver,Front Seven,DEF,5-8 Yrs
+97,Phil Taylor,DL,28,75,335,5,Baylor,Denver,Front Seven,DEF,5-8 Yrs
+96,Vance Walker,DT,29,74,305,8,Georgia Tech,Denver,Front Seven,DEF,5-8 Yrs
+92,Sylvester Williams,DT,27,74,313,4,North Carolina,Denver,Front Seven,DEF,1-4 Yrs
+98,Darius Kilgo,DT,24,75,319,2,Maryland,Denver,Front Seven,DEF,1-4 Yrs
+96,Adam Gotsis,DT,23,76,287,0,Georgia Tech,Denver,Front Seven,DEF,Rookie
+35,Andy Janovich,FB,23,73,230,0,Nebraska,Denver,Tailback,OFF,Rookie
+60,Connor McGovern,G,23,76,305,0,Missouri,Denver,OL,OFF,Rookie
+70,Robert Myers Jr.,G,24,77,326,1,Tennessee State,Denver,OL,OFF,1-4 Yrs
+50,Zaire Anderson,LB,23,71,220,1,Nebraska,Denver,Front Seven,DEF,1-4 Yrs
+54,Brandon Marshall,LB,26,73,250,5,Nevada,Denver,Front Seven,DEF,5-8 Yrs
+51,Todd Davis,LB,24,73,230,3,Sacramento State,Denver,Front Seven,DEF,1-4 Yrs
+52,Corey Nelson,LB,24,73,226,3,Oklahoma,Denver,Front Seven,DEF,1-4 Yrs
+--,Dekoda Watson,LB,28,74,245,6,Florida State,Denver,Front Seven,DEF,5-8 Yrs
+48,Shaquil Barrett,LB,23,74,250,3,Colorado State,Denver,Front Seven,DEF,1-4 Yrs
+58,Von Miller,LB,27,75,250,6,Texas A&M,Denver,Front Seven,DEF,5-8 Yrs
+56,Shane Ray,LB,23,75,245,2,Missouri,Denver,Front Seven,DEF,1-4 Yrs
+42,Casey Kreiter,LS,25,73,250,0,Iowa,Denver,ST,ST,Rookie
+51,David Moala,NT,23,74,300,0,Utah State,Denver,Front Seven,DEF,Rookie
+71,Donald Stephenson,OL,27,78,312,5,Oklahoma,Denver,OL,OFF,5-8 Yrs
+--,Russell Okung,OT,28,77,310,7,Oklahoma State,Denver,OL,OFF,5-8 Yrs
+77,Darrion Weems,OT,27,77,310,3,Oregon,Denver,OL,OFF,1-4 Yrs
+75,Cameron Jefferson,OT,24,77,317,1,Arkansas,Denver,OL,OFF,1-4 Yrs
+74,Ty Sambrailo,OT,24,77,315,2,Colorado State,Denver,OL,OFF,1-4 Yrs
+79,Michael Schofield,OT,25,78,301,3,Michigan,Denver,OL,OFF,1-4 Yrs
+66,Kyle Roberts,OT,24,78,305,1,Nevada,Denver,OL,OFF,1-4 Yrs
+4,Britton Colquitt,P,31,75,205,8,Tennessee,Denver,ST,ST,5-8 Yrs
+92,Riley Dixon,P,22,76,221,0,Syracuse,Denver,ST,ST,Rookie
+8,Brandon McManus,PK,24,75,201,3,Temple,Denver,ST,ST,1-4 Yrs
+6,Mark Sanchez,QB,29,74,225,8,USC,Denver,QB,OFF,5-8 Yrs
+13,Trevor Siemian,QB,24,75,220,2,Northwestern,Denver,QB,OFF,1-4 Yrs
+12,Paxton Lynch,QB,22,79,245,0,Memphis,Denver,QB,OFF,Rookie
+22,C.J. Anderson,RB,25,68,224,4,California,Denver,Tailback,OFF,1-4 Yrs
+35,Kapri Bibbs,RB,23,69,203,2,Colorado State,Denver,Tailback,OFF,1-4 Yrs
+28,Cyrus Gray,RB,26,70,206,3,Texas A&M,Denver,Tailback,OFF,1-4 Yrs
+23,Devontae Booker,RB,24,70,208,0,Utah,Denver,Tailback,OFF,Rookie
+23,Ronnie Hillman,RB,24,70,195,5,San Diego State,Denver,Tailback,OFF,5-8 Yrs
+40,Juwan Thompson,RB,24,71,225,3,Duke,Denver,Tailback,OFF,1-4 Yrs
+27,Brandian Ross,S,26,72,190,4,Youngstown State,Denver,DB,DEF,1-4 Yrs
+33,Shiloh Keo,S,28,71,208,4,Idaho,Denver,DB,DEF,1-4 Yrs
+11,Will Parks,S,21,73,194,0,Arizona,Denver,DB,DEF,Rookie
+27,Justin Simmons,S,22,74,202,0,Boston College,Denver,DB,DEF,Rookie
+43,T.J. Ward,SS,29,70,200,7,Oregon,Denver,DB,DEF,5-8 Yrs
+41,Manasseh Garner,TE,24,74,220,1,Pittsburgh,Denver,TE,OFF,1-4 Yrs
+--,Garrett Graham,TE,29,75,243,7,Wisconsin,Denver,TE,OFF,5-8 Yrs
+85,Virgil Green,TE,27,77,255,6,Nevada,Denver,TE,OFF,5-8 Yrs
+82,Jeff Heuerman,TE,23,77,255,2,Ohio State,Denver,TE,OFF,1-4 Yrs
+11,Jordan Norwood,WR,29,71,180,7,Penn State,Denver,WR,OFF,5-8 Yrs
+10,Emmanuel Sanders,WR,29,71,180,7,SMU,Denver,WR,OFF,5-8 Yrs
+15,DeVier Posey,WR,26,73,210,3,Ohio State,Denver,WR,OFF,1-4 Yrs
+16,Bennie Fowler,WR,25,73,212,2,Michigan State,Denver,WR,OFF,1-4 Yrs
+14,Cody Latimer,WR,23,74,215,3,Indiana,Denver,WR,OFF,1-4 Yrs
+88,Demaryius Thomas,WR,28,75,229,7,Georgia Tech,Denver,WR,OFF,5-8 Yrs
+87,Jordan Taylor,WR,24,77,210,1,Rice,Denver,WR,OFF,1-4 Yrs
+48,Don Muhlbach,C,34,76,258,13,Texas A&M,Detroit,OL,OFF,13+ Yrs
+65,Gabe Ikard,C,25,76,304,3,Oklahoma,Detroit,OL,OFF,1-4 Yrs
+64,Travis Swanson,C,25,77,307,3,Arkansas,Detroit,OL,OFF,1-4 Yrs
+61,Graham Glasgow,C,24,78,306,0,Michigan,Detroit,OL,OFF,Rookie
+30,Darrin Walls,CB,28,72,190,6,Notre Dame,Detroit,DB,DEF,5-8 Yrs
+23,Darius Slay,CB,25,72,190,4,Mississippi State,Detroit,DB,DEF,1-4 Yrs
+33,Alex Carter,CB,21,72,196,1,Stanford,Detroit,DB,DEF,1-4 Yrs
+24,Nevin Lawson,CB,25,69,191,3,Utah State,Detroit,DB,DEF,1-4 Yrs
+28,Quandre Diggs,CB,23,69,197,2,Texas,Detroit,DB,DEF,1-4 Yrs
+--,Ian Wells,CB,23,71,202,0,Ohio,Detroit,DB,DEF,Rookie
+--,Adairius Barnes,CB,22,71,181,0,Louisiana Tech,Detroit,DB,DEF,Rookie
+29,Crezdon Butler,CB,29,73,191,7,Clemson,Detroit,DB,DEF,5-8 Yrs
+27,Tavon Wilson,DB,26,72,215,5,Illinois,Detroit,DB,DEF,5-8 Yrs
+24,Johnson Bademosi,DB,25,72,200,5,Stanford,Detroit,DB,DEF,5-8 Yrs
+--,Charles Washington,DB,23,71,192,0,Fresno State,Detroit,DB,DEF,Rookie
+95,Wallace Gilberry,DE,31,74,270,9,Alabama,Detroit,Front Seven,DEF,9-12 Yrs
+--,Deonte Gibson,DE,23,75,260,0,Northwestern,Detroit,Front Seven,DEF,Rookie
+98,Anthony Zettel,DE,23,76,278,0,Penn State,Detroit,Front Seven,DEF,Rookie
+91,Jason Jones,DE,30,77,275,9,Eastern Michigan,Detroit,Front Seven,DEF,9-12 Yrs
+94,Ezekiel Ansah,DE,27,77,278,4,BYU,Detroit,Front Seven,DEF,1-4 Yrs
+--,Quanterus Smith,DE,26,77,255,3,Western Kentucky,Detroit,Front Seven,DEF,1-4 Yrs
+98,Devin Taylor,DE,26,79,275,4,South Carolina,Detroit,Front Seven,DEF,1-4 Yrs
+--,Louis Palmer,DL,21,74,265,0,Central Michigan,Detroit,Front Seven,DEF,Rookie
+61,Kerry Hyder,DT,25,74,290,1,Texas Tech,Detroit,Front Seven,DEF,1-4 Yrs
+97,Caraun Reid,DT,24,74,298,3,Princeton,Detroit,Front Seven,DEF,1-4 Yrs
+67,Khyri Thornton,DT,26,75,315,3,Southern Mississippi,Detroit,Front Seven,DEF,1-4 Yrs
+93,Tyrunn Walker,DT,26,75,305,5,Tulsa,Detroit,Front Seven,DEF,5-8 Yrs
+90,Gabe Wright,DT,24,75,305,2,Auburn,Detroit,Front Seven,DEF,1-4 Yrs
+92,Haloti Ngata,DT,32,76,345,11,Oregon,Detroit,Front Seven,DEF,9-12 Yrs
+86,A'Shawn Robinson,DT,21,76,312,0,Alabama,Detroit,Front Seven,DEF,Rookie
+96,Stefan Charles,DT,28,77,323,4,University of Regina,Detroit,Front Seven,DEF,1-4 Yrs
+46,Michael Burton,FB,24,72,247,2,Rutgers,Detroit,Tailback,OFF,1-4 Yrs
+27,Glover Quin,FS,30,72,207,8,New Mexico,Detroit,DB,DEF,5-8 Yrs
+75,Larry Warford,G,25,75,332,4,Kentucky,Detroit,OL,OFF,1-4 Yrs
+56,Joe Dahl,G,23,75,299,0,Washington State,Detroit,OL,OFF,Rookie
+--,Jerry Franklin,LB,28,73,245,2,Arkansas,Detroit,Front Seven,DEF,1-4 Yrs
+49,Khaseem Greene,LB,27,73,241,3,Rutgers,Detroit,Front Seven,DEF,1-4 Yrs
+57,Josh Bynes,LB,26,73,235,5,Auburn,Detroit,Front Seven,DEF,5-8 Yrs
+--,Jonathan Bostic,LB,25,73,245,4,Florida,Detroit,Front Seven,DEF,1-4 Yrs
+--,Zaviar Gooden,LB,25,73,231,3,Missouri,Detroit,Front Seven,DEF,1-4 Yrs
+54,DeAndre Levy,LB,29,74,235,8,Wisconsin,Detroit,Front Seven,DEF,5-8 Yrs
+59,Tahir Whitehead,LB,26,74,242,5,Temple,Detroit,Front Seven,DEF,5-8 Yrs
+53,Kyle Van Noy,LB,26,75,248,3,BYU,Detroit,Front Seven,DEF,1-4 Yrs
+95,Brandon Copeland,LB,25,75,248,2,Penn,Detroit,Front Seven,DEF,1-4 Yrs
+37,Antwione Williams,LB,23,75,229,0,Georgia Southern,Detroit,Front Seven,DEF,Rookie
+50,Jimmy Landes,LS,23,73,240,0,Baylor,Detroit,ST,ST,Rookie
+72,Laken Tomlinson,OG,24,75,323,2,Duke,Detroit,OL,OFF,1-4 Yrs
+--,Chase Farris,OL,23,77,310,0,Ohio State,Detroit,OL,OFF,Rookie
+--,Geoff Schwartz,OL,30,78,340,8,Oregon,Detroit,OL,OFF,5-8 Yrs
+74,Michael Ola,OT,28,76,312,3,Hampton,Detroit,OL,OFF,1-4 Yrs
+71,Riley Reiff,OT,27,78,308,5,Iowa,Detroit,OL,OFF,5-8 Yrs
+70,Corey Robinson,OT,24,79,316,2,South Carolina,Detroit,OL,OFF,1-4 Yrs
+68,Taylor Decker,OT,21,79,320,0,Ohio State,Detroit,OL,OFF,Rookie
+--,Luke Marquardt,OT,26,80,315,1,Azusa Pacific,Detroit,OL,OFF,1-4 Yrs
+77,Cornelius Lucas,OT,25,81,328,3,Kansas State,Detroit,OL,OFF,1-4 Yrs
+6,Sam Martin,P,26,73,211,4,Appalachian State,Detroit,ST,ST,1-4 Yrs
+5,Matt Prater,PK,31,70,211,10,UCF,Detroit,ST,ST,9-12 Yrs
+--,Devon Bell,PK,23,74,194,0,Mississippi State,Detroit,ST,ST,Rookie
+9,Matthew Stafford,QB,28,75,226,8,Georgia,Detroit,QB,OFF,5-8 Yrs
+15,Jake Rudock,QB,23,75,207,0,Michigan,Detroit,QB,OFF,Rookie
+8,Dan Orlovsky,QB,32,77,215,11,Connecticut,Detroit,QB,OFF,9-12 Yrs
+21,Ameer Abdullah,RB,23,68,203,2,Nebraska,Detroit,Tailback,OFF,1-4 Yrs
+25,Theo Riddick,RB,25,69,200,4,Notre Dame,Detroit,Tailback,OFF,1-4 Yrs
+--,Stevan Ridley,RB,27,71,220,6,LSU,Detroit,Tailback,OFF,5-8 Yrs
+38,George Winn,RB,25,71,215,3,Cincinnati,Detroit,Tailback,OFF,1-4 Yrs
+34,Zach Zenner,RB,24,71,222,2,South Dakota State,Detroit,Tailback,OFF,1-4 Yrs
+12,Dwayne Washington,RB,22,74,226,0,Washington,Detroit,Tailback,OFF,Rookie
+25,Rafael Bush,S,29,71,205,6,South Carolina State,Detroit,DB,DEF,5-8 Yrs
+43,Isaiah Johnson,S,24,73,202,2,Georgia Tech,Detroit,DB,DEF,1-4 Yrs
+28,Miles Killebrew,S,23,74,217,0,Southern Utah,Detroit,DB,DEF,Rookie
+26,Don Carey,SS,29,71,203,8,Norfolk State,Detroit,DB,DEF,5-8 Yrs
+--,Orson Charles,TE,25,75,254,3,Georgia,Detroit,TE,OFF,1-4 Yrs
+82,Matthew Mulligan,TE,31,76,267,7,Maine,Detroit,TE,OFF,5-8 Yrs
+83,Timothy Wright,TE,26,76,220,4,Rutgers,Detroit,TE,OFF,1-4 Yrs
+--,Ben McCord,TE,24,76,243,0,Central Michigan,Detroit,TE,OFF,Rookie
+85,Eric Ebron,TE,23,76,255,3,North Carolina,Detroit,TE,OFF,1-4 Yrs
+87,Brandon Pettigrew,TE,31,77,278,8,Oklahoma State,Detroit,TE,OFF,5-8 Yrs
+--,Adam Fuehne,TE,23,79,260,0,Southern Illinois,Detroit,TE,OFF,Rookie
+--,Cole Wick,TE,22,79,255,0,Incarnate Word,Detroit,TE,OFF,Rookie
+--,Andre Caldwell,WR,31,72,200,9,Florida,Detroit,WR,OFF,9-12 Yrs
+13,TJ Jones,WR,24,72,190,2,Notre Dame,Detroit,WR,OFF,1-4 Yrs
+--,Jace Billingsley,WR,--,69,185,0,Eastern Oregon,Detroit,WR,OFF,Rookie
+--,Jeremy Kerley,WR,27,69,188,6,TCU,Detroit,WR,OFF,5-8 Yrs
+15,Golden Tate,WR,27,70,198,7,Notre Dame,Detroit,WR,OFF,5-8 Yrs
+--,Andre Roberts,WR,28,71,187,7,The Citadel,Detroit,WR,OFF,5-8 Yrs
+--,Damian Copeland,WR,25,73,182,3,Louisville,Detroit,WR,OFF,1-4 Yrs
+18,Ryan Spadola,WR,25,73,205,1,Lehigh,Detroit,WR,OFF,1-4 Yrs
+--,Jay Lee,WR,23,73,214,0,Baylor,Detroit,WR,OFF,Rookie
+10,Corey Fuller,WR,26,74,200,3,Virginia Tech,Detroit,WR,OFF,1-4 Yrs
+--,Marvin Jones,WR,26,74,198,5,California,Detroit,WR,OFF,5-8 Yrs
+--,Quinshad Davis,WR,22,76,205,0,North Carolina,Detroit,WR,OFF,Rookie
+63,Corey Linsley,C,24,75,301,3,Ohio State,Green Bay,OL,OFF,1-4 Yrs
+57,Jacob Flores,C,22,75,284,0,Dartmouth,Green Bay,OL,OFF,Rookie
+41,Randall Jette,CB,23,72,191,0,Massachusetts,Green Bay,DB,DEF,Rookie
+--,Warren Gatewood,CB,22,72,174,0,Alcorn State,Green Bay,DB,DEF,Rookie
+28,Josh Hawkins,CB,23,70,183,0,East Carolina,Green Bay,DB,DEF,Rookie
+37,Sam Shields,CB,28,71,184,7,Miami,Green Bay,DB,DEF,5-8 Yrs
+39,Demetri Goodson,CB,27,71,197,3,Baylor,Green Bay,DB,DEF,1-4 Yrs
+24,Quinten Rollins,CB,24,71,195,2,Miami (OH),Green Bay,DB,DEF,1-4 Yrs
+20,Makinton Dorleant,CB,23,71,185,0,Northern Iowa,Green Bay,DB,DEF,Rookie
+23,Damarious Randall,CB,23,71,196,2,Arizona State,Green Bay,DB,DEF,1-4 Yrs
+31,Robertson Daniel,CB,24,73,210,1,BYU,Green Bay,DB,DEF,1-4 Yrs
+36,LaDarius Gunter,CB,24,74,201,2,Miami,Green Bay,DB,DEF,1-4 Yrs
+76,Mike Daniels,DE,27,72,310,5,Iowa,Green Bay,Front Seven,DEF,5-8 Yrs
+95,Datone Jones,DE,25,76,285,4,UCLA,Green Bay,Front Seven,DEF,1-4 Yrs
+77,B.J. McBryde,DE,24,77,304,2,Connecticut,Green Bay,Front Seven,DEF,1-4 Yrs
+94,Dean Lowry,DE,22,77,282,0,Northwestern,Green Bay,Front Seven,DEF,Rookie
+99,Christian Ringo,DT,24,73,298,1,Louisiana Lafayette,Green Bay,Front Seven,DEF,1-4 Yrs
+--,Demetris Anderson,DT,24,74,304,0,UCF,Green Bay,Front Seven,DEF,Rookie
+90,Tyler Kuder,DT,24,75,305,0,Idaho State,Green Bay,Front Seven,DEF,Rookie
+96,Brian Price,DT,22,75,322,0,Texas San Antonio,Green Bay,Front Seven,DEF,Rookie
+97,Kenny Clark,DT,20,75,310,0,UCLA,Green Bay,Front Seven,DEF,Rookie
+98,Letroy Guion,DT,29,76,322,9,Florida State,Green Bay,Front Seven,DEF,9-12 Yrs
+64,Mike Pennel,DT,25,76,332,3,Colorado State-Pueblo,Green Bay,Front Seven,DEF,1-4 Yrs
+22,Aaron Ripkowski,FB,23,73,246,2,Oklahoma,Green Bay,Tailback,OFF,1-4 Yrs
+--,Alstevis Squirewell,FB,23,73,270,0,Newberry,Green Bay,Tailback,OFF,Rookie
+33,Micah Hyde,FS,25,72,197,4,Iowa,Green Bay,DB,DEF,1-4 Yrs
+21,Ha Ha Clinton-Dix,FS,23,73,208,3,Alabama,Green Bay,DB,DEF,1-4 Yrs
+65,Lane Taylor,G,26,75,324,4,Oklahoma State,Green Bay,OL,OFF,1-4 Yrs
+--,Lucas Patrick,G,22,76,311,0,Duke,Green Bay,OL,OFF,Rookie
+74,Matt Rotheram,G,24,77,325,1,Pittsburgh,Green Bay,OL,OFF,1-4 Yrs
+58,Sam Barrington,LB,25,73,240,4,South Florida,Green Bay,Front Seven,DEF,1-4 Yrs
+48,Joe Thomas,LB,25,73,227,2,South Carolina State,Green Bay,Front Seven,DEF,1-4 Yrs
+54,Carl Bradford,LB,23,73,245,2,Arizona State,Green Bay,Front Seven,DEF,1-4 Yrs
+43,Beniquez Brown,LB,23,73,229,0,Mississippi State,Green Bay,Front Seven,DEF,Rookie
+45,Manoa Pikula,LB,23,73,236,0,BYU,Green Bay,Front Seven,DEF,Rookie
+47,Jake Ryan,LB,24,74,240,2,Michigan,Green Bay,Front Seven,DEF,1-4 Yrs
+4,Blake Martinez,LB,22,74,237,0,Stanford,Green Bay,Front Seven,DEF,Rookie
+52,Clay Matthews,LB,30,75,255,8,USC,Green Bay,Front Seven,DEF,5-8 Yrs
+53,Nick Perry,LB,26,75,265,5,USC,Green Bay,Front Seven,DEF,5-8 Yrs
+55,Lerentee McCray,LB,25,75,249,4,Florida,Green Bay,Front Seven,DEF,1-4 Yrs
+91,Jayrone Elliott,LB,24,75,255,3,Toledo,Green Bay,Front Seven,DEF,1-4 Yrs
+46,Reggie Gilbert,LB,23,76,262,0,Arizona,Green Bay,Front Seven,DEF,Rookie
+9,Kyler Fackrell,LB,24,77,245,0,Utah State,Green Bay,Front Seven,DEF,Rookie
+56,Julius Peppers,LB,36,79,287,15,North Carolina,Green Bay,Front Seven,DEF,13+ Yrs
+59,Rick Lovato,LS,23,74,235,1,Old Dominion,Green Bay,ST,ST,1-4 Yrs
+71,Josh Sitton,OG,30,75,318,9,UCF,Green Bay,OL,OFF,9-12 Yrs
+70,T.J. Lang,OG,28,76,318,8,Eastern Michigan,Green Bay,OL,OFF,5-8 Yrs
+79,Josh Walker,OG,25,77,328,2,Middle Tennessee,Green Bay,OL,OFF,1-4 Yrs
+67,Don Barclay,OT,27,76,305,5,West Virginia,Green Bay,OL,OFF,5-8 Yrs
+73,JC Tretter,OT,25,76,307,4,Cornell,Green Bay,OL,OFF,1-4 Yrs
+69,David Bakhtiari,OT,24,76,310,4,Colorado,Green Bay,OL,OFF,1-4 Yrs
+75,Bryan Bulaga,OT,27,77,314,7,Iowa,Green Bay,OL,OFF,5-8 Yrs
+78,Jason Spriggs,OT,22,77,301,0,Indiana,Green Bay,OL,OFF,Rookie
+72,Josh James,OT,23,78,315,0,Carroll (MT),Green Bay,OL,OFF,Rookie
+78,Kyle Murphy,OT,22,78,305,0,Stanford,Green Bay,OL,OFF,Rookie
+8,Tim Masthay,P,29,73,200,7,Kentucky,Green Bay,ST,ST,5-8 Yrs
+1,Peter Mortell,P,23,74,200,0,Minnesota,Green Bay,ST,ST,Rookie
+2,Mason Crosby,PK,31,73,207,10,Colorado,Green Bay,ST,ST,9-12 Yrs
+6,Joe Callahan,QB,23,73,215,0,null,Green Bay,QB,OFF,Rookie
+12,Aaron Rodgers,QB,32,74,225,12,California,Green Bay,QB,OFF,9-12 Yrs
+--,Marquise Williams,QB,23,74,216,0,North Carolina,Green Bay,QB,OFF,Rookie
+7,Brett Hundley,QB,23,75,226,2,UCLA,Green Bay,QB,OFF,1-4 Yrs
+38,John Crockett,RB,24,72,217,1,North Dakota State,Green Bay,Tailback,OFF,1-4 Yrs
+--,Brandon Burks,RB,22,69,194,0,Troy,Green Bay,Tailback,OFF,Rookie
+--,Brandon Ross,RB,--,70,205,0,Maryland,Green Bay,Tailback,OFF,Rookie
+26,Don Jackson,RB,22,70,209,0,Nevada,Green Bay,Tailback,OFF,Rookie
+27,Eddie Lacy,RB,26,71,234,4,Alabama,Green Bay,Tailback,OFF,1-4 Yrs
+44,James Starks,RB,30,74,218,7,Buffalo,Green Bay,Tailback,OFF,5-8 Yrs
+--,Jermaine Whitehead,S,23,71,197,1,Auburn,Green Bay,DB,DEF,1-4 Yrs
+29,Kentrell Brice,S,21,71,201,0,Louisiana Tech,Green Bay,DB,DEF,Rookie
+25,Marwin Evans,S,23,73,194,0,Utah State,Green Bay,DB,DEF,Rookie
+32,Chris Banjo,SS,26,70,207,3,SMU,Green Bay,DB,DEF,1-4 Yrs
+42,Morgan Burnett,SS,27,73,209,7,Georgia Tech,Green Bay,DB,DEF,5-8 Yrs
+80,Justin Perillo,TE,25,75,250,3,Maine,Green Bay,TE,OFF,1-4 Yrs
+--,Casey Pierce,TE,24,75,244,1,Kent State,Green Bay,TE,OFF,1-4 Yrs
+86,Kennard Backman,TE,23,75,245,2,UAB,Green Bay,TE,OFF,1-4 Yrs
+82,Richard Rodgers,TE,24,76,257,3,California,Green Bay,TE,OFF,1-4 Yrs
+85,Mitchell Henry,TE,23,76,252,1,Western Kentucky,Green Bay,TE,OFF,1-4 Yrs
+--,Jared Cook,TE,29,77,254,8,South Carolina,Green Bay,TE,OFF,5-8 Yrs
+88,Ty Montgomery,WR,23,72,216,2,Stanford,Green Bay,WR,OFF,1-4 Yrs
+18,Randall Cobb,WR,25,70,192,6,Kentucky,Green Bay,WR,OFF,5-8 Yrs
+84,Jared Abbrederis,WR,25,73,195,3,Wisconsin,Green Bay,WR,OFF,1-4 Yrs
+17,Davante Adams,WR,23,73,215,3,Fresno State,Green Bay,WR,OFF,1-4 Yrs
+10,Jamel Johnson,WR,25,74,227,1,Alabama State,Green Bay,WR,OFF,1-4 Yrs
+19,Ed Williams,WR,25,74,195,1,Fort Hays State,Green Bay,WR,OFF,1-4 Yrs
+9,Trevor Davis,WR,23,74,185,0,California,Green Bay,WR,OFF,Rookie
+16,Herb Waters,WR,23,74,194,0,Miami,Green Bay,WR,OFF,Rookie
+87,Jordy Nelson,WR,31,75,217,9,Kansas State,Green Bay,WR,OFF,9-12 Yrs
+83,Jeff Janis,WR,25,75,219,3,Saginaw Valley,Green Bay,WR,OFF,1-4 Yrs
+81,Geronimo Allison,WR,22,76,200,0,Illinois,Green Bay,WR,OFF,Rookie
+46,Jonathan Weeks,C,30,70,246,7,Baylor,Houston,OL,OFF,5-8 Yrs
+65,Greg Mancz,C,24,76,301,2,Toledo,Houston,OL,OFF,1-4 Yrs
+72,Nick Martin,C,23,76,296,0,Notre Dame,Houston,OL,OFF,Rookie
+68,Tony Bergstrom,C,29,77,315,5,Utah,Houston,OL,OFF,5-8 Yrs
+64,Dalton Freeman,C,26,77,291,2,Clemson,Houston,OL,OFF,1-4 Yrs
+21,A.J. Bouye,CB,24,72,191,4,UCF,Houston,DB,DEF,1-4 Yrs
+32,Robert Nelson,CB,26,69,175,2,Arizona State,Houston,DB,DEF,1-4 Yrs
+--,Richard Leonard,CB,24,69,170,0,Florida Intl,Houston,DB,DEF,Rookie
+25,Kareem Jackson,CB,28,70,188,7,Alabama,Houston,DB,DEF,5-8 Yrs
+--,Duke Thomas,CB,--,71,178,0,Texas,Houston,DB,DEF,Rookie
+24,Johnathan Joseph,CB,32,71,188,11,South Carolina,Houston,DB,DEF,9-12 Yrs
+--,Terrance Mitchell,CB,24,71,190,3,Oregon,Houston,DB,DEF,1-4 Yrs
+30,Kevin Johnson,CB,23,71,188,2,Wake Forest,Houston,DB,DEF,1-4 Yrs
+--,Cleveland Wallace III,CB,22,71,188,0,San José State,Houston,DB,DEF,Rookie
+31,Charles James II,DB,26,69,179,3,Charleston Southern,Houston,DB,DEF,1-4 Yrs
+35,Eddie Pleasant,DB,27,70,210,4,Oregon,Houston,DB,DEF,1-4 Yrs
+29,Andre Hal,DB,24,70,188,3,Vanderbilt,Houston,DB,DEF,1-4 Yrs
+97,Jeoffrey Pagan,DE,23,75,310,3,Alabama,Houston,Front Seven,DEF,1-4 Yrs
+--,Eric Lee,DE,21,75,229,0,South Florida,Houston,Front Seven,DEF,Rookie
+96,Dan Pettinato,DE,24,76,277,1,Arizona,Houston,Front Seven,DEF,1-4 Yrs
+--,Brennan Scarlett,DE,22,76,264,0,Stanford,Houston,Front Seven,DEF,Rookie
+99,J.J. Watt,DE,27,77,289,6,Wisconsin,Houston,Front Seven,DEF,5-8 Yrs
+75,Vince Wilfork,DT,34,74,325,13,Miami,Houston,Front Seven,DEF,13+ Yrs
+92,Brandon Dunn,DT,23,74,300,2,Louisville,Houston,Front Seven,DEF,1-4 Yrs
+95,Christian Covington,DT,22,74,289,2,Rice,Houston,Front Seven,DEF,1-4 Yrs
+48,D.J. Reader,DT,22,75,340,0,Clemson,Houston,Front Seven,DEF,Rookie
+--,Ra'Zahn Howard,DT,21,75,325,0,Purdue,Houston,Front Seven,DEF,Rookie
+91,Devon Still,DT,27,77,310,3,Penn State,Houston,Front Seven,DEF,1-4 Yrs
+--,Ufomba Kamalu,DT,23,77,291,0,Miami,Houston,Front Seven,DEF,Rookie
+--,Joel Heath,DT,23,78,291,0,Michigan State,Houston,Front Seven,DEF,Rookie
+--,Soma Vainuku,FB,24,71,249,0,USC,Houston,Tailback,OFF,Rookie
+45,Jay Prosch,FB,23,73,256,3,Auburn,Houston,Tailback,OFF,1-4 Yrs
+73,Karim Barton,G,24,75,313,1,Morgan State,Houston,OL,OFF,1-4 Yrs
+71,Xavier Su'a-Filo,G,25,76,307,3,UCLA,Houston,OL,OFF,1-4 Yrs
+62,Chad Slade,G,24,77,315,2,Auburn,Houston,OL,OFF,1-4 Yrs
+50,Akeem Dent,LB,28,73,239,6,Georgia,Houston,Front Seven,DEF,5-8 Yrs
+51,John Simon,LB,25,73,252,4,Ohio State,Houston,Front Seven,DEF,1-4 Yrs
+48,Gerald Rivers,LB,26,74,250,2,Ole Miss,Houston,Front Seven,DEF,1-4 Yrs
+58,Reshard Cliett,LB,24,74,222,2,South Florida,Houston,Front Seven,DEF,1-4 Yrs
+--,Shakeel Rashad,LB,22,74,245,0,North Carolina,Houston,Front Seven,DEF,Rookie
+56,Brian Cushing,LB,29,75,249,8,USC,Houston,Front Seven,DEF,5-8 Yrs
+52,Brian Peters,LB,27,75,235,2,Northwestern (IA),Houston,Front Seven,DEF,1-4 Yrs
+53,Max Bullough,LB,24,75,249,2,Michigan State,Houston,Front Seven,DEF,1-4 Yrs
+59,Whitney Mercilus,LB,26,76,258,5,Illinois,Houston,Front Seven,DEF,5-8 Yrs
+44,Carlos Thompson,LB,24,76,243,2,Ole Miss,Houston,Front Seven,DEF,1-4 Yrs
+49,Tony Washington,LB,24,76,247,1,Oregon,Houston,Front Seven,DEF,1-4 Yrs
+--,Ryan Langford,LB,23,76,235,0,New Mexico,Houston,Front Seven,DEF,Rookie
+55,Benardrick McKinney,LB,23,76,246,2,Mississippi State,Houston,Front Seven,DEF,1-4 Yrs
+90,Jadeveon Clowney,LB,23,77,266,3,South Carolina,Houston,Front Seven,DEF,1-4 Yrs
+71,Jeff Allen,OL,26,76,306,5,Illinois,Houston,OL,OFF,5-8 Yrs
+76,Duane Brown,OT,30,76,303,9,Virginia Tech,Houston,OL,OFF,9-12 Yrs
+74,Chris Clark,OT,30,77,305,8,Southern Mississippi,Houston,OL,OFF,5-8 Yrs
+78,Oday Aboushi,OT,25,77,308,4,Virginia,Houston,OL,OFF,1-4 Yrs
+72,Derek Newton,OT,28,78,313,6,Arkansas State,Houston,OL,OFF,5-8 Yrs
+69,Andrew McDonald,OT,27,78,310,2,Indiana,Houston,OL,OFF,1-4 Yrs
+63,Kendall Lamm,OT,24,78,305,2,Appalachian State,Houston,OL,OFF,1-4 Yrs
+--,Arturo Uzdavinis,OT,23,78,295,0,Tulane,Houston,OL,OFF,Rookie
+70,Jeff Adams,OT,26,79,305,3,Columbia,Houston,OL,OFF,1-4 Yrs
+9,Shane Lechler,P,39,74,237,17,Texas A&M,Houston,ST,ST,13+ Yrs
+8,Nick Novak,PK,34,72,198,9,Maryland,Houston,ST,ST,9-12 Yrs
+5,Brandon Weeden,QB,32,76,228,5,Oklahoma State,Houston,QB,OFF,5-8 Yrs
+3,Tom Savage,QB,26,76,228,3,Pittsburgh,Houston,QB,OFF,1-4 Yrs
+17,Brock Osweiler,QB,25,80,240,5,Arizona State,Houston,QB,OFF,5-8 Yrs
+7,Tyler Ervin,RB,22,69,192,0,San José State,Houston,Tailback,OFF,Rookie
+41,Jonathan Grimes,RB,26,70,209,4,William & Mary,Houston,Tailback,OFF,1-4 Yrs
+26,Lamar Miller,RB,25,70,225,5,Miami,Houston,Tailback,OFF,5-8 Yrs
+33,Akeem Hunt,RB,23,70,190,2,Purdue,Houston,Tailback,OFF,1-4 Yrs
+22,Kenny Hilliard,RB,24,71,226,1,LSU,Houston,Tailback,OFF,1-4 Yrs
+28,Alfred Blue,RB,25,74,223,3,LSU,Houston,Tailback,OFF,1-4 Yrs
+9,KJ Dillon,S,22,72,210,0,West Virginia,Houston,DB,DEF,Rookie
+27,Quintin Demps,S,31,71,208,9,UTEP,Houston,DB,DEF,9-12 Yrs
+20,Antonio Allen,S,27,73,210,5,South Carolina,Houston,DB,DEF,5-8 Yrs
+40,Kurtis Drummond,S,24,73,208,2,Michigan State,Houston,DB,DEF,1-4 Yrs
+43,Corey Moore,S,23,74,206,1,Georgia,Houston,DB,DEF,1-4 Yrs
+39,Lonnie Ballentine,S,23,75,215,3,Memphis,Houston,DB,DEF,1-4 Yrs
+--,Stephen Anderson,TE,23,74,215,0,California,Houston,TE,OFF,Rookie
+81,Anthony Denham,TE,25,76,235,2,Utah,Houston,TE,OFF,1-4 Yrs
+87,C.J. Fiedorowicz,TE,24,77,265,3,Iowa,Houston,TE,OFF,1-4 Yrs
+84,Ryan Griffin,TE,26,78,254,4,Connecticut,Houston,TE,OFF,1-4 Yrs
+83,Eric Tomlinson,TE,24,78,263,1,UTEP,Houston,TE,OFF,1-4 Yrs
+18,Cecil Shorts III,WR,28,72,202,6,Mount Union,Houston,WR,OFF,5-8 Yrs
+19,Josh Lenz,WR,25,72,194,1,Iowa State,Houston,WR,OFF,1-4 Yrs
+12,Keith Mumphery,WR,24,72,215,2,Michigan State,Houston,WR,OFF,1-4 Yrs
+7,Will Fuller,WR,22,72,172,0,Notre Dame,Houston,WR,OFF,Rookie
+--,Wendall Williams,WR,25,70,185,0,Cumberland College,Houston,WR,OFF,Rookie
+10,DeAndre Hopkins,WR,24,73,218,4,Clemson,Houston,WR,OFF,1-4 Yrs
+1,Braxton Miller,WR,23,73,204,0,Ohio State,Houston,WR,OFF,Rookie
+--,Tevin Jones,WR,23,74,216,0,Memphis,Houston,WR,OFF,Rookie
+11,Jaelen Strong,WR,22,74,217,2,Arizona State,Houston,WR,OFF,1-4 Yrs
+--,Richard Mullaney,WR,23,75,208,0,Alabama,Houston,WR,OFF,Rookie
+45,Matt Overton,C,31,73,243,5,Western Washington,Indianapolis,OL,OFF,5-8 Yrs
+63,Austin Blythe,C,24,74,291,0,Iowa,Indianapolis,OL,OFF,Rookie
+72,Jonotthan Harrison,C,24,76,308,3,Florida,Indianapolis,OL,OFF,1-4 Yrs
+70,Ryan Kelly,C,23,76,302,0,Alabama,Indianapolis,OL,OFF,Rookie
+39,Tay Glover-Wright,CB,24,72,175,1,Utah State,Indianapolis,DB,DEF,1-4 Yrs
+43,Tevin Mitchel,CB,23,72,183,2,Arkansas,Indianapolis,DB,DEF,1-4 Yrs
+--,Darius White,CB,22,72,180,0,California,Indianapolis,DB,DEF,Rookie
+--,Frankie Williams,CB,23,69,185,0,Purdue,Indianapolis,DB,DEF,Rookie
+20,Darius Butler,CB,30,70,188,8,Connecticut,Indianapolis,DB,DEF,5-8 Yrs
+21,Vontae Davis,CB,28,71,207,8,Illinois,Indianapolis,DB,DEF,5-8 Yrs
+25,Patrick Robinson,CB,28,71,191,7,Florida State,Indianapolis,DB,DEF,5-8 Yrs
+30,D'Joun Smith,CB,23,71,193,2,Florida Atlantic,Indianapolis,DB,DEF,1-4 Yrs
+31,Jalil Brown,CB,28,73,210,6,Colorado,Indianapolis,DB,DEF,5-8 Yrs
+--,Daniel Davie,CB,22,73,185,0,Nebraska,Indianapolis,DB,DEF,Rookie
+41,Dezmen Southward,CB,25,74,210,3,Wisconsin,Indianapolis,DB,DEF,1-4 Yrs
+--,Chris Milton,DB,23,71,185,0,Georgia Tech,Indianapolis,DB,DEF,Rookie
+--,Ron Thompson,DE,22,74,254,0,Syracuse,Indianapolis,Front Seven,DEF,Rookie
+90,Kendall Langford,DE,30,78,305,9,Hampton,Indianapolis,Front Seven,DEF,9-12 Yrs
+95,Earl Okine,DE,26,78,290,1,Florida,Indianapolis,Front Seven,DEF,1-4 Yrs
+64,Kelcy Quarles,DL,24,76,294,2,South Carolina,Indianapolis,Front Seven,DEF,1-4 Yrs
+67,T.Y. McGill,DT,23,72,299,2,NC State,Indianapolis,Front Seven,DEF,1-4 Yrs
+94,Zach Kerr,DT,25,74,334,3,Delaware,Indianapolis,Front Seven,DEF,1-4 Yrs
+54,David Parry,DT,24,74,310,2,Stanford,Indianapolis,Front Seven,DEF,1-4 Yrs
+97,Arthur Jones,DT,30,75,337,7,Syracuse,Indianapolis,Front Seven,DEF,5-8 Yrs
+68,Ricky Lumpkin,DT,27,75,300,1,Kentucky,Indianapolis,Front Seven,DEF,1-4 Yrs
+--,Sterling Bailey,DT,23,76,277,0,Georgia,Indianapolis,Front Seven,DEF,Rookie
+98,Hassan Ridgeway,DT,21,76,307,0,Texas,Indianapolis,Front Seven,DEF,Rookie
+--,Delvon Simmons,DT,23,77,295,0,USC,Indianapolis,Front Seven,DEF,Rookie
+96,Henry Anderson,DT,24,78,300,2,Stanford,Indianapolis,Front Seven,DEF,1-4 Yrs
+27,Winston Guy,FS,26,73,220,4,Kentucky,Indianapolis,DB,DEF,1-4 Yrs
+69,Hugh Thornton,G,25,75,324,4,Illinois,Indianapolis,OL,OFF,1-4 Yrs
+65,Kitt O'Brien,G,26,77,310,1,Ball State,Indianapolis,OL,OFF,1-4 Yrs
+--,Isiah Cage,G,22,77,312,0,Wisconsin-Eau Claire,Indianapolis,OL,OFF,Rookie
+52,D'Qwell Jackson,LB,32,72,242,11,Maryland,Indianapolis,Front Seven,DEF,9-12 Yrs
+57,Josh McNary,LB,28,72,251,3,Army,Indianapolis,Front Seven,DEF,1-4 Yrs
+49,Amarlo Herrera,LB,24,72,244,1,Georgia,Indianapolis,Front Seven,DEF,1-4 Yrs
+53,Edwin Jackson,LB,24,72,230,1,Georgia Southern,Indianapolis,Front Seven,DEF,1-4 Yrs
+48,Junior Sylvestre,LB,24,72,222,2,Toledo,Indianapolis,Front Seven,DEF,1-4 Yrs
+55,Nate Irving,LB,28,73,253,6,NC State,Indianapolis,Front Seven,DEF,5-8 Yrs
+51,Sio Moore,LB,26,73,245,4,Connecticut,Indianapolis,Front Seven,DEF,1-4 Yrs
+3,Antonio Morrison,LB,21,73,232,0,Florida,Indianapolis,Front Seven,DEF,Rookie
+98,Robert Mathis,LB,35,74,245,14,Alabama A&M,Indianapolis,Front Seven,DEF,13+ Yrs
+93,Erik Walden,LB,30,74,250,9,Middle Tennessee,Indianapolis,Front Seven,DEF,9-12 Yrs
+9,Trevor Bates,LB,22,74,245,0,Maine,Indianapolis,Front Seven,DEF,Rookie
+58,Trent Cole,LB,33,75,270,12,Cincinnati,Indianapolis,Front Seven,DEF,9-12 Yrs
+--,Curt Maggitt,LB,23,75,247,0,Tennessee,Indianapolis,Front Seven,DEF,Rookie
+75,Jack Mewhort,OG,24,78,312,3,Ohio State,Indianapolis,OL,OFF,1-4 Yrs
+76,Joe Reitz,OG,30,79,323,6,Western Michigan,Indianapolis,OL,OFF,5-8 Yrs
+--,Adam Redmond,OL,23,78,290,0,Harvard,Indianapolis,OL,OFF,Rookie
+62,Le'Raven Clark,OT,23,77,312,0,Texas Tech,Indianapolis,OL,OFF,Rookie
+71,Denzelle Good,OT,25,78,340,2,Mars Hill,Indianapolis,OL,OFF,1-4 Yrs
+66,Kevin Graf,OT,25,78,309,1,USC,Indianapolis,OL,OFF,1-4 Yrs
+59,Joe Haeg,OT,23,78,307,0,North Dakota State,Indianapolis,OL,OFF,Rookie
+74,Anthony Castonzo,OT,27,79,311,6,Boston College,Indianapolis,OL,OFF,5-8 Yrs
+73,Mitchell Van Dyk,OT,25,79,299,2,Portland State,Indianapolis,OL,OFF,1-4 Yrs
+1,Pat McAfee,P,29,73,233,8,West Virginia,Indianapolis,ST,ST,5-8 Yrs
+4,Adam Vinatieri,PK,43,72,206,21,South Dakota State,Indianapolis,ST,ST,13+ Yrs
+16,Scott Tolzien,QB,28,74,213,6,Wisconsin,Indianapolis,QB,OFF,5-8 Yrs
+7,Stephen Morris,QB,23,74,218,1,Miami,Indianapolis,QB,OFF,1-4 Yrs
+12,Andrew Luck,QB,26,76,240,5,Stanford,Indianapolis,QB,OFF,5-8 Yrs
+40,Trey Williams,RB,23,67,195,2,Texas A&M,Indianapolis,Tailback,OFF,1-4 Yrs
+23,Frank Gore,RB,33,69,217,12,Miami,Indianapolis,Tailback,OFF,9-12 Yrs
+28,Jordan Todman,RB,26,69,203,5,Connecticut,Indianapolis,Tailback,OFF,5-8 Yrs
+6,Josh Ferguson,RB,23,69,198,0,Illinois,Indianapolis,Tailback,OFF,Rookie
+33,Robert Turbin,RB,26,70,222,5,Utah State,Indianapolis,Tailback,OFF,5-8 Yrs
+38,Tyler Varga,RB,22,70,225,2,Yale,Indianapolis,Tailback,OFF,1-4 Yrs
+--,Stefan McClure,S,23,71,201,0,California,Indianapolis,DB,DEF,Rookie
+35,Akeem Davis,S,26,73,200,3,Memphis,Indianapolis,DB,DEF,1-4 Yrs
+--,Andrew Williamson,S,23,73,209,0,Vanderbilt,Indianapolis,DB,DEF,Rookie
+15,T.J. Green,S,21,74,209,0,Clemson,Indianapolis,DB,DEF,Rookie
+29,Mike Adams,SS,35,71,205,13,Delaware,Indianapolis,DB,DEF,13+ Yrs
+42,Clayton Geathers,SS,24,73,215,2,UCF,Indianapolis,DB,DEF,1-4 Yrs
+44,Emil Igwenagu,TE,27,74,245,2,Massachusetts,Indianapolis,TE,OFF,1-4 Yrs
+83,Dwayne Allen,TE,26,75,265,5,Clemson,Indianapolis,TE,OFF,5-8 Yrs
+80,Mike McFarland,TE,24,77,252,2,South Florida,Indianapolis,TE,OFF,1-4 Yrs
+86,Erik Swoope,TE,24,77,246,1,Miami,Indianapolis,TE,OFF,1-4 Yrs
+--,Darion Griswold,TE,23,77,255,0,Arkansas State,Indianapolis,TE,OFF,Rookie
+84,Jack Doyle,TE,26,78,267,4,Western Kentucky,Indianapolis,TE,OFF,1-4 Yrs
+--,Mike Miller,TE,24,78,249,0,Taylor Trojans,Indianapolis,TE,OFF,Rookie
+--,Danny Anthrop,WR,23,72,181,0,Purdue,Indianapolis,WR,OFF,Rookie
+--,Marcus Leak,WR,23,72,210,0,Maryland,Indianapolis,WR,OFF,Rookie
+13,T.Y. Hilton,WR,26,69,180,5,Florida Intl,Indianapolis,WR,OFF,5-8 Yrs
+11,Quan Bray,WR,23,70,195,2,Auburn,Indianapolis,WR,OFF,1-4 Yrs
+15,Phillip Dorsett,WR,23,70,185,2,Miami,Indianapolis,WR,OFF,1-4 Yrs
+17,Josh Boyce,WR,25,71,205,3,TCU,Indianapolis,WR,OFF,1-4 Yrs
+14,Joshua Stangby,WR,25,71,185,1,--,Indianapolis,WR,OFF,1-4 Yrs
+--,Chester Rogers,WR,22,73,181,0,Grambling State,Indianapolis,WR,OFF,Rookie
+--,Tevaun Smith,WR,23,74,201,0,Iowa,Indianapolis,WR,OFF,Rookie
+10,Donte Moncrief,WR,22,74,222,3,Ole Miss,Indianapolis,WR,OFF,1-4 Yrs
+81,Brian Tyms,WR,27,75,204,4,Florida A&M,Indianapolis,WR,OFF,1-4 Yrs
+--,Mekale McKay,WR,22,75,204,0,Cincinnati,Indianapolis,WR,OFF,Rookie
+46,Carson Tinker,C,26,72,250,4,Alabama,Jacksonville,OL,OFF,1-4 Yrs
+70,Luke Bowanko,C,25,78,310,3,Virginia,Jacksonville,OL,OFF,1-4 Yrs
+--,Prince Amukamara,CB,27,72,207,6,Nebraska,Jacksonville,DB,DEF,5-8 Yrs
+22,Aaron Colvin,CB,24,72,194,3,Oklahoma,Jacksonville,DB,DEF,1-4 Yrs
+--,Briean Boddy-Calhoun,CB,23,69,193,0,Minnesota,Jacksonville,DB,DEF,Rookie
+--,Mike Hilton,CB,22,69,184,0,Ole Miss,Jacksonville,DB,DEF,Rookie
+36,Josh Johnson,CB,25,70,199,0,Purdue,Jacksonville,DB,DEF,Rookie
+25,Peyton Thompson,CB,25,70,180,5,San José State,Jacksonville,DB,DEF,5-8 Yrs
+27,Dwayne Gratz,CB,26,71,206,4,Connecticut,Jacksonville,DB,DEF,1-4 Yrs
+41,Nick Marshall,CB,24,73,206,2,Auburn,Jacksonville,DB,DEF,1-4 Yrs
+8,Jalen Ramsey,CB,21,73,209,0,Florida State,Jacksonville,DB,DEF,Rookie
+35,Demetrius McCray,CB,25,74,194,4,Appalachian State,Jacksonville,DB,DEF,1-4 Yrs
+31,Davon House,DB,27,72,196,6,New Mexico State,Jacksonville,DB,DEF,5-8 Yrs
+--,Tashaun Gipson,DB,25,71,205,5,Wyoming,Jacksonville,DB,DEF,5-8 Yrs
+98,Chris Smith,DE,24,73,270,3,Arkansas,Jacksonville,Front Seven,DEF,1-4 Yrs
+59,Ryan Davis,DE,27,74,270,4,Bethune-Cookman,Jacksonville,Front Seven,DEF,1-4 Yrs
+7,Yannick Ngakoue,DE,21,74,255,0,Maryland,Jacksonville,Front Seven,DEF,Rookie
+93,Tyson Alualu,DE,29,75,310,7,California,Jacksonville,Front Seven,DEF,5-8 Yrs
+56,Dante Fowler Jr.,DE,21,75,261,2,Florida,Jacksonville,Front Seven,DEF,1-4 Yrs
+91,Tyrone Holmes,DE,22,76,250,0,Montana,Jacksonville,Front Seven,DEF,Rookie
+97,Malik Jackson,DE,26,77,293,5,Tennessee,Jacksonville,Front Seven,DEF,5-8 Yrs
+3,Jonathan Woodard,DE,22,78,271,0,Central Arkansas,Jacksonville,Front Seven,DEF,Rookie
+92,Bjoern Werner,DL,25,75,255,4,Florida State,Jacksonville,Front Seven,DEF,1-4 Yrs
+91,Sheldon Day,DT,22,72,286,0,Notre Dame,Jacksonville,Front Seven,DEF,Rookie
+99,Sen'Derrick Marks,DT,29,74,316,8,Auburn,Jacksonville,Front Seven,DEF,5-8 Yrs
+97,Roy Miller,DT,29,74,320,8,Texas,Jacksonville,Front Seven,DEF,5-8 Yrs
+96,Michael Bennett,DT,23,74,305,2,Ohio State,Jacksonville,Front Seven,DEF,1-4 Yrs
+94,Richard Ash,DT,23,75,314,1,Western Michigan,Jacksonville,Front Seven,DEF,1-4 Yrs
+95,Abry Jones,DT,24,76,320,4,Georgia,Jacksonville,Front Seven,DEF,1-4 Yrs
+75,Jared Odrick,DT,28,77,305,7,Penn State,Jacksonville,Front Seven,DEF,5-8 Yrs
+26,Josh Evans,FS,25,72,210,4,Florida,Jacksonville,DB,DEF,1-4 Yrs
+73,Mackenzy Bernadeau,G,30,76,322,9,Bentley,Jacksonville,OL,OFF,9-12 Yrs
+77,Patrick Omameh,G,26,76,305,4,Michigan,Jacksonville,OL,OFF,1-4 Yrs
+36,Kadeem Edwards,G,25,76,313,2,Tennessee State,Jacksonville,OL,OFF,1-4 Yrs
+64,Chris Reed,G,24,77,300,1,Minnesota State,Jacksonville,OL,OFF,1-4 Yrs
+65,Brandon Linder,G,24,78,320,3,Miami,Jacksonville,OL,OFF,1-4 Yrs
+52,Hayes Pullard III,LB,24,72,240,2,USC,Jacksonville,Front Seven,DEF,1-4 Yrs
+53,Sean Porter,LB,25,73,242,4,Texas A&M,Jacksonville,Front Seven,DEF,1-4 Yrs
+30,Myles Jack,LB,20,73,245,0,UCLA,Jacksonville,Front Seven,DEF,Rookie
+51,Paul Posluszny,LB,31,74,240,10,Penn State,Jacksonville,Front Seven,DEF,9-12 Yrs
+55,Dan Skuta,LB,30,74,265,8,Grand Valley State,Jacksonville,Front Seven,DEF,5-8 Yrs
+54,Joplo Bartu,LB,26,74,230,4,Texas State,Jacksonville,Front Seven,DEF,1-4 Yrs
+57,Thurston Armbrister,LB,23,74,235,2,Miami,Jacksonville,Front Seven,DEF,1-4 Yrs
+50,Telvin Smith,LB,25,75,223,3,Florida State,Jacksonville,Front Seven,DEF,1-4 Yrs
+58,Jordan Tripp,LB,25,75,244,3,Montana,Jacksonville,Front Seven,DEF,1-4 Yrs
+69,Tyler Shatley,OG,25,75,305,3,Clemson,Jacksonville,OL,OFF,1-4 Yrs
+60,A.J. Cann,OG,24,75,315,2,South Carolina,Jacksonville,OL,OFF,1-4 Yrs
+--,Jeffrey Linkenbach,OL,29,78,317,7,Cincinnati,Jacksonville,OL,OFF,5-8 Yrs
+--,Kelvin Beachum,OT,27,75,303,5,SMU,Jacksonville,OL,OFF,5-8 Yrs
+78,Jermey Parnell,OT,30,78,315,7,Ole Miss,Jacksonville,OL,OFF,5-8 Yrs
+72,Josh Wells,OT,25,78,310,3,James Madison,Jacksonville,OL,OFF,1-4 Yrs
+--,Rashod Hill,OT,24,78,309,0,Southern Mississippi,Jacksonville,OL,OFF,Rookie
+76,Luke Joeckel,OT,24,78,315,4,Texas A&M,Jacksonville,OL,OFF,1-4 Yrs
+--,Pearce Slater,OT,22,79,333,0,San Diego State,Jacksonville,OL,OFF,Rookie
+8,Brad Nortman,P,26,74,215,5,Wisconsin,Jacksonville,ST,ST,5-8 Yrs
+2,Jason Myers,PK,25,70,195,2,Marist,Jacksonville,ST,ST,1-4 Yrs
+10,Brandon Allen,QB,23,73,217,0,Arkansas,Jacksonville,QB,OFF,Rookie
+7,Chad Henne,QB,31,75,220,9,Michigan,Jacksonville,QB,OFF,9-12 Yrs
+--,Max Wittek,QB,22,76,236,0,Hawaii,Jacksonville,QB,OFF,Rookie
+5,Blake Bortles,QB,24,77,245,3,UCF,Jacksonville,QB,OFF,1-4 Yrs
+33,Chris Ivory,RB,28,72,222,7,Tiffin University,Jacksonville,Tailback,OFF,5-8 Yrs
+16,Denard Robinson,RB,25,72,215,4,Michigan,Jacksonville,Tailback,OFF,1-4 Yrs
+29,Joe Banyard,RB,27,70,221,4,UTEP,Jacksonville,Tailback,OFF,1-4 Yrs
+34,Jonas Gray,RB,26,70,225,3,Notre Dame,Jacksonville,Tailback,OFF,1-4 Yrs
+33,Corey Grant,RB,24,70,205,2,Auburn,Jacksonville,Tailback,OFF,1-4 Yrs
+24,T.J. Yeldon,RB,22,73,225,2,Alabama,Jacksonville,Tailback,OFF,1-4 Yrs
+42,Earl Wolff,S,26,71,210,3,NC State,Jacksonville,DB,DEF,1-4 Yrs
+23,James Sample,S,24,74,215,2,Louisville,Jacksonville,DB,DEF,1-4 Yrs
+--,Jarrod Wilson,S,22,74,205,0,Michigan,Jacksonville,DB,DEF,Rookie
+37,Johnathan Cyprien,SS,25,72,223,4,Florida Intl,Jacksonville,DB,DEF,1-4 Yrs
+--,Braedon Bowman,TE,22,75,240,0,South Alabama,Jacksonville,TE,OFF,Rookie
+80,Julius Thomas,TE,28,77,260,6,Portland State,Jacksonville,TE,OFF,5-8 Yrs
+85,Nic Jacobs,TE,24,77,295,3,McNeese State,Jacksonville,TE,OFF,1-4 Yrs
+48,Ben Koyack,TE,23,77,255,1,Notre Dame,Jacksonville,TE,OFF,1-4 Yrs
+89,Marcedes Lewis,TE,32,78,275,11,UCLA,Jacksonville,TE,OFF,9-12 Yrs
+81,Bryan Walters,WR,28,72,195,3,Cornell,Jacksonville,WR,OFF,1-4 Yrs
+11,Marqise Lee,WR,24,72,200,3,USC,Jacksonville,WR,OFF,1-4 Yrs
+12,Tony Washington,WR,25,70,198,2,Appalachian State,Jacksonville,WR,OFF,1-4 Yrs
+13,Rashad Greene,WR,23,71,185,2,Florida State,Jacksonville,WR,OFF,1-4 Yrs
+14,Justin Blackmon,WR,26,73,210,2,Oklahoma State,Jacksonville,WR,OFF,1-4 Yrs
+84,Shaquelle Evans,WR,25,73,213,2,UCLA,Jacksonville,WR,OFF,1-4 Yrs
+18,Rashad Lawrence,WR,24,73,190,1,Northwestern,Jacksonville,WR,OFF,1-4 Yrs
+4,Rasheed Bailey,WR,22,73,205,1,Delaware Valley,Jacksonville,WR,OFF,1-4 Yrs
+17,Arrelious Benn,WR,27,74,220,6,Illinois,Jacksonville,WR,OFF,5-8 Yrs
+88,Allen Hurns,WR,24,75,205,3,Miami,Jacksonville,WR,OFF,1-4 Yrs
+87,Neal Sterling,WR,24,75,238,2,Monmouth,Jacksonville,WR,OFF,1-4 Yrs
+15,Allen Robinson,WR,22,75,215,3,Penn State,Jacksonville,WR,OFF,1-4 Yrs
+--,Jamal Robinson,WR,23,76,205,0,Louisiana Lafayette,Jacksonville,WR,OFF,Rookie
+41,James Winchester,C,26,75,240,2,Oklahoma,Kansas City,OL,OFF,1-4 Yrs
+61,Mitch Morse,C,24,77,305,2,Missouri,Kansas City,OL,OFF,1-4 Yrs
+22,Marcus Peters,CB,23,72,197,2,Washington,Kansas City,DB,DEF,1-4 Yrs
+20,Steven Nelson,CB,23,70,194,2,Oregon State,Kansas City,DB,DEF,1-4 Yrs
+30,Jamell Fleming,CB,27,71,206,5,Oklahoma,Kansas City,DB,DEF,5-8 Yrs
+1,Deveron Carr,CB,25,71,190,2,Arizona State,Kansas City,DB,DEF,1-4 Yrs
+31,Eric Murray,CB,22,71,199,0,Minnesota,Kansas City,DB,DEF,Rookie
+6,KeiVarae Russell,CB,22,71,192,0,Notre Dame,Kansas City,DB,DEF,Rookie
+28,D.J. White,CB,22,71,193,0,Georgia Tech,Kansas City,DB,DEF,Rookie
+5,Tre Jones,CB,21,71,195,0,Mount Union,Kansas City,DB,DEF,Rookie
+40,Keith Lewis,CB,27,73,190,1,Lynchburg,Kansas City,DB,DEF,1-4 Yrs
+27,Vernon Harris,CB,22,73,194,0,Dartmouth,Kansas City,DB,DEF,Rookie
+--,Shakiel Randolph,CB,--,77,201,0,SMU,Kansas City,DB,DEF,Rookie
+23,Phillip Gaines,DB,25,72,193,3,Rice,Kansas City,DB,DEF,1-4 Yrs
+34,Shannon Edwards,DB,22,71,192,0,Fresno State,Kansas City,DB,DEF,Rookie
+31,Marcus Cooper,DB,26,74,192,4,Rutgers,Kansas City,DB,DEF,1-4 Yrs
+49,Daniel Sorensen,DB,26,74,208,3,BYU,Kansas City,DB,DEF,1-4 Yrs
+97,Allen Bailey,DE,27,75,288,6,Miami,Kansas City,Front Seven,DEF,5-8 Yrs
+96,Jaye Howard,DE,27,75,301,5,Florida,Kansas City,Front Seven,DEF,5-8 Yrs
+67,Niko Davis,DE,26,77,285,0,Liberty,Kansas City,Front Seven,DEF,Rookie
+92,Dontari Poe,DL,25,75,346,5,Memphis,Kansas City,Front Seven,DEF,5-8 Yrs
+94,Jimmy Staten,DL,25,75,311,1,Middle Tennessee,Kansas City,Front Seven,DEF,1-4 Yrs
+93,David King,DL,26,76,281,4,Oklahoma,Kansas City,Front Seven,DEF,1-4 Yrs
+99,Rakeem Nunez-Roches,DT,23,74,307,2,Southern Mississippi,Kansas City,Front Seven,DEF,1-4 Yrs
+65,Alameda Ta'amu,DT,25,75,348,3,Washington,Kansas City,Front Seven,DEF,1-4 Yrs
+98,Nick Williams,DT,26,76,309,3,Samford,Kansas City,Front Seven,DEF,1-4 Yrs
+98,Chris Jones,DT,22,78,308,0,Mississippi State,Kansas City,Front Seven,DEF,Rookie
+42,Anthony Sherman,FB,27,70,242,6,Connecticut,Kansas City,Tailback,OFF,5-8 Yrs
+36,Trey Millard,FB,24,74,247,1,Oklahoma,Kansas City,Tailback,OFF,1-4 Yrs
+78,Parker Ehinger,G,23,78,308,0,Cincinnati,Kansas City,OL,OFF,Rookie
+59,Justin March,LB,23,72,222,2,Akron,Kansas City,Front Seven,DEF,1-4 Yrs
+90,Josh Mauga,LB,29,73,245,7,Nevada,Kansas City,Front Seven,DEF,5-8 Yrs
+--,Jonathan Massaquoi,LB,28,74,264,4,Troy,Kansas City,Front Seven,DEF,1-4 Yrs
+54,Dezman Moses,LB,27,74,249,5,Tulane,Kansas City,Front Seven,DEF,5-8 Yrs
+55,Dee Ford,LB,25,74,252,3,Auburn,Kansas City,Front Seven,DEF,1-4 Yrs
+52,Tyrell Adams,LB,24,74,228,1,West Georgia,Kansas City,Front Seven,DEF,1-4 Yrs
+57,D.J. Alexander,LB,24,74,233,2,Oregon State,Kansas City,Front Seven,DEF,1-4 Yrs
+53,Ramik Wilson,LB,23,74,237,2,Georgia,Kansas City,Front Seven,DEF,1-4 Yrs
+56,Derrick Johnson,LB,33,75,242,12,Texas,Kansas City,Front Seven,DEF,9-12 Yrs
+91,Tamba Hali,LB,32,75,275,11,Penn State,Kansas City,Front Seven,DEF,9-12 Yrs
+51,Frank Zombo,LB,29,75,254,7,Central Michigan,Kansas City,Front Seven,DEF,5-8 Yrs
+50,Justin Houston,LB,27,75,258,6,Georgia,Kansas City,Front Seven,DEF,5-8 Yrs
+62,Andy Mulumba,LB,26,75,260,4,Eastern Michigan,Kansas City,Front Seven,DEF,1-4 Yrs
+90,Dadi Lhomme Nicolas,LB,23,75,235,0,Virginia Tech,Kansas City,Front Seven,DEF,Rookie
+24,Terrance Smith,LB,23,75,235,0,Florida State,Kansas City,Front Seven,DEF,Rookie
+73,Zach Fulton,OG,24,77,316,3,Tennessee,Kansas City,OL,OFF,1-4 Yrs
+77,Daniel Munyer,OL,24,73,305,1,Colorado,Kansas City,OL,OFF,1-4 Yrs
+--,Drew Nowak,OL,26,75,292,5,Western Michigan,Kansas City,OL,OFF,5-8 Yrs
+52,Garrick Mayweather,OL,21,75,320,0,Fordham,Kansas City,OL,OFF,Rookie
+60,Jarrod Pughsley,OL,25,76,310,1,Akron,Kansas City,OL,OFF,1-4 Yrs
+--,Mitchell Schwartz,OL,27,77,320,5,California,Kansas City,OL,OFF,5-8 Yrs
+75,Jah Reid,OL,28,79,325,6,UCF,Kansas City,OL,OFF,5-8 Yrs
+74,Zach Sterup,OL,24,80,315,0,Nebraska,Kansas City,OL,OFF,Rookie
+76,Laurent Duvernay-Tardif,OT,25,77,321,3,--,Kansas City,OL,OFF,1-4 Yrs
+72,Eric Fisher,OT,25,79,315,4,Central Michigan,Kansas City,OL,OFF,1-4 Yrs
+69,Reid Fragel,OT,25,80,308,2,Ohio State,Kansas City,OL,OFF,1-4 Yrs
+2,Dustin Colquitt,P,34,75,210,12,Tennessee,Kansas City,ST,ST,9-12 Yrs
+5,Cairo Santos,PK,24,68,160,3,Tulane,Kansas City,ST,ST,1-4 Yrs
+7,Aaron Murray,QB,25,73,207,3,Georgia,Kansas City,QB,OFF,1-4 Yrs
+8,Kevin Hogan,QB,23,75,217,0,Stanford,Kansas City,QB,OFF,Rookie
+11,Alex Smith,QB,32,76,217,12,Utah,Kansas City,QB,OFF,9-12 Yrs
+9,Tyler Bray,QB,24,78,215,3,Tennessee,Kansas City,QB,OFF,1-4 Yrs
+13,De'Anthony Thomas,RB,23,68,176,3,Oregon,Kansas City,Tailback,OFF,1-4 Yrs
+35,Charcandrick West,RB,25,70,205,3,Abilene Christian,Kansas City,Tailback,OFF,1-4 Yrs
+34,Knile Davis,RB,24,70,227,4,Arkansas,Kansas City,Tailback,OFF,1-4 Yrs
+32,Spencer Ware,RB,24,70,228,3,LSU,Kansas City,Tailback,OFF,1-4 Yrs
+1,Darrin Reaves,RB,23,70,215,2,UAB,Kansas City,Tailback,OFF,1-4 Yrs
+25,Jamaal Charles,RB,29,71,199,9,Texas,Kansas City,Tailback,OFF,9-12 Yrs
+27,Stevie Brown,S,29,71,215,6,Michigan,Kansas City,DB,DEF,5-8 Yrs
+38,Ron Parker,SS,28,72,206,6,Newberry,Kansas City,DB,DEF,5-8 Yrs
+29,Eric Berry,SS,27,72,212,7,Tennessee,Kansas City,DB,DEF,5-8 Yrs
+27,Donald Washington,SS,29,73,197,3,Ohio State,Kansas City,DB,DEF,1-4 Yrs
+80,James O'Shaughnessy,TE,24,76,245,2,Illinois State,Kansas City,TE,OFF,1-4 Yrs
+82,Brian Parker,TE,24,76,265,2,Albany,Kansas City,TE,OFF,1-4 Yrs
+87,Travis Kelce,TE,26,77,260,4,Cincinnati,Kansas City,TE,OFF,1-4 Yrs
+84,Demetrius Harris,TE,24,79,230,3,--,Kansas City,TE,OFF,1-4 Yrs
+89,Ross Travis,TE,23,79,235,1,Penn State,Kansas City,TE,OFF,1-4 Yrs
+19,Jeremy Maclin,WR,28,72,198,8,Missouri,Kansas City,WR,OFF,5-8 Yrs
+4,Da'Ron Brown,WR,24,72,199,1,Northern Illinois,Kansas City,WR,OFF,1-4 Yrs
+89,Kashif Moore,WR,27,69,180,1,Connecticut,Kansas City,WR,OFF,1-4 Yrs
+12,Albert Wilson,WR,24,69,200,3,Georgia State,Kansas City,WR,OFF,1-4 Yrs
+11,Tyreek Hill,WR,22,70,185,0,West Alabama,Kansas City,WR,OFF,Rookie
+85,Frankie Hammond,WR,26,73,184,3,Florida,Kansas City,WR,OFF,1-4 Yrs
+11,Demarcus Robinson,WR,21,73,204,0,Florida,Kansas City,WR,OFF,Rookie
+15,Mike Williams,WR,29,74,212,6,Syracuse,Kansas City,WR,OFF,5-8 Yrs
+80,Rod Streater,WR,28,74,195,5,Temple,Kansas City,WR,OFF,5-8 Yrs
+17,Chris Conley,WR,23,74,205,2,Georgia,Kansas City,WR,OFF,1-4 Yrs
+6,Kenny Cook,WR,24,76,218,1,Gardner-Webb,Kansas City,WR,OFF,1-4 Yrs
+10,Mitch Mathews,WR,25,78,205,0,BYU,Kansas City,WR,OFF,Rookie
+44,Jake McQuaide,C,28,74,244,6,Ohio State,Los Angeles,OL,OFF,5-8 Yrs
+65,Demetrius Rhaney,C,24,74,301,3,Tennessee State,Los Angeles,OL,OFF,1-4 Yrs
+61,Tim Barnes,C,28,76,306,5,Missouri,Los Angeles,OL,OFF,5-8 Yrs
+67,Brian Folkerts,C,26,76,310,4,Washburn,Los Angeles,OL,OFF,1-4 Yrs
+60,Eric Kush,C,26,76,313,4,California (PA),Los Angeles,OL,OFF,1-4 Yrs
+47,Marcus Roberson,CB,23,72,191,3,Florida,Los Angeles,DB,DEF,1-4 Yrs
+--,Winston Rose,CB,22,72,180,0,New Mexico State,Los Angeles,DB,DEF,Rookie
+20,Lamarcus Joyner,CB,25,68,184,3,Florida State,Los Angeles,DB,DEF,1-4 Yrs
+33,E.J. Gaines,CB,24,70,190,3,Missouri,Los Angeles,DB,DEF,1-4 Yrs
+21,Coty Sensabaugh,CB,27,71,187,5,Clemson,Los Angeles,DB,DEF,5-8 Yrs
+22,Trumaine Johnson,CB,26,74,208,5,Montana,Los Angeles,DB,DEF,5-8 Yrs
+--,Michael Jordan,DB,23,72,200,0,Missouri Western,Los Angeles,DB,DEF,Rookie
+--,Brian Randolph,DB,23,72,198,0,Tennessee,Los Angeles,DB,DEF,Rookie
+32,Troy Hill,DB,24,70,182,1,Oregon,Los Angeles,DB,DEF,1-4 Yrs
+--,Rohan Gaines,DB,23,71,185,0,Arkansas,Los Angeles,DB,DEF,Rookie
+95,William Hayes,DE,31,75,278,9,Winston-Salem,Los Angeles,Front Seven,DEF,9-12 Yrs
+63,Matt Longacre,DE,24,75,260,2,Northwest Missouri State,Los Angeles,Front Seven,DEF,1-4 Yrs
+94,Robert Quinn,DE,26,76,264,6,North Carolina,Los Angeles,Front Seven,DEF,5-8 Yrs
+97,Eugene Sims,DE,30,78,269,7,West Texas A&M,Los Angeles,Front Seven,DEF,5-8 Yrs
+98,Quinton Coples,DE,26,78,290,5,North Carolina,Los Angeles,Front Seven,DEF,5-8 Yrs
+99,Aaron Donald,DT,25,73,285,3,Pittsburgh,Los Angeles,Front Seven,DEF,1-4 Yrs
+62,Louis Trinca-Pasat,DT,24,73,292,1,Iowa,Los Angeles,Front Seven,DEF,1-4 Yrs
+--,Cam Thomas,DT,29,76,335,7,North Carolina,Los Angeles,Front Seven,DEF,5-8 Yrs
+93,Ethan Westbrooks,DT,25,76,267,3,West Texas A&M,Los Angeles,Front Seven,DEF,1-4 Yrs
+--,Morgan Fox,DT,21,76,259,0,Colorado State,Los Angeles,Front Seven,DEF,Rookie
+90,Michael Brockers,DT,25,77,326,5,LSU,Los Angeles,Front Seven,DEF,5-8 Yrs
+68,Jamon Brown,G,23,76,323,2,Louisville,Los Angeles,OL,OFF,1-4 Yrs
+76,Rodger Saffold,G,28,77,332,7,Indiana,Los Angeles,OL,OFF,5-8 Yrs
+69,Cody Wichmann,G,24,77,319,2,Fresno State,Los Angeles,OL,OFF,1-4 Yrs
+71,Garrett Reynolds,G,29,79,305,8,North Carolina,Los Angeles,OL,OFF,5-8 Yrs
+50,Cameron Lynch,LB,22,72,229,2,Syracuse,Los Angeles,Front Seven,DEF,1-4 Yrs
+--,Nicholas Grigsby,LB,24,73,220,0,Pittsburgh,Los Angeles,Front Seven,DEF,Rookie
+54,Bryce Hager,LB,24,73,235,2,Baylor,Los Angeles,Front Seven,DEF,1-4 Yrs
+--,Brandon Chubb,LB,22,73,240,0,Wake Forest,Los Angeles,Front Seven,DEF,Rookie
+52,Alec Ogletree,LB,24,74,245,4,Georgia,Los Angeles,Front Seven,DEF,1-4 Yrs
+--,Ian Seau,LB,23,74,256,0,Nevada,Los Angeles,Front Seven,DEF,Rookie
+--,Darreon Herring,LB,22,74,227,0,Vanderbilt,Los Angeles,Front Seven,DEF,Rookie
+45,Josh Forrest,LB,--,75,249,0,Kentucky,Los Angeles,Front Seven,DEF,Rookie
+56,Akeem Ayers,LB,27,75,255,6,UCLA,Los Angeles,Front Seven,DEF,5-8 Yrs
+--,Cory Littleton,LB,22,75,238,0,Washington,Los Angeles,Front Seven,DEF,Rookie
+63,Darrell Williams,OT,22,76,301,2,South Florida,Los Angeles,OL,OFF,1-4 Yrs
+73,Greg Robinson,OT,23,77,332,3,Auburn,Los Angeles,OL,OFF,1-4 Yrs
+64,Andrew Donnal,OT,24,78,316,2,Iowa,Los Angeles,OL,OFF,1-4 Yrs
+79,Robert Havenstein,OT,24,79,321,2,Wisconsin,Los Angeles,OL,OFF,1-4 Yrs
+77,Isaiah Battle,OT,23,79,290,2,Clemson,Los Angeles,OL,OFF,1-4 Yrs
+--,Jordan Swindle,OT,22,79,304,0,Kentucky,Los Angeles,OL,OFF,Rookie
+6,Johnny Hekker,P,26,77,236,5,Oregon State,Los Angeles,ST,ST,5-8 Yrs
+4,Greg Zuerlein,PK,28,72,196,5,Missouri Western,Los Angeles,ST,ST,5-8 Yrs
+--,Taylor Bertolet,PK,23,69,174,0,Texas A&M,Los Angeles,ST,ST,Rookie
+17,Case Keenum,QB,28,73,205,5,Houston,Los Angeles,QB,OFF,5-8 Yrs
+--,Dylan Thompson,QB,24,75,218,2,South Carolina,Los Angeles,QB,OFF,1-4 Yrs
+16,Jared Goff,QB,21,76,215,0,California,Los Angeles,QB,OFF,Rookie
+5,Nick Foles,QB,27,78,243,5,Arizona,Los Angeles,QB,OFF,5-8 Yrs
+14,Sean Mannion,QB,24,78,233,2,Oregon State,Los Angeles,QB,OFF,1-4 Yrs
+34,Chase Reynolds,RB,28,72,205,4,Montana,Los Angeles,Tailback,OFF,1-4 Yrs
+27,Tre Mason,RB,22,68,207,3,Auburn,Los Angeles,Tailback,OFF,1-4 Yrs
+--,Terrence Magee,RB,23,69,215,3,LSU,Los Angeles,Tailback,OFF,1-4 Yrs
+36,Benjamin Cunningham,RB,26,70,217,4,Middle Tennessee,Los Angeles,Tailback,OFF,1-4 Yrs
+--,Aaron Green,RB,23,70,203,0,TCU,Los Angeles,Tailback,OFF,Rookie
+39,Malcolm Brown,RB,23,71,224,1,Texas,Los Angeles,Tailback,OFF,1-4 Yrs
+30,Todd Gurley,RB,21,73,227,2,Georgia,Los Angeles,Tailback,OFF,1-4 Yrs
+37,Christian Bryant,S,24,69,198,2,Ohio State,Los Angeles,DB,DEF,1-4 Yrs
+38,Cody Davis,S,27,73,206,4,Texas Tech,Los Angeles,DB,DEF,1-4 Yrs
+25,T.J. McDonald,S,25,74,217,4,USC,Los Angeles,DB,DEF,1-4 Yrs
+31,Maurice Alexander,SS,25,73,220,3,Utah State,Los Angeles,DB,DEF,1-4 Yrs
+26,Mark Barron,SS,26,74,213,5,Alabama,Los Angeles,DB,DEF,5-8 Yrs
+88,Lance Kendricks,TE,28,75,250,6,Wisconsin,Los Angeles,TE,OFF,5-8 Yrs
+46,Cory Harkey,TE,26,76,259,5,UCLA,Los Angeles,TE,OFF,5-8 Yrs
+82,Tyler Higbee,TE,23,76,243,0,Western Kentucky,Los Angeles,TE,OFF,Rookie
+--,Benson Browne,TE,--,77,254,0,NC State,Los Angeles,TE,OFF,Rookie
+87,Temarrick Hemingway,TE,22,77,244,0,South Carolina State,Los Angeles,TE,OFF,Rookie
+--,Nelson Spruce,WR,23,72,196,0,Colorado,Los Angeles,WR,OFF,Rookie
+11,Tavon Austin,WR,25,68,176,4,West Virginia,Los Angeles,WR,OFF,1-4 Yrs
+15,Bradley Marquez,WR,23,70,196,2,Texas Tech,Los Angeles,WR,OFF,1-4 Yrs
+11,Pharoh Cooper,WR,21,71,207,0,South Carolina,Los Angeles,WR,OFF,Rookie
+--,Paul McRoberts,WR,23,73,202,0,Southeast Missouri State,Los Angeles,WR,OFF,Rookie
+88,Michael Thomas,WR,21,73,200,0,Southern Mississippi,Los Angeles,WR,OFF,Rookie
+18,Kenny Britt,WR,27,75,223,8,Rutgers,Los Angeles,WR,OFF,5-8 Yrs
+83,Brian Quick,WR,27,75,218,5,Appalachian State,Los Angeles,WR,OFF,5-8 Yrs
+--,Marquez North,WR,21,76,224,0,Tennessee,Los Angeles,WR,OFF,Rookie
+66,Jacques McClendon,C,28,75,324,4,Tennessee,Miami,OL,OFF,1-4 Yrs
+51,Mike Pouncey,C,26,77,305,6,Florida,Miami,OL,OFF,5-8 Yrs
+--,Chimdi Chekwa,CB,27,72,190,4,Ohio State,Miami,DB,DEF,1-4 Yrs
+4,Xavien Howard,CB,23,72,201,0,Baylor,Miami,DB,DEF,Rookie
+28,Bobby McCain,CB,22,69,196,2,Memphis,Miami,DB,DEF,1-4 Yrs
+29,Tyler Patmon,CB,25,70,188,3,Oklahoma State,Miami,DB,DEF,1-4 Yrs
+31,Byron Maxwell,CB,28,73,207,6,Clemson,Miami,DB,DEF,5-8 Yrs
+36,Tony Lippett,CB,24,74,200,2,Michigan State,Miami,DB,DEF,1-4 Yrs
+--,Ifo Ekpre-Olomu,DB,23,69,194,1,Oregon,Miami,DB,DEF,1-4 Yrs
+--,Lafayette Pitts,DB,23,71,194,0,Pittsburgh,Miami,DB,DEF,Rookie
+73,Julius Warmsley,DE,26,74,276,1,Tulane,Miami,Front Seven,DEF,1-4 Yrs
+69,Jordan Williams,DE,23,74,282,1,Tennessee,Miami,Front Seven,DEF,1-4 Yrs
+91,Cameron Wake,DE,34,75,270,8,Penn State,Miami,Front Seven,DEF,5-8 Yrs
+--,Cleyon Laing,DE,25,75,280,1,Iowa State,Miami,Front Seven,DEF,1-4 Yrs
+78,Terrence Fede,DE,24,76,278,3,Marist,Miami,Front Seven,DEF,1-4 Yrs
+--,Farrington Huguenin,DE,24,76,271,0,Kentucky,Miami,Front Seven,DEF,Rookie
+--,Andre Branch,DE,27,77,265,5,Clemson,Miami,Front Seven,DEF,5-8 Yrs
+94,Mario Williams,DE,31,78,292,11,NC State,Miami,Front Seven,DEF,9-12 Yrs
+95,Dion Jordan,DE,26,78,275,3,Oregon,Miami,Front Seven,DEF,1-4 Yrs
+90,Earl Mitchell,DT,28,75,310,7,Arizona,Miami,Front Seven,DEF,5-8 Yrs
+62,Deandre Coleman,DT,25,75,324,1,California,Miami,Front Seven,DEF,1-4 Yrs
+93,Ndamukong Suh,DT,29,76,320,7,Nebraska,Miami,Front Seven,DEF,5-8 Yrs
+97,Jordan Phillips,DT,23,78,330,2,Oklahoma,Miami,Front Seven,DEF,1-4 Yrs
+--,Chris Jones,DT,26,73,295,4,Bowling Green,Miami,Front Seven,DEF,1-4 Yrs
+82,Anthony Steen,G,26,75,309,1,Alabama,Miami,OL,OFF,1-4 Yrs
+75,Jamil Douglas,G,24,76,310,2,Arizona State,Miami,OL,OFF,1-4 Yrs
+--,Kraig Urbik,G,30,77,324,8,Wisconsin,Miami,OL,OFF,5-8 Yrs
+63,Dallas Thomas,G,26,77,315,4,Tennessee,Miami,OL,OFF,1-4 Yrs
+77,Billy Turner,G,24,77,302,2,North Dakota State,Miami,OL,OFF,1-4 Yrs
+45,Mike Hull,LB,25,72,237,1,Penn State,Miami,Front Seven,DEF,1-4 Yrs
+53,Jelani Jenkins,LB,24,72,243,4,Florida,Miami,Front Seven,DEF,1-4 Yrs
+--,James Burgess,LB,22,71,227,0,Louisville,Miami,Front Seven,DEF,Rookie
+56,James-Michael Johnson,LB,26,73,240,5,Nevada,Miami,Front Seven,DEF,5-8 Yrs
+42,Spencer Paysinger,LB,28,74,250,6,Oregon,Miami,Front Seven,DEF,5-8 Yrs
+49,Zach Vigil,LB,25,74,240,2,Utah State,Miami,Front Seven,DEF,1-4 Yrs
+46,Neville Hewitt,LB,23,74,235,2,Marshall,Miami,Front Seven,DEF,1-4 Yrs
+55,Koa Misi,LB,29,75,255,7,Utah,Miami,Front Seven,DEF,5-8 Yrs
+50,Kiko Alonso,LB,25,75,238,4,Oregon,Miami,Front Seven,DEF,1-4 Yrs
+--,Akil Blount,LB,22,75,225,0,Florida A&M,Miami,Front Seven,DEF,Rookie
+--,Tyler Gray,LB,23,76,232,0,Boise State,Miami,Front Seven,DEF,Rookie
+58,Chris McCain,LB,24,77,245,3,California,Miami,Front Seven,DEF,1-4 Yrs
+--,Ryan DiSalvo,LS,22,76,249,0,San José State,Miami,ST,ST,Rookie
+92,John Denney,LS,37,77,252,12,BYU,Miami,ST,ST,9-12 Yrs
+81,Vinston Painter,OL,26,76,310,2,Virginia Tech,Miami,OL,OFF,1-4 Yrs
+--,Ruben Carter,OL,23,76,306,0,Toledo,Miami,OL,OFF,Rookie
+68,Ulrick John,OL,24,80,300,3,Georgia State,Miami,OL,OFF,1-4 Yrs
+76,Branden Albert,OT,31,77,320,9,Virginia,Miami,OL,OFF,9-12 Yrs
+74,Jermon Bushrod,OT,31,77,320,10,Towson,Miami,OL,OFF,9-12 Yrs
+78,Laremy Tunsil,OT,21,77,305,0,Ole Miss,Miami,OL,OFF,Rookie
+70,Ja'Wuan James,OT,24,78,315,3,Tennessee,Miami,OL,OFF,1-4 Yrs
+--,Sam Young,OT,29,80,320,7,Notre Dame,Miami,OL,OFF,5-8 Yrs
+4,Matt Darr,P,24,73,220,2,Tennessee,Miami,ST,ST,1-4 Yrs
+3,Andrew Franks,PK,23,73,205,2,Rensselaer,Miami,ST,ST,1-4 Yrs
+12,Brandon Doughty,QB,24,74,216,0,Western Kentucky,Miami,QB,OFF,Rookie
+8,Matt Moore,QB,31,75,220,9,Oregon State,Miami,QB,OFF,9-12 Yrs
+2,Zac Dysert,QB,26,75,221,2,Miami (OH),Miami,QB,OFF,1-4 Yrs
+17,Ryan Tannehill,QB,27,76,220,5,Texas A&M,Miami,QB,OFF,5-8 Yrs
+23,Jay Ajayi,RB,23,72,228,2,Boise State,Miami,Tailback,OFF,1-4 Yrs
+17,Kenyan Drake,RB,22,72,210,0,Alabama,Miami,Tailback,OFF,Rookie
+--,Isaiah Pead,RB,26,70,204,4,Cincinnati,Miami,Tailback,OFF,1-4 Yrs
+34,Damien Williams,RB,24,71,225,3,Oklahoma,Miami,Tailback,OFF,1-4 Yrs
+--,Arian Foster,RB,29,73,227,8,Tennessee,Miami,Tailback,OFF,5-8 Yrs
+--,Daniel Thomas,RB,28,73,235,5,Kansas State,Miami,Tailback,OFF,5-8 Yrs
+27,Shamiel Gary,S,26,72,205,2,Oklahoma State,Miami,DB,DEF,1-4 Yrs
+9,Jordan Lucas,S,22,72,201,0,Penn State,Miami,DB,DEF,Rookie
+31,Michael Thomas,S,26,71,201,4,Stanford,Miami,DB,DEF,1-4 Yrs
+20,Reshad Jones,S,28,73,218,7,Georgia,Miami,DB,DEF,5-8 Yrs
+--,Isa Abdul-Quddus,S,26,73,201,6,Fordham,Miami,DB,DEF,5-8 Yrs
+35,Walt Aikens,S,25,73,208,3,Liberty,Miami,DB,DEF,1-4 Yrs
+--,A.J. Hendy,S,23,73,201,0,Maryland,Miami,DB,DEF,Rookie
+99,Dominique Jones,TE,28,75,270,4,Shepherd,Miami,TE,OFF,1-4 Yrs
+86,Jake Stoneburner,TE,26,75,250,3,Ohio State,Miami,TE,OFF,1-4 Yrs
+18,Thomas Duarte,TE,21,75,225,0,UCLA,Miami,TE,OFF,Rookie
+48,MarQueis Gray,TE,26,76,242,4,Minnesota,Miami,TE,OFF,1-4 Yrs
+80,Dion Sims,TE,25,76,268,4,Michigan State,Miami,TE,OFF,1-4 Yrs
+--,Gabe Hughes,TE,22,76,240,0,Florida Tech,Miami,TE,OFF,Rookie
+84,Jordan Cameron,TE,27,77,260,6,USC,Miami,TE,OFF,5-8 Yrs
+10,Kenny Stills,WR,24,72,198,4,Oklahoma,Miami,WR,OFF,1-4 Yrs
+11,Jakeem Grant,WR,23,66,165,0,Texas Tech,Miami,WR,OFF,Rookie
+--,A.J. Cruz,WR,25,69,195,0,Brown,Miami,WR,OFF,Rookie
+17,Griff Whalen,WR,26,71,190,5,Stanford,Miami,WR,OFF,5-8 Yrs
+14,Jarvis Landry,WR,23,71,202,3,LSU,Miami,WR,OFF,1-4 Yrs
+4,Leonte Carroo,WR,22,71,217,0,Rutgers,Miami,WR,OFF,Rookie
+--,Brandon Shippen,WR,22,71,185,0,Temple,Miami,WR,OFF,Rookie
+83,Matt Hazel,WR,24,73,205,2,Coastal Carolina,Miami,WR,OFF,1-4 Yrs
+19,Tyler Murphy,WR,24,73,214,1,Boston College,Miami,WR,OFF,1-4 Yrs
+--,Rashawn Scott,WR,24,74,203,0,Miami,Miami,WR,OFF,Rookie
+11,DeVante Parker,WR,23,75,218,2,Louisville,Miami,WR,OFF,1-4 Yrs
+62,Nicholas Easton,C,24,75,303,2,Harvard,Minnesota,OL,OFF,1-4 Yrs
+65,John Sullivan,C,30,76,310,8,Notre Dame,Minnesota,OL,OFF,5-8 Yrs
+61,Joe Berger,C,34,77,305,12,Michigan Tech,Minnesota,OL,OFF,9-12 Yrs
+47,Kevin McDermott,C,26,77,240,4,UCLA,Minnesota,OL,OFF,1-4 Yrs
+67,Zac Kerin,C,24,77,305,2,Toledo,Minnesota,OL,OFF,1-4 Yrs
+--,Keith Baxter,CB,24,72,193,0,Marshall,Minnesota,DB,DEF,Rookie
+26,Trae Waynes,CB,23,72,190,2,Michigan State,Minnesota,DB,DEF,1-4 Yrs
+24,Captain Munnerlyn,CB,28,69,195,8,South Carolina,Minnesota,DB,DEF,5-8 Yrs
+23,Terence Newman,CB,37,70,197,14,Kansas State,Minnesota,DB,DEF,13+ Yrs
+35,Marcus Sherels,CB,28,70,175,6,Minnesota,Minnesota,DB,DEF,5-8 Yrs
+2,Mackensie Alexander,CB,22,70,190,0,Clemson,Minnesota,DB,DEF,Rookie
+25,Jabari Price,CB,23,71,200,3,North Carolina,Minnesota,DB,DEF,1-4 Yrs
+29,Xavier Rhodes,CB,26,73,218,4,Florida State,Minnesota,DB,DEF,1-4 Yrs
+--,Melvin White,CB,26,73,215,3,Louisiana Lafayette,Minnesota,DB,DEF,1-4 Yrs
+--,Tre Roberson,CB,23,73,201,0,Illinois State,Minnesota,DB,DEF,Rookie
+96,Brian Robison,DE,33,75,259,10,Texas,Minnesota,Front Seven,DEF,9-12 Yrs
+97,Everson Griffen,DE,28,75,273,7,USC,Minnesota,Front Seven,DEF,5-8 Yrs
+95,Scott Crichton,DE,24,75,273,3,Oregon State,Minnesota,Front Seven,DEF,1-4 Yrs
+--,Denzell Perine,DE,23,75,256,0,Florida Atlantic,Minnesota,Front Seven,DEF,Rookie
+94,Justin Trattou,DE,27,76,258,5,Florida,Minnesota,Front Seven,DEF,5-8 Yrs
+--,Theiren Cockran,DE,23,76,252,0,Minnesota,Minnesota,Front Seven,DEF,Rookie
+99,Danielle Hunter,DE,21,77,252,2,LSU,Minnesota,Front Seven,DEF,1-4 Yrs
+91,Zach Moore,DE,25,78,280,2,Concordia-St. Paul,Minnesota,Front Seven,DEF,1-4 Yrs
+92,Tom Johnson,DT,31,75,288,6,Southern Mississippi,Minnesota,Front Seven,DEF,5-8 Yrs
+73,Sharrif Floyd,DT,25,75,311,4,Florida,Minnesota,Front Seven,DEF,1-4 Yrs
+69,Toby Johnson,DT,24,75,312,1,Georgia,Minnesota,Front Seven,DEF,1-4 Yrs
+72,Kenrick Ellis,DT,28,76,346,6,Hampton,Minnesota,Front Seven,DEF,5-8 Yrs
+98,Linval Joseph,DT,27,76,329,7,East Carolina,Minnesota,Front Seven,DEF,5-8 Yrs
+76,Isame Faciane,DT,25,76,302,1,Florida Intl,Minnesota,Front Seven,DEF,1-4 Yrs
+--,Travis Raciti,DT,24,76,292,1,San José State,Minnesota,Front Seven,DEF,1-4 Yrs
+93,Shamar Stephen,DT,25,77,310,3,Connecticut,Minnesota,Front Seven,DEF,1-4 Yrs
+48,Zach Line,FB,26,73,233,4,SMU,Minnesota,Tailback,OFF,1-4 Yrs
+49,Blake Renaud,FB,23,73,252,1,Boise State,Minnesota,Tailback,OFF,1-4 Yrs
+22,Harrison Smith,FS,27,74,214,5,Notre Dame,Minnesota,DB,DEF,5-8 Yrs
+79,Mike Harris,G,27,77,338,5,UCLA,Minnesota,OL,OFF,5-8 Yrs
+78,Jeremiah Sirles,G,24,78,315,3,Nebraska,Minnesota,OL,OFF,1-4 Yrs
+76,Alex Boone,G,29,80,300,7,Ohio State,Minnesota,OL,OFF,5-8 Yrs
+54,Eric Kendricks,LB,24,72,232,2,UCLA,Minnesota,Front Seven,DEF,1-4 Yrs
+10,Kentrell Brothers,LB,23,72,245,0,Missouri,Minnesota,Front Seven,DEF,Rookie
+--,Jake Ganus,LB,23,73,231,0,Georgia,Minnesota,Front Seven,DEF,Rookie
+58,Brandon Watts,LB,25,74,231,3,Georgia Tech,Minnesota,Front Seven,DEF,1-4 Yrs
+52,Chad Greenway,LB,33,75,237,11,Iowa,Minnesota,Front Seven,DEF,9-12 Yrs
+51,Edmond Robinson,LB,24,75,245,2,Newberry,Minnesota,Front Seven,DEF,1-4 Yrs
+59,Emmanuel Lamur,LB,27,76,245,5,Kansas State,Minnesota,Front Seven,DEF,5-8 Yrs
+45,Stephen Weatherly,LB,22,76,267,0,Vanderbilt,Minnesota,Front Seven,DEF,Rookie
+57,Audie Cole,LB,27,77,248,5,NC State,Minnesota,Front Seven,DEF,5-8 Yrs
+55,Anthony Barr,LB,24,77,255,3,UCLA,Minnesota,Front Seven,DEF,1-4 Yrs
+63,Brandon Fusco,OG,27,76,306,6,Slippery Rock,Minnesota,OL,OFF,5-8 Yrs
+74,Austin Shepherd,OG,24,76,327,2,Alabama,Minnesota,OL,OFF,1-4 Yrs
+71,Andre Smith,OT,29,76,325,8,Alabama,Minnesota,OL,OFF,5-8 Yrs
+70,Willie Beavers,OT,22,76,324,0,Western Michigan,Minnesota,OL,OFF,Rookie
+68,T.J. Clemmings,OT,24,77,309,2,Pittsburgh,Minnesota,OL,OFF,1-4 Yrs
+75,Matt Kalil,OT,27,79,317,5,USC,Minnesota,OL,OFF,5-8 Yrs
+60,Carter Bykowski,OT,25,79,313,3,Iowa State,Minnesota,OL,OFF,1-4 Yrs
+71,Phil Loadholt,OT,30,80,345,8,Oklahoma,Minnesota,OL,OFF,5-8 Yrs
+18,Jeff Locke,P,26,72,195,4,UCLA,Minnesota,ST,ST,1-4 Yrs
+3,Blair Walsh,PK,26,70,170,5,Georgia,Minnesota,ST,ST,5-8 Yrs
+6,Taylor Heinicke,QB,23,73,210,2,Old Dominion,Minnesota,QB,OFF,1-4 Yrs
+5,Teddy Bridgewater,QB,23,74,215,3,Louisville,Minnesota,QB,OFF,1-4 Yrs
+13,Shaun Hill,QB,36,75,230,15,Maryland,Minnesota,QB,OFF,13+ Yrs
+--,Joel Stave,QB,24,77,226,0,Wisconsin,Minnesota,QB,OFF,Rookie
+44,Matt Asiata,RB,28,72,219,5,Utah,Minnesota,Tailback,OFF,5-8 Yrs
+31,Jerick McKinnon,RB,24,69,205,3,Georgia Southern,Minnesota,Tailback,OFF,1-4 Yrs
+--,Jhurell Pressley,RB,24,71,198,0,New Mexico,Minnesota,Tailback,OFF,Rookie
+28,Adrian Peterson,RB,31,73,220,10,Oklahoma,Minnesota,Tailback,OFF,9-12 Yrs
+--,C.J. Ham,RB,23,73,238,0,Augustana (SD),Minnesota,Tailback,OFF,Rookie
+--,Michael Griffin,S,31,72,215,10,Texas,Minnesota,DB,DEF,9-12 Yrs
+32,Antone Exum Jr.,S,25,72,219,3,Virginia Tech,Minnesota,DB,DEF,1-4 Yrs
+34,Andrew Sendejo,S,28,73,210,6,Rice,Minnesota,DB,DEF,5-8 Yrs
+41,Anthony Harris,S,24,73,192,1,Virginia,Minnesota,DB,DEF,1-4 Yrs
+1,Jayron Kearse,S,22,76,216,0,Clemson,Minnesota,DB,DEF,Rookie
+83,MyCole Pruitt,TE,24,74,258,2,Southern Illinois,Minnesota,TE,OFF,1-4 Yrs
+--,Kyle Carter,TE,23,75,244,0,Penn State,Minnesota,TE,OFF,Rookie
+82,David Morgan II,TE,23,76,260,0,Texas San Antonio,Minnesota,TE,OFF,Rookie
+85,Rhett Ellison,TE,27,77,250,5,USC,Minnesota,TE,OFF,5-8 Yrs
+--,Brian Leonhardt,TE,26,77,255,2,Bemidji State,Minnesota,TE,OFF,1-4 Yrs
+82,Kyle Rudolph,TE,26,78,265,6,Notre Dame,Minnesota,TE,OFF,5-8 Yrs
+14,Stefon Diggs,WR,22,72,191,2,Maryland,Minnesota,WR,OFF,1-4 Yrs
+--,Troy Stoudermire,WR,26,70,199,0,Minnesota,Minnesota,WR,OFF,Rookie
+17,Jarius Wright,WR,26,70,191,5,Arkansas,Minnesota,WR,OFF,5-8 Yrs
+--,Marken Michel,WR,23,71,190,0,Massachusetts,Minnesota,WR,OFF,Rookie
+2,Terrell Sinkfield,WR,25,73,192,0,Northern Iowa,Minnesota,WR,OFF,Rookie
+12,Charles Johnson,WR,27,74,217,4,Grand Valley State,Minnesota,WR,OFF,1-4 Yrs
+84,Cordarrelle Patterson,WR,25,74,220,4,Tennessee,Minnesota,WR,OFF,1-4 Yrs
+19,Adam Thielen,WR,25,74,200,3,Minnesota State,Minnesota,WR,OFF,1-4 Yrs
+1,Laquon Treadwell,WR,21,74,210,0,Ole Miss,Minnesota,WR,OFF,Rookie
+15,Isaac Fruechte,WR,25,75,210,1,Minnesota,Minnesota,WR,OFF,1-4 Yrs
+--,Moritz Bohringer,WR,22,76,227,0,null,Minnesota,WR,OFF,Rookie
+60,David Andrews,C,24,75,295,2,Georgia,New England,OL,OFF,1-4 Yrs
+39,E.J. Biggers,CB,29,72,185,8,Western Michigan,New England,DB,DEF,5-8 Yrs
+7,Cre'von LeBlanc,CB,21,69,194,0,Florida Atlantic,New England,DB,DEF,Rookie
+5,Cyrus Jones,CB,22,70,197,0,Alabama,New England,DB,DEF,Rookie
+21,Malcolm Butler,CB,26,71,190,3,West Alabama,New England,DB,DEF,1-4 Yrs
+26,Logan Ryan,CB,25,71,195,4,Rutgers,New England,DB,DEF,1-4 Yrs
+35,Brock Vereen,CB,23,71,202,2,Minnesota,New England,DB,DEF,1-4 Yrs
+43,Nate Ebner,DB,27,72,220,5,Ohio State,New England,DB,DEF,5-8 Yrs
+28,Darryl Roberts,DB,25,72,190,2,Marshall,New England,DB,DEF,1-4 Yrs
+3,Jonathan Jones,DB,22,69,186,0,Auburn,New England,DB,DEF,Rookie
+32,Devin McCourty,DB,28,70,195,7,Rutgers,New England,DB,DEF,5-8 Yrs
+2,V'Angelo Bentley,DB,22,70,190,0,Illinois,New England,DB,DEF,Rookie
+22,Justin Coleman,DB,23,71,185,2,Tennessee,New England,DB,DEF,1-4 Yrs
+37,Jordan Richards,DB,23,71,210,2,Stanford,New England,DB,DEF,1-4 Yrs
+30,Duron Harmon,DB,25,73,205,4,Rutgers,New England,DB,DEF,1-4 Yrs
+36,Brandon King,DB,23,74,220,2,Auburn,New England,DB,DEF,1-4 Yrs
+50,Rob Ninkovich,DE,32,74,260,11,Purdue,New England,Front Seven,DEF,9-12 Yrs
+--,Chris Long,DE,31,75,268,9,Virginia,New England,Front Seven,DEF,9-12 Yrs
+73,Frank Kearse,DE,27,77,310,5,Alabama A&M,New England,Front Seven,DEF,5-8 Yrs
+81,Joe Vellano,DL,27,74,300,2,Maryland,New England,Front Seven,DEF,1-4 Yrs
+--,Anthony Johnson,DL,23,74,317,2,LSU,New England,Front Seven,DEF,1-4 Yrs
+90,Malcom Brown,DL,22,74,320,2,Texas,New England,Front Seven,DEF,1-4 Yrs
+98,Trey Flowers,DL,22,74,265,2,Arkansas,New England,Front Seven,DEF,1-4 Yrs
+93,Jabaal Sheard,DL,27,75,260,6,Pittsburgh,New England,Front Seven,DEF,5-8 Yrs
+92,Geneo Grissom,DL,24,75,265,2,Oklahoma,New England,Front Seven,DEF,1-4 Yrs
+56,Woodrow Hamilton,DL,23,75,300,0,Ole Miss,New England,Front Seven,DEF,Rookie
+97,Alan Branch,DL,31,78,350,10,Michigan,New England,Front Seven,DEF,9-12 Yrs
+98,Terrance Knighton,DT,30,75,354,8,Temple,New England,Front Seven,DEF,5-8 Yrs
+98,Vincent Valentine,DT,22,75,320,0,Nebraska,New England,Front Seven,DEF,Rookie
+--,Markus Kuhn,DT,30,76,303,5,NC State,New England,Front Seven,DEF,5-8 Yrs
+46,James Develin,FB,27,75,255,4,Brown,New England,Tailback,OFF,1-4 Yrs
+61,Jonathan Cooper,G,26,74,311,4,North Carolina,New England,OL,OFF,1-4 Yrs
+69,Ted Karras,G,23,75,307,0,Illinois,New England,OL,OFF,Rookie
+63,Tre' Jackson,G,23,76,320,2,Florida State,New England,OL,OFF,1-4 Yrs
+54,Joe Thuney,G,23,76,287,0,NC State,New England,OL,OFF,Rookie
+44,Elandon Roberts,LB,22,72,235,0,Houston,New England,Front Seven,DEF,Rookie
+--,Ramon Humber,LB,28,71,232,8,North Dakota State,New England,Front Seven,DEF,5-8 Yrs
+55,Jonathan Freeny,LB,27,74,255,5,Rutgers,New England,Front Seven,DEF,5-8 Yrs
+45,Kevin Snyder,LB,23,74,238,1,Rutgers,New England,Front Seven,DEF,1-4 Yrs
+32,Kamu Grugier-Hill,LB,22,74,215,0,Eastern Illinois,New England,Front Seven,DEF,Rookie
+91,Jamie Collins,LB,26,75,250,4,Southern Mississippi,New England,Front Seven,DEF,1-4 Yrs
+54,Dont'a Hightower,LB,26,75,265,5,Alabama,New England,Front Seven,DEF,5-8 Yrs
+50,Shea McClellin,LB,26,75,245,5,Boise State,New England,Front Seven,DEF,5-8 Yrs
+59,Rufus Johnson,LB,25,77,280,2,Tarleton State,New England,Front Seven,DEF,1-4 Yrs
+49,Joe Cardona,LS,24,74,245,2,Navy,New England,ST,ST,1-4 Yrs
+69,Shaq Mason,OL,22,73,310,2,Georgia Tech,New England,OL,OFF,1-4 Yrs
+64,Chris Barker,OL,25,74,300,2,Nevada,New England,OL,OFF,1-4 Yrs
+67,Josh Kline,OL,26,75,300,4,Kent State,New England,OL,OFF,1-4 Yrs
+74,Keavon Milton,OL,26,76,324,2,Louisiana Monroe,New England,OL,OFF,1-4 Yrs
+66,Bryan Stork,OL,25,76,310,3,Florida State,New England,OL,OFF,1-4 Yrs
+61,Marcus Cannon,OL,28,77,335,6,TCU,New England,OL,OFF,5-8 Yrs
+71,Cameron Fleming,OL,23,78,320,3,Stanford,New England,OL,OFF,1-4 Yrs
+68,LaAdrian Waddle,OT,25,78,328,4,Texas Tech,New England,OL,OFF,1-4 Yrs
+76,Sebastian Vollmer,OT,32,80,325,8,Houston,New England,OL,OFF,5-8 Yrs
+77,Nate Solder,OT,28,80,325,6,Colorado,New England,OL,OFF,5-8 Yrs
+6,Ryan Allen,P,26,74,220,4,Louisiana Tech,New England,ST,ST,1-4 Yrs
+3,Stephen Gostkowski,PK,32,73,215,11,Memphis,New England,ST,ST,9-12 Yrs
+10,Jimmy Garoppolo,QB,24,74,225,3,Eastern Illinois,New England,QB,OFF,1-4 Yrs
+12,Jacoby Brissett,QB,23,75,236,0,NC State,New England,QB,OFF,Rookie
+12,Tom Brady,QB,38,76,225,17,Michigan,New England,QB,OFF,13+ Yrs
+29,LeGarrette Blount,RB,29,72,250,7,Oregon,New England,Tailback,OFF,5-8 Yrs
+36,Tyler Gaffney,RB,25,72,220,3,Stanford,New England,Tailback,OFF,1-4 Yrs
+47,Joey Iosefa,RB,25,72,245,1,Hawaii,New England,Tailback,OFF,1-4 Yrs
+33,Dion Lewis,RB,25,68,195,5,Pittsburgh,New England,Tailback,OFF,5-8 Yrs
+34,Donald Brown,RB,29,70,207,8,Connecticut,New England,Tailback,OFF,5-8 Yrs
+28,James White,RB,24,70,205,3,Wisconsin,New England,Tailback,OFF,1-4 Yrs
+8,D.J. Foster,RB,22,70,193,0,Arizona State,New England,Tailback,OFF,Rookie
+38,Brandon Bolden,RB,26,71,220,5,Ole Miss,New England,Tailback,OFF,5-8 Yrs
+1,Cedric Thompson,S,23,72,212,1,Minnesota,New England,DB,DEF,1-4 Yrs
+23,Patrick Chung,S,28,71,215,8,Oregon,New England,DB,DEF,5-8 Yrs
+86,Clay Harbor,TE,29,75,250,7,Missouri State,New England,TE,OFF,5-8 Yrs
+86,AJ Derby,TE,24,76,255,2,Arkansas,New England,TE,OFF,1-4 Yrs
+81,Steven Scheu,TE,24,77,250,0,Vanderbilt,New England,TE,OFF,Rookie
+80,Bryce Williams,TE,23,77,260,0,East Carolina,New England,TE,OFF,Rookie
+83,Martellus Bennett,TE,29,78,273,9,Texas A&M,New England,TE,OFF,9-12 Yrs
+87,Rob Gronkowski,TE,27,78,265,7,Arizona,New England,TE,OFF,5-8 Yrs
+18,Matthew Slater,WR,30,72,205,9,UCLA,New England,WR,OFF,9-12 Yrs
+83,DeAndre Carter,WR,23,68,188,1,Sacramento State,New England,WR,OFF,1-4 Yrs
+11,Julian Edelman,WR,30,70,200,8,Kent State,New England,WR,OFF,5-8 Yrs
+80,Danny Amendola,WR,30,71,190,8,Texas Tech,New England,WR,OFF,5-8 Yrs
+82,Keshawn Martin,WR,26,71,194,5,Michigan State,New England,WR,OFF,5-8 Yrs
+26,Malcolm Mitchell,WR,24,71,194,0,Georgia,New England,WR,OFF,Rookie
+14,Chris Harper,WR,22,71,185,1,California,New England,WR,OFF,1-4 Yrs
+84,Nate Washington,WR,32,73,183,12,Tiffin University,New England,WR,OFF,9-12 Yrs
+15,Chris Hogan,WR,27,73,220,4,Monmouth,New England,WR,OFF,1-4 Yrs
+15,Devin Lucien,WR,23,74,195,0,Arizona State,New England,WR,OFF,Rookie
+17,Aaron Dobson,WR,24,75,205,4,Marshall,New England,WR,OFF,1-4 Yrs
+47,Justin Drescher,C,28,73,235,7,Colorado,New Orleans,OL,OFF,5-8 Yrs
+65,Senio Kelemete,C,26,75,300,4,Washington,New Orleans,OL,OFF,1-4 Yrs
+60,Max Unger,C,30,77,305,8,Oregon,New Orleans,OL,OFF,5-8 Yrs
+--,Jimmy Pruitt,CB,23,72,198,0,San José State,New Orleans,DB,DEF,Rookie
+27,Damian Swann,CB,23,72,189,2,Georgia,New Orleans,DB,DEF,1-4 Yrs
+36,P.J. Williams,CB,23,72,196,2,Florida State,New Orleans,DB,DEF,1-4 Yrs
+37,Tony Carter,CB,30,69,175,7,Florida State,New Orleans,DB,DEF,5-8 Yrs
+24,Kyle Wilson,CB,28,70,190,7,Boise State,New Orleans,DB,DEF,5-8 Yrs
+37,Brandon Dixon,CB,26,71,203,2,Northwest Missouri State,New Orleans,DB,DEF,1-4 Yrs
+21,Keenan Lewis,CB,30,73,208,8,Oregon State,New Orleans,DB,DEF,5-8 Yrs
+40,Delvin Breaux,CB,26,73,196,2,LSU,New Orleans,DB,DEF,1-4 Yrs
+20,Brian Dixon,DB,26,72,195,3,Northwest Missouri State,New Orleans,DB,DEF,1-4 Yrs
+--,Erik Harris,DB,26,75,225,0,California (PA),New Orleans,DB,DEF,Rookie
+52,Darryl Tapp,DE,31,73,270,11,Virginia Tech,New Orleans,Front Seven,DEF,9-12 Yrs
+98,Sheldon Rankins,DE,22,73,304,0,Louisville,New Orleans,Front Seven,DEF,Rookie
+78,Bobby Richardson,DE,23,75,286,2,Indiana,New Orleans,Front Seven,DEF,1-4 Yrs
+94,Cameron Jordan,DE,27,76,287,6,California,New Orleans,Front Seven,DEF,5-8 Yrs
+58,Obum Gwacham,DE,25,77,246,2,Oregon State,New Orleans,Front Seven,DEF,1-4 Yrs
+95,Tyeler Davison,DT,23,74,309,2,Fresno State,New Orleans,Front Seven,DEF,1-4 Yrs
+98,C.J. Wilson,DT,29,75,290,7,East Carolina,New Orleans,Front Seven,DEF,5-8 Yrs
+92,John Jenkins,DT,27,75,359,4,Georgia,New Orleans,Front Seven,DEF,1-4 Yrs
+71,Kaleb Eulls,DT,25,75,285,2,Mississippi State,New Orleans,Front Seven,DEF,1-4 Yrs
+74,Ashaad Mabry,DT,23,75,315,1,Texas San Antonio,New Orleans,Front Seven,DEF,1-4 Yrs
+97,David Onyemata,DT,--,76,300,0,Manitoba,New Orleans,Front Seven,DEF,Rookie
+--,Nick Fairley,DT,28,76,308,6,Auburn,New Orleans,Front Seven,DEF,5-8 Yrs
+35,Austin Johnson,FB,27,74,240,3,Tennessee,New Orleans,Tailback,OFF,1-4 Yrs
+31,Jairus Byrd,FS,29,70,203,8,Oregon,New Orleans,DB,DEF,5-8 Yrs
+62,Cyril Lemon,G,23,75,315,1,North Texas,New Orleans,OL,OFF,1-4 Yrs
+68,Tim Lelito,G,27,76,315,4,Grand Valley State,New Orleans,OL,OFF,1-4 Yrs
+--,Tony Steward,LB,23,72,241,2,Clemson,New Orleans,Front Seven,DEF,1-4 Yrs
+59,Dannell Ellerbe,LB,30,73,245,8,Georgia,New Orleans,Front Seven,DEF,5-8 Yrs
+--,Craig Robertson,LB,28,73,234,5,North Texas,New Orleans,Front Seven,DEF,5-8 Yrs
+55,James Laurinaitis,LB,29,74,248,8,Ohio State,New Orleans,Front Seven,DEF,5-8 Yrs
+54,Nathan Stupar,LB,28,74,240,3,Penn State,New Orleans,Front Seven,DEF,1-4 Yrs
+91,Kasim Edebali,LB,26,74,253,3,Boston College,New Orleans,Front Seven,DEF,1-4 Yrs
+56,Michael Mauti,LB,26,74,243,4,Penn State,New Orleans,Front Seven,DEF,1-4 Yrs
+50,Stephone Anthony,LB,23,74,245,2,Clemson,New Orleans,Front Seven,DEF,1-4 Yrs
+55,Davis Tull,LB,24,75,240,2,Chattanooga,New Orleans,Front Seven,DEF,1-4 Yrs
+44,Hau'oli Kikaha,LB,23,75,246,2,Washington,New Orleans,Front Seven,DEF,1-4 Yrs
+72,Terron Armstead,OT,24,77,304,4,Arkansas-Pine Bluff,New Orleans,OL,OFF,1-4 Yrs
+--,Tyrus Thompson,OT,24,77,330,1,Oklahoma,New Orleans,OL,OFF,1-4 Yrs
+64,Zach Strief,OT,32,79,320,11,Northwestern,New Orleans,OL,OFF,9-12 Yrs
+75,Andrus Peat,OT,22,79,316,2,Stanford,New Orleans,OL,OFF,1-4 Yrs
+6,Thomas Morstead,P,30,76,235,8,SMU,New Orleans,ST,ST,5-8 Yrs
+--,Connor Barth,PK,30,71,200,7,North Carolina,New Orleans,ST,ST,5-8 Yrs
+5,Kai Forbath,PK,28,71,197,5,UCLA,New Orleans,ST,ST,5-8 Yrs
+9,Drew Brees,QB,37,72,209,16,Purdue,New Orleans,QB,OFF,13+ Yrs
+18,Garrett Grayson,QB,25,74,220,2,Colorado State,New Orleans,QB,OFF,1-4 Yrs
+7,Luke McCown,QB,35,76,217,13,Louisiana Tech,New Orleans,QB,OFF,13+ Yrs
+34,Tim Hightower,RB,30,72,220,5,Richmond,New Orleans,Tailback,OFF,5-8 Yrs
+2,Daniel Lasco,RB,23,72,207,0,California,New Orleans,Tailback,OFF,Rookie
+22,Mark Ingram,RB,26,69,215,6,Alabama,New Orleans,Tailback,OFF,5-8 Yrs
+23,Marcus Murphy,RB,24,69,195,2,Missouri,New Orleans,Tailback,OFF,1-4 Yrs
+28,C.J. Spiller,RB,28,71,200,7,Clemson,New Orleans,Tailback,OFF,5-8 Yrs
+38,Travaris Cadet,RB,27,73,210,5,Appalachian State,New Orleans,Tailback,OFF,5-8 Yrs
+41,Alden Darby,S,24,70,192,1,Arizona State,New Orleans,DB,DEF,1-4 Yrs
+11,Vonn Bell,S,21,71,199,0,Ohio State,New Orleans,DB,DEF,Rookie
+32,Kenny Vaccaro,SS,25,72,214,4,Texas,New Orleans,DB,DEF,1-4 Yrs
+33,Jamarca Sanford,SS,30,70,200,8,Ole Miss,New Orleans,DB,DEF,5-8 Yrs
+--,Garrett Griffin,TE,--,76,225,0,Air Force,New Orleans,TE,OFF,Rookie
+84,Michael Hoomanawanui,TE,28,76,265,7,Illinois,New Orleans,TE,OFF,5-8 Yrs
+88,RaShaun Allen,TE,26,76,250,2,Southern,New Orleans,TE,OFF,1-4 Yrs
+89,Josh Hill,TE,26,77,250,4,Idaho State,New Orleans,TE,OFF,1-4 Yrs
+--,Coby Fleener,TE,27,78,251,5,Stanford,New Orleans,TE,OFF,5-8 Yrs
+86,Chris Manhertz,TE,24,78,235,1,Canisius,New Orleans,TE,OFF,1-4 Yrs
+14,R.J. Harris,WR,24,72,194,1,New Hampshire,New Orleans,WR,OFF,1-4 Yrs
+--,Jake Lampman,WR,23,72,205,0,Ferris State,New Orleans,WR,OFF,Rookie
+10,Brandin Cooks,WR,22,70,189,3,Oregon State,New Orleans,WR,OFF,1-4 Yrs
+--,Vincent Brown,WR,27,71,190,5,San Diego State,New Orleans,WR,OFF,5-8 Yrs
+18,Reggie Bell,WR,24,71,201,1,--,New Orleans,WR,OFF,1-4 Yrs
+83,Willie Snead,WR,23,71,195,2,Ball State,New Orleans,WR,OFF,1-4 Yrs
+3,Michael Thomas,WR,21,75,209,0,Ohio State,New Orleans,WR,OFF,Rookie
+86,Kyle Prater,WR,24,77,231,0,Northwestern,New Orleans,WR,OFF,Rookie
+16,Brandon Coleman,WR,24,78,225,2,Rutgers,New Orleans,WR,OFF,1-4 Yrs
+69,Brett Jones,C,24,74,318,2,University of Regina,New York Giants,OL,OFF,1-4 Yrs
+64,Shane McDermott,C,24,75,305,1,Miami,New York Giants,OL,OFF,1-4 Yrs
+--,Janoris Jenkins,CB,27,70,198,5,North Alabama,New York Giants,DB,DEF,5-8 Yrs
+37,Leon McFadden,CB,25,70,190,3,San Diego State,New York Giants,DB,DEF,1-4 Yrs
+--,Matt Smalley,CB,22,70,195,0,Lafayette,New York Giants,DB,DEF,Rookie
+13,Eli Apple,CB,20,73,200,0,Ohio State,New York Giants,DB,DEF,Rookie
+41,Dominique Rodgers-Cromartie,CB,30,74,193,9,Tennessee State,New York Giants,DB,DEF,9-12 Yrs
+17,Michael Hunter,DB,23,72,191,0,Oklahoma State,New York Giants,DB,DEF,Rookie
+5,Donte Deayon,DB,22,69,150,0,Boise State,New York Giants,DB,DEF,Rookie
+31,Trevin Wade,DB,26,70,190,5,Arizona,New York Giants,DB,DEF,5-8 Yrs
+25,Tramain Jacobs,DB,24,71,191,3,Texas A&M,New York Giants,DB,DEF,1-4 Yrs
+--,Ishaq Williams,DB,23,78,271,0,Notre Dame,New York Giants,DB,DEF,Rookie
+71,Stansly Maponga,DE,25,74,265,3,TCU,New York Giants,Front Seven,DEF,1-4 Yrs
+54,Olivier Vernon,DE,25,74,275,5,Miami,New York Giants,Front Seven,DEF,5-8 Yrs
+90,Mike Rose,DE,23,74,281,0,NC State,New York Giants,Front Seven,DEF,Rookie
+66,Brad Bars,DE,24,75,263,1,Penn State,New York Giants,Front Seven,DEF,1-4 Yrs
+58,Owa Odighizuwa,DE,24,75,270,2,UCLA,New York Giants,Front Seven,DEF,1-4 Yrs
+45,Romeo Okwara,DE,21,76,258,0,Notre Dame,New York Giants,Front Seven,DEF,Rookie
+90,Jason Pierre-Paul,DE,27,77,278,7,South Florida,New York Giants,Front Seven,DEF,5-8 Yrs
+72,Kerry Wynn,DE,25,77,264,3,Richmond,New York Giants,Front Seven,DEF,1-4 Yrs
+--,Damon Harrison,DL,27,76,350,5,William Penn,New York Giants,Front Seven,DEF,5-8 Yrs
+95,Johnathan Hankins,DT,24,74,320,4,Ohio State,New York Giants,Front Seven,DEF,1-4 Yrs
+97,Louis Nix III,DT,24,74,331,3,Notre Dame,New York Giants,Front Seven,DEF,1-4 Yrs
+96,Jay Bromley,DT,24,75,310,3,Syracuse,New York Giants,Front Seven,DEF,1-4 Yrs
+8,Greg Milhouse,DT,22,75,295,0,Campbell,New York Giants,Front Seven,DEF,Rookie
+79,Montori Hughes,DT,25,76,350,4,Tennessee-Martin,New York Giants,Front Seven,DEF,1-4 Yrs
+90,Melvin Lewis,DT,23,76,311,0,Kentucky,New York Giants,Front Seven,DEF,Rookie
+49,Nikita Whitlock,FB,25,70,250,2,Wake Forest,New York Giants,Tailback,OFF,1-4 Yrs
+46,Will Johnson,FB,27,74,240,5,West Virginia,New York Giants,Tailback,OFF,5-8 Yrs
+60,Adam Gettis,G,27,74,305,2,Iowa,New York Giants,OL,OFF,1-4 Yrs
+62,Ryan Seymour,G,26,76,305,2,Vanderbilt,New York Giants,OL,OFF,1-4 Yrs
+--,Dillon Farrell,G,25,77,303,2,New Mexico,New York Giants,OL,OFF,1-4 Yrs
+53,Jasper Brinkley,LB,31,73,252,8,South Carolina,New York Giants,Front Seven,DEF,5-8 Yrs
+54,Jonathan Casillas,LB,29,73,227,8,Wisconsin,New York Giants,Front Seven,DEF,5-8 Yrs
+55,J.T. Thomas,LB,27,73,236,6,West Virginia,New York Giants,Front Seven,DEF,5-8 Yrs
+44,B.J. Goodson,LB,23,73,242,0,Clemson,New York Giants,Front Seven,DEF,Rookie
+91,Kelvin Sheppard,LB,28,74,249,6,LSU,New York Giants,Front Seven,DEF,5-8 Yrs
+52,Keenan Robinson,LB,27,75,238,5,Texas,New York Giants,Front Seven,DEF,5-8 Yrs
+59,Devon Kennard,LB,25,75,251,3,USC,New York Giants,Front Seven,DEF,1-4 Yrs
+94,Mark Herzlich,LB,28,76,246,6,Boston College,New York Giants,Front Seven,DEF,5-8 Yrs
+1,Tyler Ott,LS,24,75,252,1,Harvard,New York Giants,ST,ST,1-4 Yrs
+51,Zak DeOssie,LS,32,76,249,10,Brown,New York Giants,ST,ST,9-12 Yrs
+68,Bobby Hart,OG,21,76,334,2,Florida State,New York Giants,OL,OFF,1-4 Yrs
+77,John Jerry,OG,30,77,340,7,Ole Miss,New York Giants,OL,OFF,5-8 Yrs
+70,Weston Richburg,OL,25,75,298,3,Colorado State,New York Giants,OL,OFF,1-4 Yrs
+73,Marshall Newhouse,OT,27,76,328,7,TCU,New York Giants,OL,OFF,5-8 Yrs
+67,Justin Pugh,OT,25,76,301,4,Syracuse,New York Giants,OL,OFF,1-4 Yrs
+75,Byron Stingily,OT,27,77,318,6,Louisville,New York Giants,OL,OFF,5-8 Yrs
+76,Ereck Flowers,OT,22,77,329,2,Miami,New York Giants,OL,OFF,1-4 Yrs
+62,Jake Rodgers,OT,24,78,320,1,Eastern Washington,New York Giants,OL,OFF,1-4 Yrs
+63,Emmett Cleary,OT,26,79,324,2,Boston College,New York Giants,OL,OFF,1-4 Yrs
+9,Brad Wing,P,25,75,205,3,LSU,New York Giants,ST,ST,1-4 Yrs
+3,Josh Brown,PK,37,72,202,14,Nebraska,New York Giants,ST,ST,13+ Yrs
+5,Tom Obarski,PK,23,70,177,0,Concordia-St. Paul,New York Giants,ST,ST,Rookie
+12,Ryan Nassib,QB,26,74,223,4,Syracuse,New York Giants,QB,OFF,1-4 Yrs
+10,Eli Manning,QB,35,76,218,13,Ole Miss,New York Giants,QB,OFF,13+ Yrs
+26,Orleans Darkwa,RB,24,72,215,3,Tulane,New York Giants,Tailback,OFF,1-4 Yrs
+33,Bobby Rainey,RB,28,68,212,5,Western Kentucky,New York Giants,Tailback,OFF,5-8 Yrs
+34,Shane Vereen,RB,27,70,205,6,California,New York Giants,Tailback,OFF,5-8 Yrs
+44,Andre Williams,RB,23,71,230,3,Boston College,New York Giants,Tailback,OFF,1-4 Yrs
+24,Paul Perkins,RB,21,71,210,0,UCLA,New York Giants,Tailback,OFF,Rookie
+23,Rashad Jennings,RB,31,73,231,8,Liberty,New York Giants,Tailback,OFF,5-8 Yrs
+29,Nat Berhe,S,25,72,194,3,San Diego State,New York Giants,DB,DEF,1-4 Yrs
+24,Bennett Jackson,S,24,72,192,2,Notre Dame,New York Giants,DB,DEF,1-4 Yrs
+22,Andrew Adams,S,23,72,198,0,Connecticut,New York Giants,DB,DEF,Rookie
+27,Mykkele Thompson,S,23,72,193,2,Texas,New York Giants,DB,DEF,1-4 Yrs
+21,Landon Collins,S,22,72,225,2,Alabama,New York Giants,DB,DEF,1-4 Yrs
+36,Justin Currie,S,22,74,204,2,Western Michigan,New York Giants,DB,DEF,1-4 Yrs
+4,Darian Thompson,S,22,74,208,0,Boise State,New York Giants,DB,DEF,Rookie
+30,Cooper Taylor,S,26,76,228,4,Richmond,New York Giants,DB,DEF,1-4 Yrs
+45,Will Tye,TE,24,74,262,2,Stony Brook,New York Giants,TE,OFF,1-4 Yrs
+88,Ryan Malleck,TE,23,76,243,0,Virginia Tech,New York Giants,TE,OFF,Rookie
+89,Jerell Adams,TE,23,77,244,0,South Carolina,New York Giants,TE,OFF,Rookie
+84,Larry Donnell,TE,27,78,265,4,Grambling State,New York Giants,TE,OFF,1-4 Yrs
+81,Matt LaCosse,TE,23,78,245,1,Illinois,New York Giants,TE,OFF,1-4 Yrs
+80,Victor Cruz,WR,29,72,204,7,Massachusetts,New York Giants,WR,OFF,5-8 Yrs
+19,Myles White,WR,26,72,190,3,Louisiana Tech,New York Giants,WR,OFF,1-4 Yrs
+--,Kadron Boone,WR,24,72,204,0,LSU,New York Giants,WR,OFF,Rookie
+1,Roger Lewis,WR,22,72,196,0,Bowling Green,New York Giants,WR,OFF,Rookie
+17,Dwayne Harris,WR,28,70,202,6,East Carolina,New York Giants,WR,OFF,5-8 Yrs
+3,Sterling Shepard,WR,23,70,193,0,Oklahoma,New York Giants,WR,OFF,Rookie
+13,Odell Beckham Jr.,WR,23,71,198,3,LSU,New York Giants,WR,OFF,1-4 Yrs
+15,Tavarres King,WR,26,73,200,3,Georgia,New York Giants,WR,OFF,1-4 Yrs
+--,Donte Foster,WR,25,73,199,1,Ohio,New York Giants,WR,OFF,1-4 Yrs
+18,Geremy Davis,WR,24,74,217,2,Connecticut,New York Giants,WR,OFF,1-4 Yrs
+10,Darius Powe,WR,22,75,220,0,California,New York Giants,WR,OFF,Rookie
+8,Anthony Dable,WR,27,76,220,0,null,New York Giants,WR,OFF,Rookie
+74,Nick Mangold,C,32,76,307,11,Ohio State,New York Jets,OL,OFF,9-12 Yrs
+27,Dee Milliner,CB,24,72,201,4,Alabama,New York Jets,DB,DEF,1-4 Yrs
+11,Juston Burris,CB,22,72,212,0,NC State,New York Jets,DB,DEF,Rookie
+41,Buster Skrine,CB,27,69,185,6,Chattanooga,New York Jets,DB,DEF,5-8 Yrs
+23,Dexter McDougle,CB,25,70,195,3,Maryland,New York Jets,DB,DEF,1-4 Yrs
+24,Darrelle Revis,CB,31,71,198,10,Pittsburgh,New York Jets,DB,DEF,9-12 Yrs
+--,Kendall James,CB,25,71,180,1,Maine,New York Jets,DB,DEF,1-4 Yrs
+20,Marcus Williams,CB,25,71,196,3,North Dakota State,New York Jets,DB,DEF,1-4 Yrs
+32,Kevin Short,CB,24,74,185,1,null,New York Jets,DB,DEF,1-4 Yrs
+--,Doug Middleton,DB,22,72,210,0,Appalachian State,New York Jets,DB,DEF,Rookie
+26,Darryl Morris,DB,25,70,188,4,Texas State,New York Jets,DB,DEF,1-4 Yrs
+--,Shelby Harris,DE,24,74,290,2,Illinois State,New York Jets,Front Seven,DEF,1-4 Yrs
+53,Mike Catapano,DE,25,76,270,4,Princeton,New York Jets,Front Seven,DEF,1-4 Yrs
+92,Leonard Williams,DE,22,77,302,2,USC,New York Jets,Front Seven,DEF,1-4 Yrs
+96,Jarvis Jenkins,DL,28,76,300,6,Clemson,New York Jets,Front Seven,DEF,5-8 Yrs
+96,Muhammad Wilkerson,DL,26,76,315,6,Temple,New York Jets,Front Seven,DEF,5-8 Yrs
+--,Tarow Barney,DT,22,73,306,0,Penn State,New York Jets,Front Seven,DEF,Rookie
+90,Steve McLendon,DT,30,75,310,7,Troy,New York Jets,Front Seven,DEF,5-8 Yrs
+91,Sheldon Richardson,DT,25,75,294,4,Missouri,New York Jets,Front Seven,DEF,1-4 Yrs
+93,Deon Simon,DT,26,76,332,1,Northwestern State,New York Jets,Front Seven,DEF,1-4 Yrs
+40,Tommy Bohanon,FB,25,73,247,4,Wake Forest,New York Jets,Tailback,OFF,1-4 Yrs
+--,Michael Liedtke,G,24,75,310,1,Illinois State,New York Jets,OL,OFF,1-4 Yrs
+98,Craig Watts,G,25,76,335,1,West Texas A&M,New York Jets,OL,OFF,1-4 Yrs
+--,Julian Stanford,LB,25,73,230,3,Wagner,New York Jets,Front Seven,DEF,1-4 Yrs
+43,Darron Lee,LB,21,73,232,0,Ohio State,New York Jets,Front Seven,DEF,Rookie
+52,David Harris,LB,32,74,250,10,Michigan,New York Jets,Front Seven,DEF,9-12 Yrs
+--,Bruce Carter,LB,28,74,240,6,North Carolina,New York Jets,Front Seven,DEF,5-8 Yrs
+58,Erin Henderson,LB,30,75,244,8,Maryland,New York Jets,Front Seven,DEF,5-8 Yrs
+--,Freddie Bishop,LB,26,75,251,0,Western Michigan,New York Jets,Front Seven,DEF,Rookie
+95,Josh Martin,LB,24,75,245,4,Columbia,New York Jets,Front Seven,DEF,1-4 Yrs
+99,Julian Howsare,LB,23,75,255,1,Clarion,New York Jets,Front Seven,DEF,1-4 Yrs
+59,Jordan Jenkins,LB,22,75,259,0,Georgia,New York Jets,Front Seven,DEF,Rookie
+50,Deion Barnes,LB,23,76,255,1,Penn State,New York Jets,Front Seven,DEF,1-4 Yrs
+55,Lorenzo Mauldin,LB,23,76,259,2,Louisville,New York Jets,Front Seven,DEF,1-4 Yrs
+57,Trevor Reilly,LB,28,77,245,3,Utah,New York Jets,Front Seven,DEF,1-4 Yrs
+49,Taiwan Jones,LB,22,75,252,1,Michigan State,New York Jets,Front Seven,DEF,1-4 Yrs
+46,Tanner Purdum,LS,31,75,270,7,Baker University,New York Jets,ST,ST,5-8 Yrs
+67,Brian Winters,OG,25,76,320,4,Kent State,New York Jets,OL,OFF,1-4 Yrs
+77,James Carpenter,OG,27,77,321,6,Alabama,New York Jets,OL,OFF,5-8 Yrs
+64,Jarvis Harrison,OL,24,76,330,2,Texas A&M,New York Jets,OL,OFF,1-4 Yrs
+76,Wesley Johnson,OL,25,77,297,3,Vanderbilt,New York Jets,OL,OFF,1-4 Yrs
+71,Ben Ijalana,OT,26,76,322,6,Villanova,New York Jets,OL,OFF,5-8 Yrs
+70,Dakota Dozier,OT,25,76,313,3,Furman,New York Jets,OL,OFF,1-4 Yrs
+71,Brandon Shell,OT,24,77,325,0,South Carolina,New York Jets,OL,OFF,Rookie
+--,Ryan Clady,OT,29,78,315,9,Boise State,New York Jets,OL,OFF,9-12 Yrs
+79,Brent Qvale,OT,25,78,315,2,Nebraska,New York Jets,OL,OFF,1-4 Yrs
+1,Jesse Davis,OT,24,78,309,0,Idaho,New York Jets,OL,OFF,Rookie
+68,Breno Giacomini,OT,30,79,318,9,Louisville,New York Jets,OL,OFF,9-12 Yrs
+49,Lachlan Edwards,P,24,76,209,0,Sam Houston State,New York Jets,ST,ST,Rookie
+2,Nick Folk,PK,31,73,222,10,Arizona,New York Jets,ST,ST,9-12 Yrs
+9,Bryce Petty,QB,25,75,230,2,Baylor,New York Jets,QB,OFF,1-4 Yrs
+7,Geno Smith,QB,25,75,221,4,West Virginia,New York Jets,QB,OFF,1-4 Yrs
+14,Christian Hackenberg,QB,21,76,228,0,Penn State,New York Jets,QB,OFF,Rookie
+29,Khiry Robinson,RB,26,72,220,4,West Texas A&M,New York Jets,Tailback,OFF,1-4 Yrs
+30,Zac Stacy,RB,25,69,224,4,Vanderbilt,New York Jets,Tailback,OFF,1-4 Yrs
+--,Dominique Williams,RB,25,69,205,1,Wagner,New York Jets,Tailback,OFF,1-4 Yrs
+29,Bilal Powell,RB,27,70,204,6,Louisville,New York Jets,Tailback,OFF,5-8 Yrs
+22,Matt Forte,RB,30,74,218,9,Tulane,New York Jets,Tailback,OFF,9-12 Yrs
+45,Rontez Miles,S,27,72,202,2,California (PA),New York Jets,DB,DEF,1-4 Yrs
+34,Dion Bailey,S,24,72,211,3,USC,New York Jets,DB,DEF,1-4 Yrs
+21,Marcus Gilchrist,S,27,70,198,6,Clemson,New York Jets,DB,DEF,5-8 Yrs
+25,Calvin Pryor,S,24,71,207,3,Louisville,New York Jets,DB,DEF,1-4 Yrs
+42,Ronald Martin,S,23,74,220,2,LSU,New York Jets,DB,DEF,1-4 Yrs
+82,Brandon Bostick,TE,27,75,250,3,Newberry,New York Jets,TE,OFF,1-4 Yrs
+86,Wes Saxton,TE,22,76,235,1,South Alabama,New York Jets,TE,OFF,1-4 Yrs
+88,Jace Amaro,TE,24,77,265,3,Texas Tech,New York Jets,TE,OFF,1-4 Yrs
+47,Kellen Davis,TE,30,79,265,9,Michigan State,New York Jets,TE,OFF,9-12 Yrs
+44,Zach Sudfeld,TE,27,79,260,4,Nevada,New York Jets,TE,OFF,1-4 Yrs
+--,Jeremy Ross,WR,28,72,215,4,California,New York Jets,WR,OFF,1-4 Yrs
+16,Chandler Worthy,WR,22,69,173,1,Troy,New York Jets,WR,OFF,1-4 Yrs
+--,Kyle Williams,WR,28,70,186,6,Arizona State,New York Jets,WR,OFF,5-8 Yrs
+7,Jalin Marshall,WR,21,71,205,0,Ohio State,New York Jets,WR,OFF,Rookie
+10,Kenbrell Thompkins,WR,27,73,195,4,Cincinnati,New York Jets,WR,OFF,1-4 Yrs
+19,Devin Smith,WR,24,73,199,2,Ohio State,New York Jets,WR,OFF,1-4 Yrs
+84,Titus Davis,WR,23,73,200,1,Central Michigan,New York Jets,WR,OFF,1-4 Yrs
+81,Quincy Enunwa,WR,24,74,225,2,Nebraska,New York Jets,WR,OFF,1-4 Yrs
+87,Eric Decker,WR,29,75,214,7,Minnesota,New York Jets,WR,OFF,5-8 Yrs
+19,Charone Peake,WR,23,75,215,0,Clemson,New York Jets,WR,OFF,Rookie
+15,Brandon Marshall,WR,32,76,230,11,UCF,New York Jets,WR,OFF,9-12 Yrs
+--,Ross Burbank,C,23,76,310,0,Virginia,Oakland,OL,OFF,Rookie
+38,TJ Carrie,CB,25,72,205,3,Ohio,Oakland,DB,DEF,1-4 Yrs
+--,Kenneth Durden,CB,24,72,180,0,Youngstown State,Oakland,DB,DEF,Rookie
+--,Antonio Hamilton,CB,23,72,185,0,South Carolina State,Oakland,DB,DEF,Rookie
+25,D.J. Hayden,CB,26,71,190,4,Houston,Oakland,DB,DEF,1-4 Yrs
+29,David Amerson,CB,24,73,205,4,NC State,Oakland,DB,DEF,1-4 Yrs
+21,Dexter McDonald,CB,24,73,200,2,Kansas,Oakland,DB,DEF,1-4 Yrs
+39,Keith McGill,CB,27,75,210,3,Utah,Oakland,DB,DEF,1-4 Yrs
+35,Dewey McDonald,DB,26,72,220,2,California (PA),Oakland,DB,DEF,1-4 Yrs
+30,SaQwan Edwards,DB,24,72,200,1,New Mexico,Oakland,DB,DEF,1-4 Yrs
+31,Neiko Thorpe,DB,26,73,200,4,Auburn,Oakland,DB,DEF,1-4 Yrs
+--,Chris Edwards,DB,23,74,209,0,Idaho,Oakland,DB,DEF,Rookie
+21,Sean Smith,DB,29,75,218,8,Utah,Oakland,DB,DEF,5-8 Yrs
+52,Khalil Mack,DE,25,75,250,3,Buffalo,Oakland,Front Seven,DEF,1-4 Yrs
+--,Greg Townsend Jr.,DE,23,75,276,0,USC,Oakland,Front Seven,DEF,Rookie
+97,Mario Edwards Jr.,DE,22,75,280,2,Florida State,Oakland,Front Seven,DEF,1-4 Yrs
+89,Shilique Calhoun,DE,24,77,251,0,Michigan State,Oakland,Front Seven,DEF,Rookie
+17,Jihad Ward,DE,22,77,296,0,Illinois,Oakland,Front Seven,DEF,Rookie
+--,Branden Jackson,DL,23,75,266,0,Texas Tech,Oakland,Front Seven,DEF,Rookie
+96,Denico Autry,DL,26,77,270,3,Mississippi State,Oakland,Front Seven,DEF,1-4 Yrs
+--,Drew Iddings,DL,23,78,265,0,South Dakota,Oakland,Front Seven,DEF,Rookie
+90,Dan Williams,DT,29,74,330,7,Tennessee,Oakland,Front Seven,DEF,5-8 Yrs
+78,Justin Ellis,DT,25,74,335,3,Louisiana Tech,Oakland,Front Seven,DEF,1-4 Yrs
+92,Stacy McGee,DT,26,75,310,4,Oklahoma,Oakland,Front Seven,DEF,1-4 Yrs
+93,Leon Orr,DT,24,77,320,1,Florida,Oakland,Front Seven,DEF,1-4 Yrs
+--,Darius Latham,DT,21,77,305,0,Indiana,Oakland,Front Seven,DEF,Rookie
+45,Marcel Reece,FB,31,73,250,7,Washington,Oakland,Tailback,OFF,5-8 Yrs
+--,Oni Omoile,G,23,75,282,0,Iowa State,Oakland,OL,OFF,Rookie
+--,Terran Vaughn,G,22,75,315,0,Stephen F Austin,Oakland,OL,OFF,Rookie
+--,Kelechi Osemele,G,27,77,330,5,Iowa State,Oakland,OL,OFF,5-8 Yrs
+74,Vadal Alexander,G,22,77,336,0,LSU,Oakland,OL,OFF,Rookie
+53,Malcolm Smith,LB,27,72,225,6,USC,Oakland,Front Seven,DEF,5-8 Yrs
+51,Ben Heeney,LB,24,72,230,2,Kansas,Oakland,Front Seven,DEF,1-4 Yrs
+31,Cory James,LB,23,72,229,0,Colorado State,Oakland,Front Seven,DEF,Rookie
+53,Daren Bates,LB,25,71,225,4,Auburn,Oakland,Front Seven,DEF,1-4 Yrs
+55,John Lotulelei,LB,24,71,235,4,UNLV,Oakland,Front Seven,DEF,1-4 Yrs
+54,Korey Toomer,LB,27,74,234,3,Idaho,Oakland,Front Seven,DEF,1-4 Yrs
+--,Kyrie Wilson,LB,23,74,227,0,Fresno State,Oakland,Front Seven,DEF,Rookie
+--,Bruce Irvin,LB,28,75,260,5,West Virginia,Oakland,Front Seven,DEF,5-8 Yrs
+--,James Cowser,LB,25,75,244,0,Southern Utah,Oakland,Front Seven,DEF,Rookie
+48,Colton Underwood,LB,24,75,254,1,Illinois State,Oakland,Front Seven,DEF,1-4 Yrs
+58,Neiron Ball,LB,23,75,235,2,Florida,Oakland,Front Seven,DEF,1-4 Yrs
+99,Aldon Smith,LB,26,76,265,6,Missouri,Oakland,Front Seven,DEF,5-8 Yrs
+48,Andrew East,LS,24,74,220,0,Vanderbilt,Oakland,ST,ST,Rookie
+59,Jon Condo,LS,34,75,240,10,Maryland,Oakland,ST,ST,9-12 Yrs
+61,Rodney Hudson,OG,27,74,300,6,Florida State,Oakland,OL,OFF,5-8 Yrs
+66,Gabe Jackson,OG,25,75,335,3,Mississippi State,Oakland,OL,OFF,1-4 Yrs
+68,Jon Feliciano,OG,24,76,325,2,Miami,Oakland,OL,OFF,1-4 Yrs
+74,Mitch Bell,OL,23,75,345,1,Louisiana Tech,Oakland,OL,OFF,1-4 Yrs
+--,Torian White,OL,23,78,306,0,Hampton,Oakland,OL,OFF,Rookie
+72,Donald Penn,OT,33,76,315,11,Utah State,Oakland,OL,OFF,9-12 Yrs
+71,Menelik Watson,OT,27,77,315,4,Florida State,Oakland,OL,OFF,1-4 Yrs
+73,Matt McCants,OT,26,78,310,4,UAB,Oakland,OL,OFF,1-4 Yrs
+77,Austin Howard,OT,29,79,330,7,Northern Iowa,Oakland,OL,OFF,5-8 Yrs
+7,Marquette King,P,27,72,195,5,Fort Valley State,Oakland,ST,ST,5-8 Yrs
+3,Giorgio Tavecchio,PK,26,70,180,0,California,Oakland,ST,ST,Rookie
+11,Sebastian Janikowski,PK,38,73,265,17,Florida State,Oakland,ST,ST,13+ Yrs
+14,Matt McGloin,QB,26,73,210,4,Penn State,Oakland,QB,OFF,1-4 Yrs
+4,Derek Carr,QB,25,75,215,3,Fresno State,Oakland,QB,OFF,1-4 Yrs
+18,Connor Cook,QB,23,76,216,0,Michigan State,Oakland,QB,OFF,Rookie
+22,Taiwan Jones,RB,27,72,195,6,Eastern Washington,Oakland,Tailback,OFF,5-8 Yrs
+21,DeAndre Washington,RB,23,67,198,0,Texas Tech,Oakland,Tailback,OFF,Rookie
+--,Jalen Richard,RB,22,68,207,0,Southern Mississippi,Oakland,Tailback,OFF,Rookie
+26,Roy Helu,RB,27,71,220,6,Nebraska,Oakland,Tailback,OFF,5-8 Yrs
+49,Jamize Olawale,RB,27,73,240,4,North Texas,Oakland,Tailback,OFF,1-4 Yrs
+34,George Atkinson III,RB,23,73,220,1,Notre Dame,Oakland,Tailback,OFF,1-4 Yrs
+28,Latavius Murray,RB,26,75,230,4,UCF,Oakland,Tailback,OFF,1-4 Yrs
+20,Nate Allen,S,28,72,210,7,South Florida,Oakland,DB,DEF,5-8 Yrs
+8,Karl Joseph,S,22,70,205,0,West Virginia,Oakland,DB,DEF,Rookie
+27,Reggie Nelson,S,32,71,210,10,Florida,Oakland,DB,DEF,9-12 Yrs
+43,Jimmy Hall,S,24,73,230,2,Northwestern,Oakland,DB,DEF,1-4 Yrs
+--,Brynden Trawick,S,26,74,225,4,Troy,Oakland,DB,DEF,1-4 Yrs
+--,Chris Hackett,S,22,74,195,1,TCU,Oakland,DB,DEF,1-4 Yrs
+81,Mychal Rivera,TE,25,75,245,4,Tennessee,Oakland,TE,OFF,1-4 Yrs
+88,Clive Walford,TE,24,76,250,2,Miami,Oakland,TE,OFF,1-4 Yrs
+--,Ryan O'Malley,TE,--,77,265,0,Penn,Oakland,TE,OFF,Rookie
+82,Gabe Holmes,TE,25,77,255,2,Purdue,Oakland,TE,OFF,1-4 Yrs
+86,Lee Smith,TE,28,78,265,6,Marshall,Oakland,TE,OFF,5-8 Yrs
+--,Johnny Holton,WR,25,72,190,0,Cincinnati,Oakland,WR,OFF,Rookie
+17,Marvin Hall,WR,--,70,198,0,Washington,Oakland,WR,OFF,Rookie
+--,Joe Hansley,WR,22,70,181,0,Colorado State,Oakland,WR,OFF,Rookie
+--,Nathan Palmer,WR,27,71,198,3,Northern Illinois,Oakland,WR,OFF,1-4 Yrs
+--,Jaydon Mickens,WR,22,71,170,0,Washington,Oakland,WR,OFF,Rookie
+15,Michael Crabtree,WR,28,73,215,8,Texas Tech,Oakland,WR,OFF,5-8 Yrs
+89,Amari Cooper,WR,22,73,210,2,Alabama,Oakland,WR,OFF,1-4 Yrs
+10,Seth Roberts,WR,25,74,195,2,West Alabama,Oakland,WR,OFF,1-4 Yrs
+--,Max McCaffrey,WR,22,74,200,0,Duke,Oakland,WR,OFF,Rookie
+18,Andre Holmes,WR,28,76,210,5,Hillsdale,Oakland,WR,OFF,5-8 Yrs
+--,K.J. Brent,WR,22,76,190,0,Wake Forest,Oakland,WR,OFF,Rookie
+68,Josh Andrews,C,25,74,311,2,Oregon State,Philadelphia,OL,OFF,1-4 Yrs
+62,Jason Kelce,C,28,75,295,6,Cincinnati,Philadelphia,OL,OFF,5-8 Yrs
+61,Stefen Wisniewski,C,27,75,305,6,Penn State,Philadelphia,OL,OFF,5-8 Yrs
+--,Bruce Johnson,C,23,75,285,0,Maine,Philadelphia,OL,OFF,Rookie
+77,Barrett Jones,C,26,76,308,3,Alabama,Philadelphia,OL,OFF,1-4 Yrs
+24,Blake Countess,CB,22,69,184,0,Auburn,Philadelphia,DB,DEF,Rookie
+--,Leodis McKelvin,CB,30,70,185,9,Troy,Philadelphia,DB,DEF,9-12 Yrs
+--,Ron Brooks,CB,27,70,190,5,LSU,Philadelphia,DB,DEF,5-8 Yrs
+38,Aaron Grymes,CB,25,71,185,0,Idaho,Philadelphia,DB,DEF,Rookie
+26,Jaylen Watkins,CB,24,71,194,2,Florida,Philadelphia,DB,DEF,1-4 Yrs
+--,C.J. Smith,CB,23,71,183,0,North Dakota State,Philadelphia,DB,DEF,Rookie
+23,Nolan Carroll II,CB,29,73,205,7,Maryland,Philadelphia,DB,DEF,5-8 Yrs
+41,Randall Evans,DB,24,72,195,1,Kansas State,Philadelphia,DB,DEF,1-4 Yrs
+35,Denzel Rice,DB,23,72,196,2,Coastal Carolina,Philadelphia,DB,DEF,1-4 Yrs
+36,JaCorey Shepherd,DB,23,71,199,2,Kansas,Philadelphia,DB,DEF,1-4 Yrs
+32,Eric Rowe,DB,23,73,205,2,Utah,Philadelphia,DB,DEF,1-4 Yrs
+93,Mike Martin,DE,25,73,298,5,Michigan,Philadelphia,Front Seven,DEF,5-8 Yrs
+75,Vinny Curry,DE,28,75,279,5,Marshall,Philadelphia,Front Seven,DEF,5-8 Yrs
+91,Fletcher Cox,DE,25,76,300,5,Mississippi State,Philadelphia,Front Seven,DEF,5-8 Yrs
+97,Taylor Hart,DE,25,78,281,3,Oregon,Philadelphia,Front Seven,DEF,1-4 Yrs
+14,Alex McCalister,DE,22,78,239,0,Florida,Philadelphia,Front Seven,DEF,Rookie
+96,Bennie Logan,DT,26,74,315,4,LSU,Philadelphia,Front Seven,DEF,1-4 Yrs
+94,Beau Allen,DT,24,74,333,3,Wisconsin,Philadelphia,Front Seven,DEF,1-4 Yrs
+--,Connor Wujciak,DT,23,75,300,0,Boston College,Philadelphia,Front Seven,DEF,Rookie
+--,Aziz Shittu,DT,21,75,279,0,Stanford,Philadelphia,Front Seven,DEF,Rookie
+--,Destiny Vaeao,DT,22,76,291,0,Washington State,Philadelphia,Front Seven,DEF,Rookie
+27,Malcolm Jenkins,FS,28,72,204,8,Ohio State,Philadelphia,DB,DEF,5-8 Yrs
+42,Chris Maragos,FS,29,70,200,7,Wisconsin,Philadelphia,DB,DEF,5-8 Yrs
+--,Darrell Greene,G,23,74,330,0,San Diego State,Philadelphia,OL,OFF,Rookie
+--,Brandon Brooks,G,26,77,335,5,Miami (OH),Philadelphia,OL,OFF,5-8 Yrs
+56,Isaac Seumalo,G,22,77,298,0,Oregon State,Philadelphia,OL,OFF,Rookie
+73,Malcolm Bunche,G,24,78,320,1,UCLA,Philadelphia,OL,OFF,1-4 Yrs
+53,Najee Goode,LB,27,72,244,5,West Virginia,Philadelphia,Front Seven,DEF,5-8 Yrs
+95,Mychal Kendricks,LB,25,72,240,5,California,Philadelphia,Front Seven,DEF,5-8 Yrs
+58,Jordan Hicks,LB,24,73,236,2,Texas,Philadelphia,Front Seven,DEF,1-4 Yrs
+--,Quentin Gause,LB,23,73,220,0,Rutgers,Philadelphia,Front Seven,DEF,Rookie
+--,Myke Tavarres,LB,23,73,230,0,Incarnate Word,Philadelphia,Front Seven,DEF,Rookie
+55,Brandon Graham,LB,28,74,265,7,Michigan,Philadelphia,Front Seven,DEF,5-8 Yrs
+53,Nigel Bradham,LB,26,74,241,5,Florida State,Philadelphia,Front Seven,DEF,5-8 Yrs
+1,Deontae Skinner,LB,25,74,250,2,Mississippi State,Philadelphia,Front Seven,DEF,1-4 Yrs
+35,Joe Walker,LB,23,74,236,0,Oregon,Philadelphia,Front Seven,DEF,Rookie
+51,Steven Means,LB,25,75,263,2,Buffalo,Philadelphia,Front Seven,DEF,1-4 Yrs
+90,Marcus Smith II,LB,24,75,251,3,Louisville,Philadelphia,Front Seven,DEF,1-4 Yrs
+98,Connor Barwin,LB,29,76,264,8,Cincinnati,Philadelphia,Front Seven,DEF,5-8 Yrs
+57,Travis Long,LB,24,76,255,3,Washington State,Philadelphia,Front Seven,DEF,1-4 Yrs
+56,Bryan Braman,LB,29,77,241,6,West Texas A&M,Philadelphia,Front Seven,DEF,5-8 Yrs
+46,Jon Dorenbos,LS,36,72,250,14,UTEP,Philadelphia,ST,ST,13+ Yrs
+--,John DePalma,LS,22,77,245,0,West Virginia,Philadelphia,ST,ST,Rookie
+64,Matt Tobin,OG,26,78,290,4,Iowa,Philadelphia,OL,OFF,1-4 Yrs
+67,Dennis Kelly,OG,26,80,321,5,Purdue,Philadelphia,OL,OFF,5-8 Yrs
+71,Jason Peters,OT,34,76,328,13,Arkansas,Philadelphia,OL,OFF,13+ Yrs
+76,Allen Barbre,OT,32,76,310,9,Missouri Southern State,Philadelphia,OL,OFF,9-12 Yrs
+66,Andrew Gardner,OT,30,78,308,7,Georgia Tech,Philadelphia,OL,OFF,5-8 Yrs
+65,Lane Johnson,OT,26,78,317,4,Oklahoma,Philadelphia,OL,OFF,1-4 Yrs
+74,Halapoulivaati Vaitai,OT,23,78,296,0,TCU,Philadelphia,OL,OFF,Rookie
+8,Donnie Jones,P,36,74,221,13,LSU,Philadelphia,ST,ST,13+ Yrs
+1,Cody Parkey,PK,24,72,193,3,Auburn,Philadelphia,ST,ST,1-4 Yrs
+6,Caleb Sturgis,PK,26,69,192,4,Florida,Philadelphia,ST,ST,1-4 Yrs
+10,Chase Daniel,QB,29,72,225,8,Missouri,Philadelphia,QB,OFF,5-8 Yrs
+7,Sam Bradford,QB,28,76,224,7,Oklahoma,Philadelphia,QB,OFF,5-8 Yrs
+11,Carson Wentz,QB,23,77,232,0,North Dakota State,Philadelphia,QB,OFF,Rookie
+24,Ryan Mathews,RB,28,72,220,7,Fresno State,Philadelphia,Tailback,OFF,5-8 Yrs
+--,Cedric O'Neal,RB,22,72,213,0,Valdosta State,Philadelphia,Tailback,OFF,Rookie
+43,Darren Sproles,RB,33,66,190,12,Kansas State,Philadelphia,Tailback,OFF,9-12 Yrs
+34,Kenjon Barner,RB,27,69,195,3,Oregon,Philadelphia,Tailback,OFF,1-4 Yrs
+--,Byron Marshall,RB,22,69,205,0,Oregon,Philadelphia,Tailback,OFF,Rookie
+4,Wendell Smallwood,RB,22,71,201,0,West Virginia,Philadelphia,Tailback,OFF,Rookie
+28,Jalen Mills,S,22,72,191,0,LSU,Philadelphia,DB,DEF,Rookie
+--,Rodney McLeod,S,26,70,195,5,Virginia,Philadelphia,DB,DEF,5-8 Yrs
+30,Ed Reynolds,S,24,73,207,2,Stanford,Philadelphia,DB,DEF,1-4 Yrs
+47,Trey Burton,TE,24,75,235,3,Florida,Philadelphia,TE,OFF,1-4 Yrs
+--,MJ McFarland,TE,--,76,249,0,UTEP,Philadelphia,TE,OFF,Rookie
+87,Brent Celek,TE,31,76,255,10,Cincinnati,Philadelphia,TE,OFF,9-12 Yrs
+--,Dillon Gordon,TE,22,76,295,0,LSU,Philadelphia,TE,OFF,Rookie
+85,Chris Pantale,TE,26,77,254,1,Boston College,Philadelphia,TE,OFF,1-4 Yrs
+86,Zach Ertz,TE,25,77,250,4,Stanford,Philadelphia,TE,OFF,1-4 Yrs
+--,Chris Givens,WR,26,72,203,5,Wake Forest,Philadelphia,WR,OFF,5-8 Yrs
+17,Nelson Agholor,WR,23,72,198,2,USC,Philadelphia,WR,OFF,1-4 Yrs
+16,T.J. Graham,WR,26,71,188,5,NC State,Philadelphia,WR,OFF,5-8 Yrs
+13,Josh Huff,WR,24,71,206,3,Oregon,Philadelphia,WR,OFF,1-4 Yrs
+--,Paul Turner,WR,23,71,196,0,Louisiana Tech,Philadelphia,WR,OFF,Rookie
+4,Hunter Sharp,WR,22,71,197,0,Utah State,Philadelphia,WR,OFF,Rookie
+--,Marcus Johnson,WR,--,73,193,0,Texas,Philadelphia,WR,OFF,Rookie
+--,Rueben Randle,WR,25,74,208,5,LSU,Philadelphia,WR,OFF,5-8 Yrs
+81,Jordan Matthews,WR,24,75,212,3,Vanderbilt,Philadelphia,WR,OFF,1-4 Yrs
+--,Cayleb Jones,WR,23,75,215,0,Arizona,Philadelphia,WR,OFF,Rookie
+89,Xavier Rush,WR,23,75,202,0,Tulane,Philadelphia,WR,OFF,Rookie
+53,Maurkice Pouncey,C,26,76,304,6,Florida,Pittsburgh,OL,OFF,5-8 Yrs
+74,Chris Hubbard,C,25,76,295,3,UAB,Pittsburgh,OL,OFF,1-4 Yrs
+67,B.J. Finney,C,24,76,318,1,Kansas State,Pittsburgh,OL,OFF,1-4 Yrs
+60,Quinton Schooley,C,22,76,298,0,NC State,Pittsburgh,OL,OFF,Rookie
+31,Ross Cockrell,CB,24,72,191,3,Duke,Pittsburgh,DB,DEF,1-4 Yrs
+1,Artie Burns,CB,21,72,193,0,Miami,Pittsburgh,DB,DEF,Rookie
+27,Senquez Golson,CB,23,69,176,2,Ole Miss,Pittsburgh,DB,DEF,1-4 Yrs
+22,William Gay,CB,31,70,187,10,Louisville,Pittsburgh,DB,DEF,9-12 Yrs
+24,Doran Grant,CB,23,70,200,2,Ohio State,Pittsburgh,DB,DEF,1-4 Yrs
+40,Montell Garner,CB,23,71,188,0,South Alabama,Pittsburgh,DB,DEF,Rookie
+44,Al-Hajj Shabazz,CB,23,74,200,0,West Chester,Pittsburgh,DB,DEF,Rookie
+90,Ricardo Mathews,DE,28,75,300,7,Cincinnati,Pittsburgh,Front Seven,DEF,5-8 Yrs
+97,Cameron Heyward,DE,27,77,295,6,Ohio State,Pittsburgh,Front Seven,DEF,5-8 Yrs
+96,L.T. Walton,DE,24,77,305,2,Central Michigan,Pittsburgh,Front Seven,DEF,1-4 Yrs
+3,Caushaud Lyons,DE,23,77,284,1,Tusculum,Pittsburgh,Front Seven,DEF,1-4 Yrs
+91,Stephon Tuitt,DE,23,78,303,3,Notre Dame,Pittsburgh,Front Seven,DEF,1-4 Yrs
+92,Johnny Maxey,DL,22,77,305,0,Mars Hill,Pittsburgh,Front Seven,DEF,Rookie
+97,Javon Hargrave,DT,23,73,309,0,South Carolina State,Pittsburgh,Front Seven,DEF,Rookie
+69,Roy Philon,DT,25,75,291,1,Louisville,Pittsburgh,Front Seven,DEF,1-4 Yrs
+65,Lavon Hooks,DT,24,75,312,0,Ole Miss,Pittsburgh,Front Seven,DEF,Rookie
+8,Devaunte Sigler,DT,24,75,311,0,Jacksonville State,Pittsburgh,Front Seven,DEF,Rookie
+4,Giorgio Newberry,DT,24,78,295,0,Florida State,Pittsburgh,Front Seven,DEF,Rookie
+62,Daniel McCullers,DT,23,79,352,3,Tennessee,Pittsburgh,Front Seven,DEF,1-4 Yrs
+45,Roosevelt Nix,FB,24,71,248,2,Kent State,Pittsburgh,Tailback,OFF,1-4 Yrs
+23,Mike Mitchell,FS,29,73,221,8,Ohio,Pittsburgh,DB,DEF,5-8 Yrs
+65,Cole Manhart,G,23,76,298,1,Nebraska-Kearney,Pittsburgh,OL,OFF,1-4 Yrs
+92,James Harrison,LB,38,72,242,14,Kent State,Pittsburgh,Front Seven,DEF,13+ Yrs
+55,Arthur Moats,LB,28,72,246,7,James Madison,Pittsburgh,Front Seven,DEF,5-8 Yrs
+54,L.J. Fort,LB,26,72,230,2,Northern Iowa,Pittsburgh,Front Seven,DEF,1-4 Yrs
+8,Tyler Matakevich,LB,23,72,238,0,Temple,Pittsburgh,Front Seven,DEF,Rookie
+94,Lawrence Timmons,LB,30,73,234,10,Florida State,Pittsburgh,Front Seven,DEF,9-12 Yrs
+--,Steven Johnson,LB,28,73,237,5,Kansas,Pittsburgh,Front Seven,DEF,5-8 Yrs
+98,Vince Williams,LB,26,73,253,4,Florida State,Pittsburgh,Front Seven,DEF,1-4 Yrs
+50,Ryan Shazier,LB,23,73,230,3,Ohio State,Pittsburgh,Front Seven,DEF,1-4 Yrs
+95,Jarvis Jones,LB,26,75,248,4,Georgia,Pittsburgh,Front Seven,DEF,1-4 Yrs
+56,Anthony Chickillo,LB,23,75,267,2,Miami,Pittsburgh,Front Seven,DEF,1-4 Yrs
+52,Jordan Zumwalt,LB,24,76,235,3,UCLA,Pittsburgh,Front Seven,DEF,1-4 Yrs
+48,Bud Dupree,LB,23,76,269,2,Kentucky,Pittsburgh,Front Seven,DEF,1-4 Yrs
+41,Travis Feeney,LB,23,76,230,0,Washington,Pittsburgh,Front Seven,DEF,Rookie
+60,Greg Warren,LS,34,75,252,12,North Carolina,Pittsburgh,ST,ST,9-12 Yrs
+42,Matt Dooley,LS,23,76,251,0,Indiana,Pittsburgh,ST,ST,Rookie
+72,Cody Wallace,OG,31,76,296,7,Texas A&M,Pittsburgh,OL,OFF,5-8 Yrs
+73,Ramon Foster,OG,30,77,328,8,Tennessee,Pittsburgh,OL,OFF,5-8 Yrs
+66,David DeCastro,OG,26,77,316,5,Stanford,Pittsburgh,OL,OFF,5-8 Yrs
+68,Ryan Harris,OT,31,77,302,9,Notre Dame,Pittsburgh,OL,OFF,9-12 Yrs
+77,Marcus Gilbert,OT,28,78,330,6,Florida,Pittsburgh,OL,OFF,5-8 Yrs
+1,Matt Feiler,OT,24,78,330,1,Bloomsburg,Pittsburgh,OL,OFF,1-4 Yrs
+65,Jerald Hawkins,OT,22,78,305,0,LSU,Pittsburgh,OL,OFF,Rookie
+78,Alejandro Villanueva,OT,27,81,320,2,Army,Pittsburgh,OL,OFF,1-4 Yrs
+69,Brian Mihalik,OT,23,81,302,1,Boston College,Pittsburgh,OL,OFF,1-4 Yrs
+41,Will Monday,P,23,76,212,0,Duke,Pittsburgh,ST,ST,Rookie
+4,Jordan Berry,P,25,77,195,2,Eastern Kentucky,Pittsburgh,ST,ST,1-4 Yrs
+9,Chris Boswell,PK,25,74,185,2,Rice,Pittsburgh,ST,ST,1-4 Yrs
+5,Bruce Gradkowski,QB,33,73,220,11,Toledo,Pittsburgh,QB,OFF,9-12 Yrs
+3,Landry Jones,QB,27,75,225,4,Oklahoma,Pittsburgh,QB,OFF,1-4 Yrs
+7,Ben Roethlisberger,QB,34,77,240,13,Miami (OH),Pittsburgh,QB,OFF,13+ Yrs
+13,Dustin Vaughan,QB,25,77,240,2,West Texas A&M,Pittsburgh,QB,OFF,1-4 Yrs
+--,Brandon Brown-Dukes,RB,24,68,195,0,Mercyhurst,Pittsburgh,Tailback,OFF,Rookie
+34,DeAngelo Williams,RB,33,69,207,11,Memphis,Pittsburgh,Tailback,OFF,9-12 Yrs
+38,Daryl Richardson,RB,26,70,196,3,Abilene Christian,Pittsburgh,Tailback,OFF,1-4 Yrs
+33,Fitzgerald Toussaint,RB,26,70,211,3,Michigan,Pittsburgh,Tailback,OFF,1-4 Yrs
+26,Le'Veon Bell,RB,24,73,244,4,Michigan State,Pittsburgh,Tailback,OFF,1-4 Yrs
+30,Cameron Stingily,RB,24,73,235,0,Northern Illinois,Pittsburgh,Tailback,OFF,Rookie
+--,Brandon Johnson,RB,23,74,228,0,Penn State,Pittsburgh,Tailback,OFF,Rookie
+35,Ross Ventrone,S,29,68,198,4,Villanova,Pittsburgh,DB,DEF,1-4 Yrs
+36,Ray Vinopal,S,24,70,195,0,Pittsburgh,Pittsburgh,DB,DEF,Rookie
+37,Jordan Dangerfield,S,25,71,200,1,Towson,Pittsburgh,DB,DEF,1-4 Yrs
+21,Robert Golden,S,25,71,202,5,Arizona,Pittsburgh,DB,DEF,5-8 Yrs
+21,Sean Davis,S,22,73,201,0,Maryland,Pittsburgh,DB,DEF,Rookie
+42,Jacob Hagen,S,24,74,205,1,Liberty,Pittsburgh,DB,DEF,1-4 Yrs
+29,Shamarko Thomas,SS,25,69,205,4,Syracuse,Pittsburgh,DB,DEF,1-4 Yrs
+2,Xavier Grimble,TE,23,76,261,1,USC,Pittsburgh,TE,OFF,1-4 Yrs
+89,Ladarius Green,TE,26,78,240,5,Louisiana Lafayette,Pittsburgh,TE,OFF,5-8 Yrs
+81,Jesse James,TE,22,79,261,2,Penn State,Pittsburgh,TE,OFF,1-4 Yrs
+18,Levi Norwood,WR,24,72,197,0,Baylor,Pittsburgh,WR,OFF,Rookie
+84,Antonio Brown,WR,28,70,181,7,Central Michigan,Pittsburgh,WR,OFF,5-8 Yrs
+--,Marcus Tucker,WR,24,70,190,0,Northern Michigan,Pittsburgh,WR,OFF,Rookie
+17,Eli Rogers,WR,23,70,180,2,Louisville,Pittsburgh,WR,OFF,1-4 Yrs
+87,Tobais Palmer,WR,26,71,178,1,NC State,Pittsburgh,WR,OFF,1-4 Yrs
+11,Markus Wheaton,WR,25,71,189,4,Oregon State,Pittsburgh,WR,OFF,1-4 Yrs
+10,Demarcus Ayers,WR,22,71,190,0,Houston,Pittsburgh,WR,OFF,Rookie
+14,Sammie Coates,WR,23,73,212,2,Auburn,Pittsburgh,WR,OFF,1-4 Yrs
+88,Darrius Heyward-Bey,WR,29,74,210,8,Maryland,Pittsburgh,WR,OFF,5-8 Yrs
+9,Canaan Severin,WR,23,74,205,0,Virginia,Pittsburgh,WR,OFF,Rookie
+19,Shakim Phillips,WR,24,75,206,1,Boston College,Pittsburgh,WR,OFF,1-4 Yrs
+10,Martavis Bryant,WR,24,76,211,3,Clemson,Pittsburgh,WR,OFF,1-4 Yrs
+17,Issac Blakeney,WR,23,78,225,1,Duke,Pittsburgh,WR,OFF,1-4 Yrs
+47,Mike Windt,C,30,73,237,7,Cincinnati,San Diego,OL,OFF,5-8 Yrs
+65,Chris Watt,C,25,75,310,3,Notre Dame,San Diego,OL,OFF,1-4 Yrs
+77,Spencer Pulley,C,23,76,300,0,Vanderbilt,San Diego,OL,OFF,Rookie
+60,Trevor Robinson,C,26,77,300,5,Notre Dame,San Diego,OL,OFF,5-8 Yrs
+75,Max Tuerk,C,22,77,269,0,USC,San Diego,OL,OFF,Rookie
+24,Brandon Flowers,CB,30,69,187,9,Virginia Tech,San Diego,DB,DEF,9-12 Yrs
+22,Jason Verrett,CB,25,70,188,3,TCU,San Diego,DB,DEF,1-4 Yrs
+23,Steve Williams,CB,25,70,185,4,California,San Diego,DB,DEF,1-4 Yrs
+33,Greg Ducre,CB,24,70,184,3,Washington,San Diego,DB,DEF,1-4 Yrs
+--,Casey Hayward,CB,26,71,192,5,Vanderbilt,San Diego,DB,DEF,5-8 Yrs
+35,Richard Crawford,CB,25,71,192,3,SMU,San Diego,DB,DEF,1-4 Yrs
+29,Craig Mager,CB,24,71,200,2,Texas State,San Diego,DB,DEF,1-4 Yrs
+15,Larry Scott,CB,23,71,194,0,Oregon State,San Diego,DB,DEF,Rookie
+10,Trevor Williams,CB,22,73,287,0,Penn State,San Diego,DB,DEF,Rookie
+37,Jahleel Addae,DB,26,70,195,4,Central Michigan,San Diego,DB,DEF,1-4 Yrs
+93,Darius Philon,DE,22,73,300,2,Arkansas,San Diego,Front Seven,DEF,1-4 Yrs
+90,Chris Landrum,DE,23,75,249,0,Jacksonville State,San Diego,Front Seven,DEF,Rookie
+97,Joey Bosa,DE,21,78,275,0,Ohio State,San Diego,Front Seven,DEF,Rookie
+96,Chuka Ndulue,DL,24,75,289,1,Oklahoma,San Diego,Front Seven,DEF,1-4 Yrs
+--,Brandon Mebane,DT,31,73,311,10,California,San Diego,Front Seven,DEF,9-12 Yrs
+95,Tenny Palepoi,DT,25,73,298,3,Utah,San Diego,Front Seven,DEF,1-4 Yrs
+71,Damion Square,DT,27,74,293,4,Alabama,San Diego,Front Seven,DEF,1-4 Yrs
+94,Corey Liuget,DT,26,74,300,6,Illinois,San Diego,Front Seven,DEF,5-8 Yrs
+98,Carlos Wray,DT,22,74,291,0,Duke,San Diego,Front Seven,DEF,Rookie
+37,Chris Swain,FB,--,72,247,0,Navy,San Diego,Tailback,OFF,Rookie
+34,Derek Watt,FB,23,74,236,0,Wisconsin,San Diego,Tailback,OFF,Rookie
+76,Donavon Clark,G,23,76,315,0,Michigan State,San Diego,OL,OFF,Rookie
+--,Matt Slauson,G,30,77,320,8,Nebraska,San Diego,OL,OFF,5-8 Yrs
+76,D.J. Fluker,G,25,77,339,4,Alabama,San Diego,OL,OFF,1-4 Yrs
+79,Kenny Wiggins,G,27,78,314,3,Fresno State,San Diego,OL,OFF,1-4 Yrs
+36,Shaq Petteway,LB,23,72,225,0,West Virginia,San Diego,Front Seven,DEF,Rookie
+52,Denzel Perryman,LB,23,71,240,2,Miami,San Diego,Front Seven,DEF,1-4 Yrs
+1,Jatavis Brown,LB,22,71,227,0,Akron,San Diego,Front Seven,DEF,Rookie
+50,Manti Te'o,LB,25,73,241,4,Notre Dame,San Diego,Front Seven,DEF,1-4 Yrs
+48,Nick Dzubnar,LB,24,73,240,2,Cal Poly,San Diego,Front Seven,DEF,1-4 Yrs
+54,Melvin Ingram,LB,27,74,247,5,South Carolina,San Diego,Front Seven,DEF,5-8 Yrs
+51,Kyle Emanuel,LB,24,75,250,2,North Dakota State,San Diego,Front Seven,DEF,1-4 Yrs
+59,Brock Hekking,LB,24,75,250,2,Nevada,San Diego,Front Seven,DEF,1-4 Yrs
+97,Jeremiah Attaochu,LB,23,75,252,3,Georgia Tech,San Diego,Front Seven,DEF,1-4 Yrs
+49,Ben Gardner,LB,25,76,270,2,Stanford,San Diego,Front Seven,DEF,1-4 Yrs
+58,Tourek Williams,LB,25,76,262,4,Florida Intl,San Diego,Front Seven,DEF,1-4 Yrs
+86,Dexter McCoil,LB,24,76,220,0,Tulsa,San Diego,Front Seven,DEF,Rookie
+35,Tyler Marcordes,LB,23,76,237,0,Georgia Tech,San Diego,Front Seven,DEF,Rookie
+37,Joshua Perry,LB,22,76,254,0,Ohio State,San Diego,Front Seven,DEF,Rookie
+92,Ryan Carrethers,NT,25,73,333,3,Arkansas State,San Diego,Front Seven,DEF,1-4 Yrs
+98,Sean Lissemore,NT,28,75,303,7,William & Mary,San Diego,Front Seven,DEF,5-8 Yrs
+75,Mike McQueen,OL,22,78,287,0,Ohio,San Diego,OL,OFF,Rookie
+72,Joe Barksdale,OT,28,77,326,6,LSU,San Diego,OL,OFF,5-8 Yrs
+78,Tyreek Burwell,OT,24,77,305,2,Cincinnati,San Diego,OL,OFF,1-4 Yrs
+64,Tyler Johnstone,OT,23,77,293,0,Oregon,San Diego,OL,OFF,Rookie
+75,Chris Hairston,OT,27,78,330,5,Clemson,San Diego,OL,OFF,5-8 Yrs
+67,Brett Boyko,OT,23,78,301,1,UNLV,San Diego,OL,OFF,1-4 Yrs
+74,Orlando Franklin,OT,28,79,320,6,Miami,San Diego,OL,OFF,5-8 Yrs
+77,King Dunlap,OT,30,81,330,9,Auburn,San Diego,OL,OFF,9-12 Yrs
+3,Kasey Redfern,P,24,74,215,1,Wofford,San Diego,ST,ST,1-4 Yrs
+38,Drew Kaser,P,23,74,212,0,Texas A&M,San Diego,ST,ST,Rookie
+2,Josh Lambo,PK,25,72,215,2,Texas A&M,San Diego,ST,ST,1-4 Yrs
+16,Terrell Chestnut,QB,24,71,188,0,West Virginia,San Diego,QB,OFF,Rookie
+2,Mike Bercovici,QB,23,73,210,0,Arizona State,San Diego,QB,OFF,Rookie
+10,Kellen Clemens,QB,33,74,220,11,Oregon,San Diego,QB,OFF,9-12 Yrs
+17,Philip Rivers,QB,34,77,228,13,NC State,San Diego,QB,OFF,13+ Yrs
+--,Zach Mettenberger,QB,25,77,224,3,LSU,San Diego,QB,OFF,1-4 Yrs
+39,Danny Woodhead,RB,31,68,200,9,Chadron State,San Diego,Tailback,OFF,9-12 Yrs
+43,Branden Oliver,RB,25,68,208,3,Buffalo,San Diego,Tailback,OFF,1-4 Yrs
+35,Kenneth Farrow,RB,23,70,220,0,Houston,San Diego,Tailback,OFF,Rookie
+36,Dreamius Smith,RB,23,71,217,1,West Virginia,San Diego,Tailback,OFF,1-4 Yrs
+28,Melvin Gordon,RB,23,73,215,2,Wisconsin,San Diego,Tailback,OFF,1-4 Yrs
+16,Adrian McDonald,S,22,70,192,0,Houston,San Diego,DB,DEF,Rookie
+--,Dwight Lowery,S,30,71,212,9,San José State,San Diego,DB,DEF,9-12 Yrs
+25,Darrell Stuckey,S,29,71,212,7,Kansas,San Diego,DB,DEF,5-8 Yrs
+31,Adrian Phillips,S,24,71,210,2,Texas,San Diego,DB,DEF,1-4 Yrs
+85,Antonio Gates,TE,36,76,255,14,Kent State,San Diego,TE,OFF,13+ Yrs
+87,Jeff Cumberland,TE,29,76,260,7,Illinois,San Diego,TE,OFF,5-8 Yrs
+84,Sean McGrath,TE,28,77,247,2,Henderson State,San Diego,TE,OFF,1-4 Yrs
+45,Asante Cleveland,TE,24,77,260,2,Miami,San Diego,TE,OFF,1-4 Yrs
+--,Matt Weiser,TE,23,77,241,0,Buffalo,San Diego,TE,OFF,Rookie
+84,Hunter Henry,TE,21,77,253,0,Arkansas,San Diego,TE,OFF,Rookie
+87,Tim Semisch,TE,24,80,275,1,Northern Illinois,San Diego,TE,OFF,1-4 Yrs
+83,Torrence Allen,WR,25,72,183,2,West Texas A&M,San Diego,WR,OFF,1-4 Yrs
+81,Javontee Herndon,WR,25,72,194,2,Arkansas,San Diego,WR,OFF,1-4 Yrs
+--,Travis Benjamin,WR,26,70,175,5,Miami,San Diego,WR,OFF,5-8 Yrs
+12,Isaiah Burse,WR,24,70,187,2,Fresno State,San Diego,WR,OFF,1-4 Yrs
+19,Deandre Reaves,WR,24,70,179,0,Marshall,San Diego,WR,OFF,Rookie
+6,Jamaal Jones,WR,23,73,187,0,Montana,San Diego,WR,OFF,Rookie
+11,Stevie Johnson,WR,30,74,207,9,Kentucky,San Diego,WR,OFF,9-12 Yrs
+13,Keenan Allen,WR,24,74,211,4,California,San Diego,WR,OFF,1-4 Yrs
+80,Dom Williams,WR,23,74,200,0,Washington State,San Diego,WR,OFF,Rookie
+15,Dontrelle Inman,WR,27,75,205,3,Virginia,San Diego,WR,OFF,1-4 Yrs
+16,Tyrell Williams,WR,24,76,205,2,Western Oregon,San Diego,WR,OFF,1-4 Yrs
+66,Marcus Martin,C,22,75,321,3,USC,San Francisco,OL,OFF,1-4 Yrs
+47,Marcus Cromartie,CB,25,72,195,3,Wisconsin,San Francisco,DB,DEF,1-4 Yrs
+27,Keith Reaser,CB,24,72,190,2,Florida Atlantic,San Francisco,DB,DEF,1-4 Yrs
+30,Prince Charles Iworah,CB,22,69,192,0,Western Kentucky,San Francisco,DB,DEF,Rookie
+26,Tramaine Brock,CB,27,70,197,7,Belhaven University,San Francisco,DB,DEF,5-8 Yrs
+43,Chris Davis,CB,25,70,201,3,Auburn,San Francisco,DB,DEF,1-4 Yrs
+20,Kenneth Acker,CB,24,71,195,3,SMU,San Francisco,DB,DEF,1-4 Yrs
+2,Will Redmond,CB,22,71,182,0,Mississippi State,San Francisco,DB,DEF,Rookie
+21,Rashard Robinson,CB,20,73,171,0,LSU,San Francisco,DB,DEF,Rookie
+36,Dontae Johnson,CB,24,74,200,3,NC State,San Francisco,DB,DEF,1-4 Yrs
+--,Jered Bell,DB,24,73,205,0,Colorado,San Francisco,DB,DEF,Rookie
+49,Ronald Blair,DE,23,73,272,0,Appalachian State,San Francisco,Front Seven,DEF,Rookie
+--,Jason Fanaika,DE,24,74,276,0,Utah,San Francisco,Front Seven,DEF,Rookie
+--,Lenny Jones,DE,24,75,269,0,Nevada,San Francisco,Front Seven,DEF,Rookie
+95,Tank Carradine,DE,27,76,295,4,Florida State,San Francisco,Front Seven,DEF,1-4 Yrs
+63,Tony Jerod-Eddie,DE,26,77,301,4,Texas A&M,San Francisco,Front Seven,DEF,1-4 Yrs
+44,DeForest Buckner,DE,22,79,281,0,Oregon,San Francisco,Front Seven,DEF,Rookie
+90,Glenn Dorsey,DL,30,73,297,9,LSU,San Francisco,Front Seven,DEF,9-12 Yrs
+45,Marcus Rush,DL,25,75,251,1,Michigan State,San Francisco,Front Seven,DEF,1-4 Yrs
+--,Darren Lake,DL,22,75,324,0,Alabama,San Francisco,Front Seven,DEF,Rookie
+--,Demetrius Cherry,DL,24,78,300,0,Arizona,San Francisco,Front Seven,DEF,Rookie
+91,Arik Armstead,DL,22,79,292,2,Oregon,San Francisco,Front Seven,DEF,1-4 Yrs
+93,Ian Williams,DT,26,73,305,6,Notre Dame,San Francisco,Front Seven,DEF,5-8 Yrs
+69,Kaleb Ramsey,DT,27,75,285,2,Boston College,San Francisco,Front Seven,DEF,1-4 Yrs
+64,Mike Purcell,DT,25,75,303,3,Wyoming,San Francisco,Front Seven,DEF,1-4 Yrs
+--,Alex Balducci,DT,22,75,308,0,Oregon,San Francisco,Front Seven,DEF,Rookie
+92,Quinton Dial,DT,26,77,318,3,Alabama,San Francisco,Front Seven,DEF,1-4 Yrs
+49,Bruce Miller,FB,28,74,248,6,UCF,San Francisco,Tailback,OFF,5-8 Yrs
+35,Eric Reid,FS,24,73,213,4,LSU,San Francisco,DB,DEF,1-4 Yrs
+67,Daniel Kilgore,G,28,75,308,6,Appalachian State,San Francisco,OL,OFF,5-8 Yrs
+--,Zane Beadles,G,29,76,315,7,Utah,San Francisco,OL,OFF,5-8 Yrs
+61,Andrew Tiller,G,27,76,324,4,Syracuse,San Francisco,OL,OFF,1-4 Yrs
+51,Joshua Garnett,G,22,76,317,0,Stanford,San Francisco,OL,OFF,Rookie
+57,Michael Wilhoite,LB,29,72,240,5,Washburn,San Francisco,Front Seven,DEF,5-8 Yrs
+53,NaVorro Bowman,LB,28,72,242,7,Penn State,San Francisco,Front Seven,DEF,5-8 Yrs
+50,Nick Bellore,LB,27,73,250,6,Central Michigan,San Francisco,Front Seven,DEF,5-8 Yrs
+56,Shayne Skov,LB,26,74,247,2,Stanford,San Francisco,Front Seven,DEF,1-4 Yrs
+51,Gerald Hodges,LB,25,74,236,4,Penn State,San Francisco,Front Seven,DEF,1-4 Yrs
+55,Ahmad Brooks,LB,32,75,259,11,Virginia,San Francisco,Front Seven,DEF,9-12 Yrs
+54,Ray-Ray Armstrong,LB,25,75,220,4,Miami,San Francisco,Front Seven,DEF,1-4 Yrs
+96,Corey Lemonier,LB,24,75,255,4,Auburn,San Francisco,Front Seven,DEF,1-4 Yrs
+58,Eli Harold,LB,22,75,247,2,Virginia,San Francisco,Front Seven,DEF,1-4 Yrs
+--,Kevin Anderson,LB,--,76,244,0,Stanford,San Francisco,Front Seven,DEF,Rookie
+59,Aaron Lynch,LB,23,77,270,3,South Florida,San Francisco,Front Seven,DEF,1-4 Yrs
+70,Garrison Smith,NT,24,73,300,1,Georgia,San Francisco,Front Seven,DEF,1-4 Yrs
+60,Brandon Thomas,OG,25,75,317,2,Clemson,San Francisco,OL,OFF,1-4 Yrs
+--,Norman Price,OL,21,76,311,0,Southern Mississippi,San Francisco,OL,OFF,Rookie
+68,Colin Kelly,OL,26,77,298,1,Oregon State,San Francisco,OL,OFF,1-4 Yrs
+--,Blake Muir,OL,25,77,295,0,Baylor,San Francisco,OL,OFF,Rookie
+62,Ian Silberman,OL,23,77,306,2,Boston College,San Francisco,OL,OFF,1-4 Yrs
+77,Trent Brown,OL,23,80,355,2,Florida,San Francisco,OL,OFF,1-4 Yrs
+74,Fahn Cooper,OT,23,76,308,0,Ole Miss,San Francisco,OL,OFF,Rookie
+74,Joe Staley,OT,31,77,315,10,Central Michigan,San Francisco,OL,OFF,9-12 Yrs
+71,John Theus,OT,22,78,317,0,Georgia,San Francisco,OL,OFF,Rookie
+71,Erik Pears,OT,34,80,316,10,Colorado State,San Francisco,OL,OFF,9-12 Yrs
+5,Bradley Pinion,P,22,77,229,2,Clemson,San Francisco,ST,ST,1-4 Yrs
+9,Phil Dawson,PK,41,71,200,18,Texas,San Francisco,ST,ST,13+ Yrs
+49,John Lunsford,PK,22,73,214,0,Liberty,San Francisco,ST,ST,Rookie
+9,Thaddeus Lewis,QB,28,74,219,4,Duke,San Francisco,QB,OFF,1-4 Yrs
+6,Jeff Driskel,QB,23,75,230,0,Louisiana Tech,San Francisco,QB,OFF,Rookie
+7,Colin Kaepernick,QB,28,76,230,6,Nevada,San Francisco,QB,OFF,5-8 Yrs
+2,Blaine Gabbert,QB,26,76,235,6,Missouri,San Francisco,QB,OFF,5-8 Yrs
+28,Carlos Hyde,RB,24,72,235,3,Ohio State,San Francisco,Tailback,OFF,1-4 Yrs
+32,DuJuan Harris,RB,27,68,203,3,Troy,San Francisco,Tailback,OFF,1-4 Yrs
+22,Mike Davis,RB,23,69,217,2,South Carolina,San Francisco,Tailback,OFF,1-4 Yrs
+21,Kelvin Taylor,RB,22,70,209,0,Florida,San Francisco,Tailback,OFF,Rookie
+24,Shaun Draughn,RB,28,71,205,4,North Carolina,San Francisco,Tailback,OFF,1-4 Yrs
+30,Kendall Gaskins,RB,25,73,238,2,Richmond,San Francisco,Tailback,OFF,1-4 Yrs
+31,L.J. McCray,S,25,72,210,3,Catawba,San Francisco,DB,DEF,1-4 Yrs
+41,Antoine Bethea,S,31,71,206,11,Howard,San Francisco,DB,DEF,9-12 Yrs
+25,Jimmie Ward,SS,25,71,193,3,Northern Illinois,San Francisco,DB,DEF,1-4 Yrs
+29,Jaquiski Tartt,SS,24,73,221,2,Samford,San Francisco,DB,DEF,1-4 Yrs
+86,Kyle Nelson,TE,29,74,240,5,New Mexico State,San Francisco,TE,OFF,5-8 Yrs
+83,Je'Ron Hamm,TE,24,75,236,2,Louisiana Monroe,San Francisco,TE,OFF,1-4 Yrs
+89,Vance McDonald,TE,26,76,267,4,Rice,San Francisco,TE,OFF,1-4 Yrs
+48,Busta Anderson,TE,23,76,246,2,South Carolina,San Francisco,TE,OFF,1-4 Yrs
+88,Garrett Celek,TE,28,77,252,5,Michigan State,San Francisco,TE,OFF,5-8 Yrs
+84,Blake Bell,TE,24,78,252,2,Oklahoma,San Francisco,TE,OFF,1-4 Yrs
+82,Torrey Smith,WR,27,72,205,6,Maryland,San Francisco,WR,OFF,5-8 Yrs
+11,Quinton Patton,WR,25,72,204,4,Louisiana Tech,San Francisco,WR,OFF,1-4 Yrs
+18,DeAndrew White,WR,24,72,192,2,Alabama,San Francisco,WR,OFF,1-4 Yrs
+16,Aaron Burbridge,WR,22,72,210,0,Michigan State,San Francisco,WR,OFF,Rookie
+10,Bruce Ellington,WR,24,69,197,3,South Carolina,San Francisco,WR,OFF,1-4 Yrs
+--,Bryce Treggs,WR,22,71,181,0,California,San Francisco,WR,OFF,Rookie
+14,Jerome Simpson,WR,30,74,190,7,Coastal Carolina,San Francisco,WR,OFF,5-8 Yrs
+17,Dres Anderson,WR,24,74,190,2,Utah,San Francisco,WR,OFF,1-4 Yrs
+19,DiAndre Campbell,WR,24,74,206,1,Washington,San Francisco,WR,OFF,1-4 Yrs
+15,DeAndre Smelter,WR,24,74,227,1,Georgia Tech,San Francisco,WR,OFF,1-4 Yrs
+1,Eric Rogers,WR,25,75,210,0,Cal Lutheran,San Francisco,WR,OFF,Rookie
+--,Devon Cajuste,WR,23,75,216,0,Stanford,San Francisco,WR,OFF,Rookie
+55,Joey Hunt,C,22,72,295,0,TCU,Seattle,OL,OFF,Rookie
+65,Patrick Lewis,C,25,73,311,4,Texas A&M,Seattle,OL,OFF,1-4 Yrs
+67,Kristjan Sokoli,C,24,77,302,2,Buffalo,Seattle,OL,OFF,1-4 Yrs
+20,Jeremy Lane,CB,26,72,190,5,Northwestern State,Seattle,DB,DEF,5-8 Yrs
+37,Trovon Reed,CB,25,72,190,1,Auburn,Seattle,DB,DEF,1-4 Yrs
+21,Tye Smith,CB,23,72,195,2,Towson,Seattle,DB,DEF,1-4 Yrs
+28,Marcus Burley,CB,26,71,185,4,Delaware,Seattle,DB,DEF,1-4 Yrs
+--,DeAndre Elliott,CB,23,73,188,0,Colorado State,Seattle,DB,DEF,Rookie
+41,George Farmer,CB,23,73,215,1,USC,Seattle,DB,DEF,1-4 Yrs
+19,Douglas McNeil III,CB,28,75,200,1,Bowie State Bulldogs,Seattle,DB,DEF,1-4 Yrs
+25,Richard Sherman,CB,28,75,195,6,Stanford,Seattle,DB,DEF,5-8 Yrs
+30,Stanley Jean-Baptiste,CB,26,75,218,2,Nebraska,Seattle,DB,DEF,1-4 Yrs
+27,Tharold Simon,CB,25,75,202,4,LSU,Seattle,DB,DEF,1-4 Yrs
+--,Brandon Browner,CB,31,76,221,7,Oregon State,Seattle,DB,DEF,5-8 Yrs
+--,DeAngelo Tyson,DE,27,74,315,3,Georgia,Seattle,Front Seven,DEF,1-4 Yrs
+--,David Perkins,DE,23,74,225,0,Illinois State,Seattle,Front Seven,DEF,Rookie
+91,Chris Clemons,DE,34,75,255,13,Georgia,Seattle,Front Seven,DEF,13+ Yrs
+56,Cliff Avril,DE,30,75,260,9,Purdue,Seattle,Front Seven,DEF,9-12 Yrs
+55,Frank Clark,DE,23,75,272,2,Michigan,Seattle,Front Seven,DEF,1-4 Yrs
+72,Michael Bennett,DE,30,76,274,8,Texas A&M,Seattle,Front Seven,DEF,5-8 Yrs
+44,Ryan Robinson,DE,25,76,255,3,Oklahoma State,Seattle,Front Seven,DEF,1-4 Yrs
+91,Cassius Marsh,DE,24,76,254,3,UCLA,Seattle,Front Seven,DEF,1-4 Yrs
+--,Brandin Bryant,DL,22,74,260,0,Florida Atlantic,Seattle,Front Seven,DEF,Rookie
+97,Jordan Hill,DT,25,73,303,4,Penn State,Seattle,Front Seven,DEF,1-4 Yrs
+77,Ahtyba Rubin,DT,29,74,325,9,Iowa State,Seattle,Front Seven,DEF,9-12 Yrs
+96,Sealver Siliga,DT,26,74,325,5,Utah,Seattle,Front Seven,DEF,5-8 Yrs
+98,Justin Hamilton,DT,22,74,311,1,Louisiana Lafayette,Seattle,Front Seven,DEF,1-4 Yrs
+90,Jarran Reed,DT,23,75,311,0,Alabama,Seattle,Front Seven,DEF,Rookie
+99,Quinton Jefferson,DT,23,76,289,0,Maryland,Seattle,Front Seven,DEF,Rookie
+--,Taniela Tupou,FB,--,74,282,0,Washington,Seattle,Tailback,OFF,Rookie
+29,Earl Thomas,FS,27,70,202,7,Texas,Seattle,DB,DEF,5-8 Yrs
+23,Steven Terrell,FS,25,70,197,4,Texas A&M,Seattle,DB,DEF,1-4 Yrs
+75,Will Pericak,G,26,75,300,1,Colorado,Seattle,OL,OFF,1-4 Yrs
+71,Rees Odhiambo,G,23,76,301,0,Boise State,Seattle,OL,OFF,Rookie
+68,Justin Britt,G,25,78,325,3,Missouri,Seattle,OL,OFF,1-4 Yrs
+54,Bobby Wagner,LB,26,72,241,5,Utah State,Seattle,Front Seven,DEF,5-8 Yrs
+58,Kevin Pierre-Louis,LB,24,72,236,3,Boston College,Seattle,Front Seven,DEF,1-4 Yrs
+--,Kyle Coleman,LB,22,72,231,0,Arkansas-Pine Bluff,Seattle,Front Seven,DEF,Rookie
+52,Brock Coyle,LB,25,73,243,3,Montana,Seattle,Front Seven,DEF,1-4 Yrs
+--,Steve Longa,LB,21,73,241,0,Rutgers,Seattle,Front Seven,DEF,Rookie
+--,Montese Overton,LB,24,74,223,0,East Carolina,Seattle,Front Seven,DEF,Rookie
+57,Mike Morgan,LB,28,75,226,6,USC,Seattle,Front Seven,DEF,5-8 Yrs
+47,Eric Pinkins,LB,24,75,230,3,San Diego State,Seattle,Front Seven,DEF,1-4 Yrs
+--,Pete Robertson,LB,23,75,225,0,Texas Tech,Seattle,Front Seven,DEF,Rookie
+50,K.J. Wright,LB,26,76,246,6,Mississippi State,Seattle,Front Seven,DEF,5-8 Yrs
+--,Christian French,LB,23,77,245,0,Oregon,Seattle,Front Seven,DEF,Rookie
+43,Drew Ferris,LS,--,72,205,0,Florida,Seattle,ST,ST,Rookie
+--,Nolan Frese,LS,23,74,229,0,Houston,Seattle,ST,ST,Rookie
+63,Mark Glowinski,OG,24,76,310,2,West Virginia,Seattle,OL,OFF,1-4 Yrs
+53,Kona Schwenke,OT,24,76,285,2,Notre Dame,Seattle,OL,OFF,1-4 Yrs
+79,Garry Gilliam,OT,25,77,306,3,Penn State,Seattle,OL,OFF,1-4 Yrs
+69,Terry Poole,OT,24,77,323,1,San Diego State,Seattle,OL,OFF,1-4 Yrs
+74,Germain Ifedi,OT,22,78,335,0,Texas A&M,Seattle,OL,OFF,Rookie
+79,Bradley Sowell,OT,27,79,315,5,Ole Miss,Seattle,OL,OFF,5-8 Yrs
+--,J'Marcus Webb,OT,27,79,330,6,West Texas A&M,Seattle,OL,OFF,5-8 Yrs
+9,Jon Ryan,P,34,72,217,11,University of Regina,Seattle,ST,ST,9-12 Yrs
+4,Steven Hauschka,PK,31,76,210,9,NC State,Seattle,ST,ST,9-12 Yrs
+3,Russell Wilson,QB,27,71,206,5,Wisconsin,Seattle,QB,OFF,5-8 Yrs
+--,Trevone Boykin,QB,22,71,211,0,TCU,Seattle,QB,OFF,Rookie
+20,C.J. Prosise,RB,22,72,220,0,Notre Dame,Seattle,Tailback,OFF,Rookie
+34,Thomas Rawls,RB,22,69,215,2,Central Michigan,Seattle,Tailback,OFF,1-4 Yrs
+32,Christine Michael,RB,25,70,221,4,Texas A&M,Seattle,Tailback,OFF,1-4 Yrs
+3,Alex Collins,RB,21,71,215,0,Arkansas,Seattle,Tailback,OFF,Rookie
+24,Zac Brooks,RB,23,73,200,0,Clemson,Seattle,Tailback,OFF,Rookie
+35,DeShawn Shead,S,28,74,220,5,Portland State,Seattle,DB,DEF,5-8 Yrs
+33,Kelcie McCray,S,27,74,202,5,Arkansas State,Seattle,DB,DEF,5-8 Yrs
+31,Kam Chancellor,S,28,75,232,7,Virginia Tech,Seattle,DB,DEF,5-8 Yrs
+--,Tyvis Powell,S,22,75,211,0,Ohio State,Seattle,DB,DEF,Rookie
+--,Tanner McEvoy,S,23,78,223,0,Wisconsin,Seattle,DB,DEF,Rookie
+44,Brandon Cottom,TE,23,74,262,1,Purdue,Seattle,TE,OFF,1-4 Yrs
+84,Cooper Helfet,TE,27,75,239,5,Duke,Seattle,TE,OFF,5-8 Yrs
+--,Brandon Williams,TE,28,76,255,4,Oregon,Seattle,TE,OFF,1-4 Yrs
+82,Luke Willson,TE,26,77,252,4,Rice,Seattle,TE,OFF,1-4 Yrs
+80,Ronnie Shields,TE,24,77,234,0,Kentucky,Seattle,TE,OFF,Rookie
+81,Nick Vannett,TE,23,77,265,0,Ohio State,Seattle,TE,OFF,Rookie
+--,George Fant,TE,24,78,240,0,Western Kentucky,Seattle,TE,OFF,Rookie
+88,Jimmy Graham,TE,29,79,265,7,Miami,Seattle,TE,OFF,5-8 Yrs
+10,Paul Richardson,WR,24,72,183,3,Colorado,Seattle,WR,OFF,1-4 Yrs
+17,Kevin Smith,WR,24,72,218,2,Washington,Seattle,WR,OFF,1-4 Yrs
+89,Doug Baldwin,WR,27,70,189,6,Stanford,Seattle,WR,OFF,5-8 Yrs
+14,Antwan Goodley,WR,24,70,205,1,Baylor,Seattle,WR,OFF,1-4 Yrs
+14,Deshon Foxx,WR,23,70,173,1,Connecticut,Seattle,WR,OFF,1-4 Yrs
+16,Tyler Lockett,WR,23,70,182,2,Kansas State,Seattle,WR,OFF,1-4 Yrs
+15,Jermaine Kearse,WR,26,73,209,5,Washington,Seattle,WR,OFF,5-8 Yrs
+14,Tyler Slavin,WR,24,73,201,0,New Mexico Highlands,Seattle,WR,OFF,Rookie
+18,Kasen Williams,WR,24,73,219,1,Washington,Seattle,WR,OFF,1-4 Yrs
+4,Kenny Lawler,WR,22,75,195,0,California,Seattle,WR,OFF,Rookie
+62,Evan Smith,C,30,74,308,7,Idaho State,Tampa Bay,OL,OFF,5-8 Yrs
+48,Andrew DePaola,C,28,74,230,3,Rutgers,Tampa Bay,OL,OFF,1-4 Yrs
+68,Joe Hawley,C,27,75,302,7,UNLV,Tampa Bay,OL,OFF,5-8 Yrs
+61,Josh Allen,C,24,75,315,1,Louisiana Monroe,Tampa Bay,OL,OFF,1-4 Yrs
+72,Ben Gottschalk,C,24,77,293,1,SMU,Tampa Bay,OL,OFF,1-4 Yrs
+21,Brent Grimes,CB,33,70,185,10,Shippensburg,Tampa Bay,DB,DEF,9-12 Yrs
+21,Alterraun Verner,CB,27,70,187,7,UCLA,Tampa Bay,DB,DEF,5-8 Yrs
+21,Josh Robinson,CB,25,70,199,5,UCF,Tampa Bay,DB,DEF,5-8 Yrs
+32,Joel Ross,CB,24,70,190,1,Appalachian State,Tampa Bay,DB,DEF,1-4 Yrs
+1,Vernon Hargreaves III,CB,21,70,204,0,Florida,Tampa Bay,DB,DEF,Rookie
+38,Jude Adjei-Barimah,CB,24,71,200,2,Bowling Green,Tampa Bay,DB,DEF,1-4 Yrs
+2,Ryan Smith,CB,22,71,189,0,North Carolina Central,Tampa Bay,DB,DEF,Rookie
+27,Johnthan Banks,CB,26,74,185,4,Mississippi State,Tampa Bay,DB,DEF,1-4 Yrs
+--,Javien Elliott,DB,--,71,176,0,Florida State,Tampa Bay,DB,DEF,Rookie
+95,Howard Jones,DE,26,74,238,2,Shepherd,Tampa Bay,Front Seven,DEF,1-4 Yrs
+56,Jacquies Smith,DE,26,74,260,3,Missouri,Tampa Bay,Front Seven,DEF,1-4 Yrs
+--,Robert Ayers,DE,30,75,275,8,Tennessee,Tampa Bay,Front Seven,DEF,5-8 Yrs
+94,George Johnson,DE,28,76,265,5,Rutgers,Tampa Bay,Front Seven,DEF,5-8 Yrs
+96,Cliff Matthews,DE,26,76,268,4,South Carolina,Tampa Bay,Front Seven,DEF,1-4 Yrs
+92,William Gholston,DE,24,78,281,4,Michigan State,Tampa Bay,Front Seven,DEF,1-4 Yrs
+97,Akeem Spence,DT,24,73,307,4,Illinois,Tampa Bay,Front Seven,DEF,1-4 Yrs
+98,Clinton McDonald,DT,29,74,297,8,Memphis,Tampa Bay,Front Seven,DEF,5-8 Yrs
+93,Gerald McCoy,DT,28,76,300,7,Oklahoma,Tampa Bay,Front Seven,DEF,5-8 Yrs
+--,Travis Britz,DT,22,76,293,0,Kansas State,Tampa Bay,Front Seven,DEF,Rookie
+40,Dan Vitale,FB,21,73,240,0,Northwestern,Tampa Bay,Tailback,OFF,Rookie
+--,J.R. Sweezy,G,27,77,298,5,NC State,Tampa Bay,OL,OFF,5-8 Yrs
+52,Jeremiah George,LB,24,71,234,3,Iowa State,Tampa Bay,Front Seven,DEF,1-4 Yrs
+54,Lavonte David,LB,26,73,233,5,Nebraska,Tampa Bay,Front Seven,DEF,5-8 Yrs
+53,Adarius Glanton,LB,25,73,230,2,Florida Atlantic,Tampa Bay,Front Seven,DEF,1-4 Yrs
+23,Devante Bond,LB,23,73,235,0,Oklahoma,Tampa Bay,Front Seven,DEF,Rookie
+58,Kwon Alexander,LB,21,73,227,2,LSU,Tampa Bay,Front Seven,DEF,1-4 Yrs
+--,Daryl Smith,LB,34,74,250,13,Georgia Tech,Tampa Bay,Front Seven,DEF,13+ Yrs
+57,Josh Keyes,LB,23,74,223,2,Boston College,Tampa Bay,Front Seven,DEF,1-4 Yrs
+50,Luke Rhodes,LB,23,74,242,0,William & Mary,Tampa Bay,Front Seven,DEF,Rookie
+9,Noah Spence,LB,22,74,254,0,Eastern Kentucky,Tampa Bay,Front Seven,DEF,Rookie
+59,Kourtnei Brown,LB,28,76,253,2,Clemson,Tampa Bay,Front Seven,DEF,1-4 Yrs
+74,Ali Marpet,OG,23,76,307,2,Hobart,Tampa Bay,OL,OFF,1-4 Yrs
+72,Garrett Gilkey,OL,26,78,315,4,Chadron State,Tampa Bay,OL,OFF,1-4 Yrs
+64,Kevin Pamphile,OT,25,77,310,3,Purdue,Tampa Bay,OL,OFF,1-4 Yrs
+74,Caleb Benenoch,OT,21,77,305,0,UCLA,Tampa Bay,OL,OFF,Rookie
+76,Donovan Smith,OT,23,78,338,2,Penn State,Tampa Bay,OL,OFF,1-4 Yrs
+78,Gosder Cherilus,OT,32,79,316,9,Boston College,Tampa Bay,OL,OFF,9-12 Yrs
+69,Demar Dotson,OT,30,81,315,8,Southern Mississippi,Tampa Bay,OL,OFF,5-8 Yrs
+5,Jacob Schum,P,27,71,211,2,Buffalo,Tampa Bay,ST,ST,1-4 Yrs
+--,Bryan Anger,P,27,75,205,5,California,Tampa Bay,ST,ST,5-8 Yrs
+19,Roberto Aguayo,PK,22,72,207,0,Florida State,Tampa Bay,ST,ST,Rookie
+--,Dan LeFevour,QB,29,75,230,2,Central Michigan,Tampa Bay,QB,OFF,1-4 Yrs
+3,Jameis Winston,QB,22,76,231,2,Florida State,Tampa Bay,QB,OFF,1-4 Yrs
+4,Ryan Griffin,QB,26,77,210,3,Tulane,Tampa Bay,QB,OFF,1-4 Yrs
+8,Mike Glennon,QB,26,78,225,4,NC State,Tampa Bay,QB,OFF,1-4 Yrs
+34,Charles Sims,RB,25,72,211,3,West Virginia,Tampa Bay,Tailback,OFF,1-4 Yrs
+36,Storm Johnson,RB,24,72,216,2,UCF,Tampa Bay,Tailback,OFF,1-4 Yrs
+22,Doug Martin,RB,27,69,223,5,Boise State,Tampa Bay,Tailback,OFF,5-8 Yrs
+25,Mike James,RB,25,70,223,3,Miami,Tampa Bay,Tailback,OFF,1-4 Yrs
+37,Keith Tandy,S,27,70,205,5,West Virginia,Tampa Bay,DB,DEF,5-8 Yrs
+31,Major Wright,S,28,71,204,7,Florida,Tampa Bay,DB,DEF,5-8 Yrs
+33,Kimario McFadden,S,25,71,197,1,South Carolina State,Tampa Bay,DB,DEF,1-4 Yrs
+23,Chris Conte,S,27,74,203,6,California,Tampa Bay,DB,DEF,5-8 Yrs
+30,Bradley McDougald,SS,25,73,209,4,Kansas,Tampa Bay,DB,DEF,1-4 Yrs
+82,Brandon Myers,TE,30,75,256,8,Iowa,Tampa Bay,TE,OFF,5-8 Yrs
+84,Cameron Brate,TE,25,77,235,2,Harvard,Tampa Bay,TE,OFF,1-4 Yrs
+87,Austin Seferian-Jenkins,TE,23,77,262,3,Washington,Tampa Bay,TE,OFF,1-4 Yrs
+81,Tevin Westbrook,TE,23,77,257,1,Florida,Tampa Bay,TE,OFF,1-4 Yrs
+88,Luke Stocker,TE,28,78,253,6,Tennessee,Tampa Bay,TE,OFF,5-8 Yrs
+16,Freddie Martino,WR,24,72,195,1,North Greenville,Tampa Bay,WR,OFF,1-4 Yrs
+17,Donteea Dye,WR,22,72,195,2,Heidelberg,Tampa Bay,WR,OFF,1-4 Yrs
+89,Bernard Reedy,WR,24,69,175,1,Toledo,Tampa Bay,WR,OFF,1-4 Yrs
+11,Adam Humphries,WR,23,71,195,2,Clemson,Tampa Bay,WR,OFF,1-4 Yrs
+89,Russell Shepard,WR,25,73,195,4,LSU,Tampa Bay,WR,OFF,1-4 Yrs
+80,Kenny Bell,WR,24,73,197,2,Nebraska,Tampa Bay,WR,OFF,1-4 Yrs
+18,Louis Murphy,WR,29,74,200,8,Florida,Tampa Bay,WR,OFF,5-8 Yrs
+85,Evan Spencer,WR,23,74,208,1,Ohio State,Tampa Bay,WR,OFF,1-4 Yrs
+83,Vincent Jackson,WR,33,77,230,12,Northern Colorado,Tampa Bay,WR,OFF,9-12 Yrs
+13,Mike Evans,WR,22,77,231,3,Texas A&M,Tampa Bay,WR,OFF,1-4 Yrs
+69,Andy Gallik,C,24,74,306,2,Boston College,Tennessee,OL,OFF,1-4 Yrs
+60,Ben Jones,C,27,75,308,5,Georgia,Tennessee,OL,OFF,5-8 Yrs
+62,Brian Schwenke,C,25,75,318,4,California,Tennessee,OL,OFF,1-4 Yrs
+48,Beau Brinkley,C,26,76,248,5,Missouri,Tennessee,OL,OFF,5-8 Yrs
+30,Jason McCourty,CB,28,72,193,8,Rutgers,Tennessee,DB,DEF,5-8 Yrs
+46,Curtis Riley,CB,24,72,189,2,Fresno State,Tennessee,DB,DEF,1-4 Yrs
+--,Bennett Okotcha,CB,23,72,195,0,Texas San Antonio,Tennessee,DB,DEF,Rookie
+36,LeShaun Sims,CB,22,72,203,0,Southern Utah,Tennessee,DB,DEF,Rookie
+--,Brice McCain,CB,29,69,190,8,Utah,Tennessee,DB,DEF,5-8 Yrs
+--,Antwon Blake,CB,25,69,198,5,UTEP,Tennessee,DB,DEF,5-8 Yrs
+37,Cody Riggs,CB,24,69,187,2,Notre Dame,Tennessee,DB,DEF,1-4 Yrs
+38,B.W. Webb,CB,26,71,190,4,William & Mary,Tennessee,DB,DEF,1-4 Yrs
+25,Blidi Wreh-Wilson,CB,26,73,198,4,Connecticut,Tennessee,DB,DEF,1-4 Yrs
+29,Perrish Cox,DB,29,72,190,6,Oklahoma State,Tennessee,DB,DEF,5-8 Yrs
+11,Kalan Reed,DB,22,71,195,0,Southern Mississippi,Tennessee,DB,DEF,Rookie
+99,Jurrell Casey,DE,26,73,305,6,USC,Tennessee,Front Seven,DEF,5-8 Yrs
+97,Karl Klug,DE,28,75,278,6,Iowa,Tennessee,Front Seven,DEF,5-8 Yrs
+90,DaQuan Jones,DE,24,76,322,3,Penn State,Tennessee,Front Seven,DEF,1-4 Yrs
+98,Kevin Dodd,DE,24,77,275,0,Clemson,Tennessee,Front Seven,DEF,Rookie
+--,Mehdi Abdesmad,DE,24,78,282,0,Boston College,Tennessee,Front Seven,DEF,Rookie
+92,Ropati Pitoitua,DE,31,80,298,7,Washington State,Tennessee,Front Seven,DEF,5-8 Yrs
+--,Michael Smith,DL,23,76,285,0,Southern Mississippi,Tennessee,Front Seven,DEF,Rookie
+96,Al Woods,DT,29,76,307,7,LSU,Tennessee,Front Seven,DEF,5-8 Yrs
+95,Angelo Blackson,DT,23,76,318,2,Auburn,Tennessee,Front Seven,DEF,1-4 Yrs
+99,Austin Johnson,DT,22,76,323,0,Penn State,Tennessee,Front Seven,DEF,Rookie
+--,Terrell Lathan,DT,22,77,280,0,TCU,Tennessee,Front Seven,DEF,Rookie
+--,Sam Bergen,FB,24,72,236,0,Rutgers,Tennessee,Tailback,OFF,Rookie
+45,Jalston Fowler,FB,25,71,254,2,Alabama,Tennessee,Tailback,OFF,1-4 Yrs
+73,Sebastian Tretola,G,24,76,317,0,Arkansas,Tennessee,OL,OFF,Rookie
+66,Josue Matias,G,23,77,309,1,Florida State,Tennessee,OL,OFF,1-4 Yrs
+59,Wesley Woodyard,LB,30,72,233,9,Kentucky,Tennessee,Front Seven,DEF,9-12 Yrs
+--,Sean Spence,LB,26,71,231,5,Miami,Tennessee,Front Seven,DEF,5-8 Yrs
+54,Avery Williamson,LB,24,73,246,3,Kentucky,Tennessee,Front Seven,DEF,1-4 Yrs
+41,J.R. Tavai,LB,22,73,249,1,USC,Tennessee,Front Seven,DEF,1-4 Yrs
+50,Nate Palmer,LB,26,74,248,4,Illinois State,Tennessee,Front Seven,DEF,1-4 Yrs
+--,Curtis Grant,LB,23,74,240,1,Ohio State,Tennessee,Front Seven,DEF,1-4 Yrs
+91,Derrick Morgan,LB,27,75,261,7,Georgia Tech,Tennessee,Front Seven,DEF,5-8 Yrs
+51,Aaron Wallace,LB,23,75,240,0,UCLA,Tennessee,Front Seven,DEF,Rookie
+98,Brian Orakpo,LB,29,76,257,8,Texas,Tennessee,Front Seven,DEF,5-8 Yrs
+57,Justin Staples,LB,26,76,245,3,Illinois,Tennessee,Front Seven,DEF,1-4 Yrs
+51,David Bass,LB,25,76,256,4,Missouri Western,Tennessee,Front Seven,DEF,1-4 Yrs
+53,Deiontrez Mount,LB,23,77,249,2,Louisville,Tennessee,Front Seven,DEF,1-4 Yrs
+--,Antwaun Woods,NT,23,72,323,0,USC,Tennessee,Front Seven,DEF,Rookie
+70,Chance Warmack,OG,24,74,323,4,Alabama,Tennessee,OL,OFF,1-4 Yrs
+60,Quinton Spain,OG,24,76,330,2,West Virginia,Tennessee,OL,OFF,1-4 Yrs
+--,Sam Carlson,OT,23,76,280,0,Colorado State,Tennessee,OL,OFF,Rookie
+76,Byron Bell,OT,27,77,340,6,New Mexico,Tennessee,OL,OFF,5-8 Yrs
+--,Tyler Marz,OT,23,77,322,0,Wisconsin,Tennessee,OL,OFF,Rookie
+72,Jeremiah Poutasi,OT,21,77,335,2,Utah,Tennessee,OL,OFF,1-4 Yrs
+--,Nick Ritcher,OT,23,78,304,0,Richmond,Tennessee,OL,OFF,Rookie
+74,Jack Conklin,OT,21,78,325,0,Michigan State,Tennessee,OL,OFF,Rookie
+77,Taylor Lewan,OT,25,79,309,3,Michigan,Tennessee,OL,OFF,1-4 Yrs
+75,William Poehls,OT,24,80,334,1,Montana,Tennessee,OL,OFF,1-4 Yrs
+6,Brett Kern,P,30,74,214,9,Toledo,Tennessee,ST,ST,9-12 Yrs
+4,Ryan Succop,PK,29,74,218,8,South Carolina,Tennessee,ST,ST,5-8 Yrs
+--,Aldrick Rosas,PK,21,74,195,0,Southern Oregon,Tennessee,ST,ST,Rookie
+16,Matt Cassel,QB,34,76,228,12,USC,Tennessee,QB,OFF,9-12 Yrs
+11,Alex Tanney,QB,28,76,220,2,Monmouth (IL),Tennessee,QB,OFF,1-4 Yrs
+8,Marcus Mariota,QB,22,76,222,2,Oregon,Tennessee,QB,OFF,1-4 Yrs
+--,DeMarco Murray,RB,28,72,217,6,Oklahoma,Tennessee,Tailback,OFF,5-8 Yrs
+22,Dexter McCluster,RB,27,68,170,7,Ole Miss,Tennessee,Tailback,OFF,5-8 Yrs
+26,Antonio Andrews,RB,23,70,225,3,Western Kentucky,Tennessee,Tailback,OFF,1-4 Yrs
+20,Bishop Sankey,RB,23,70,209,3,Washington,Tennessee,Tailback,OFF,1-4 Yrs
+34,David Fluellen,RB,24,71,224,1,Toledo,Tennessee,Tailback,OFF,1-4 Yrs
+23,David Cobb,RB,23,71,229,2,Minnesota,Tennessee,Tailback,OFF,1-4 Yrs
+2,Derrick Henry,RB,22,75,242,0,Alabama,Tennessee,Tailback,OFF,Rookie
+31,Josh Aubrey,S,25,70,207,3,Stephen F Austin,Tennessee,DB,DEF,1-4 Yrs
+--,Rashad Johnson,S,30,71,204,8,Alabama,Tennessee,DB,DEF,5-8 Yrs
+21,Da'Norris Searcy,S,27,71,207,6,North Carolina,Tennessee,DB,DEF,5-8 Yrs
+20,Kevin Byard,S,22,71,216,0,Middle Tennessee,Tennessee,DB,DEF,Rookie
+28,Marqueston Huff,SS,24,71,196,3,Wyoming,Tennessee,DB,DEF,1-4 Yrs
+39,Daimion Stafford,SS,25,73,218,4,Nebraska,Tennessee,DB,DEF,1-4 Yrs
+82,Delanie Walker,TE,31,72,248,11,Central Missouri State,Tennessee,TE,OFF,9-12 Yrs
+88,Craig Stevens,TE,31,75,263,9,California,Tennessee,TE,OFF,9-12 Yrs
+--,Jerome Cunningham,TE,25,75,250,2,Southern Connecticut State,Tennessee,TE,OFF,1-4 Yrs
+80,Anthony Fasano,TE,32,76,255,11,Notre Dame,Tennessee,TE,OFF,9-12 Yrs
+--,Alex Ellis,TE,23,76,240,0,Tennessee,Tennessee,TE,OFF,Rookie
+89,Phillip Supernaw,TE,26,77,248,3,Ouachita Baptist,Tennessee,TE,OFF,1-4 Yrs
+83,Harry Douglas,WR,31,72,183,9,Louisville,Tennessee,WR,OFF,9-12 Yrs
+--,Rishard Matthews,WR,26,72,217,5,Nevada,Tennessee,WR,OFF,5-8 Yrs
+16,Tre McBride,WR,23,72,210,2,William & Mary,Tennessee,WR,OFF,1-4 Yrs
+13,Kendall Wright,WR,26,70,191,5,Baylor,Tennessee,WR,OFF,5-8 Yrs
+1,Tajae Sharpe,WR,21,74,189,0,Massachusetts,Tennessee,WR,OFF,Rookie
+--,Reece Horn,WR,--,75,215,0,Indianapolis,Tennessee,WR,OFF,Rookie
+--,Ben Roberts,WR,--,76,215,0,Montana,Tennessee,WR,OFF,Rookie
+15,Justin Hunter,WR,25,76,203,4,Tennessee,Tennessee,WR,OFF,1-4 Yrs
+86,Andrew Turzilli,WR,24,76,195,2,Rutgers,Tennessee,WR,OFF,1-4 Yrs
+17,Dorial Green-Beckham,WR,23,77,237,2,Oklahoma,Tennessee,WR,OFF,1-4 Yrs
+57,Nick Sundberg,C,28,72,264,7,California,Washington,OL,OFF,5-8 Yrs
+78,Kory Lichtensteiger,C,31,74,296,8,Bowling Green,Washington,OL,OFF,5-8 Yrs
+67,Josh LeRibeus,C,27,74,315,5,SMU,Washington,OL,OFF,5-8 Yrs
+62,Austin Reiter,C,24,75,296,1,South Florida,Washington,OL,OFF,1-4 Yrs
+41,Will Blackmon,CB,31,72,204,10,Boston College,Washington,DB,DEF,9-12 Yrs
+--,Greg Toler,CB,31,72,190,8,St. Paul's College,Washington,DB,DEF,5-8 Yrs
+--,Josh Norman,CB,28,72,195,5,Coastal Carolina,Washington,DB,DEF,5-8 Yrs
+22,Deshazor Everett,CB,24,72,193,2,Texas A&M,Washington,DB,DEF,1-4 Yrs
+23,DeAngelo Hall,CB,32,70,198,13,Virginia Tech,Washington,DB,DEF,13+ Yrs
+35,Dashaun Phillips,CB,25,71,182,2,Tarleton State,Washington,DB,DEF,1-4 Yrs
+26,Bashaud Breeland,CB,24,71,197,3,Clemson,Washington,DB,DEF,1-4 Yrs
+11,Kendall Fuller,CB,21,71,187,0,Virginia Tech,Washington,DB,DEF,Rookie
+37,Jeremy Harris,CB,25,74,185,3,New Mexico State,Washington,DB,DEF,1-4 Yrs
+47,Quinton Dunbar,CB,24,74,201,2,Florida,Washington,DB,DEF,1-4 Yrs
+36,Tanard Jackson,DB,31,72,193,5,Syracuse,Washington,DB,DEF,5-8 Yrs
+--,Mariel Cooper,DB,23,71,192,0,The Citadel,Washington,DB,DEF,Rookie
+90,Stephen Paea,DE,28,73,300,6,Oregon State,Washington,Front Seven,DEF,5-8 Yrs
+64,Kedric Golston,DE,33,76,318,11,Georgia,Washington,Front Seven,DEF,9-12 Yrs
+91,Kendall Reyes,DE,26,76,300,5,Connecticut,Washington,Front Seven,DEF,5-8 Yrs
+65,Corey Crawford,DE,24,77,299,1,Clemson,Washington,Front Seven,DEF,1-4 Yrs
+90,Anthony Lanier,DE,23,78,260,0,Alabama A&M,Washington,Front Seven,DEF,Rookie
+--,Ziggy Hood,DL,29,75,300,8,Missouri,Washington,Front Seven,DEF,5-8 Yrs
+92,Chris Baker,DT,28,74,325,5,Hampton,Washington,Front Seven,DEF,5-8 Yrs
+99,Ricky Jean Francois,DT,29,75,297,8,LSU,Washington,Front Seven,DEF,5-8 Yrs
+9,Matt Ioannidis,DT,22,75,303,0,Temple,Washington,Front Seven,DEF,Rookie
+36,Joe Kerridge,FB,23,72,249,0,Michigan,Washington,Tailback,OFF,Rookie
+77,Shawn Lauvao,G,28,75,315,7,Arizona State,Washington,OL,OFF,5-8 Yrs
+--,Nila Kasitati,G,23,76,315,0,Oklahoma,Washington,OL,OFF,Rookie
+75,Brandon Scherff,G,24,77,319,2,Iowa,Washington,OL,OFF,1-4 Yrs
+56,Perry Riley Jr.,LB,28,72,238,7,LSU,Washington,Front Seven,DEF,5-8 Yrs
+50,Martrell Spaight,LB,22,72,236,2,Arkansas,Washington,Front Seven,DEF,1-4 Yrs
+52,Steven Daniels,LB,23,71,243,0,Boston College,Washington,Front Seven,DEF,Rookie
+55,Adam Hayward,LB,32,73,240,10,Portland State,Washington,Front Seven,DEF,9-12 Yrs
+54,Mason Foster,LB,27,73,241,6,Washington,Washington,Front Seven,DEF,5-8 Yrs
+51,Will Compton,LB,26,73,230,3,Nebraska,Washington,Front Seven,DEF,1-4 Yrs
+96,Houston Bates,LB,25,73,250,2,Louisiana Tech,Washington,Front Seven,DEF,1-4 Yrs
+59,Carlos Fields,LB,25,73,238,1,Winston-Salem,Washington,Front Seven,DEF,1-4 Yrs
+21,Su'a Cravens,LB,21,73,226,0,USC,Washington,Front Seven,DEF,Rookie
+58,Junior Galette,LB,28,74,258,7,Stillman,Washington,Front Seven,DEF,5-8 Yrs
+--,Terence Garvin,LB,25,74,222,4,West Virginia,Washington,Front Seven,DEF,1-4 Yrs
+1,Shiro Davis,LB,--,75,253,0,Texas,Washington,Front Seven,DEF,Rookie
+31,Ejiro Ederaine,LB,22,75,220,0,Fresno State,Washington,Front Seven,DEF,Rookie
+--,Michael Wakefield,LB,22,75,245,0,Florida Intl,Washington,Front Seven,DEF,Rookie
+91,Ryan Kerrigan,LB,27,76,260,6,Purdue,Washington,Front Seven,DEF,5-8 Yrs
+45,Willie Jefferson,LB,25,77,241,1,Stephen F Austin,Washington,Front Seven,DEF,1-4 Yrs
+93,Trent Murphy,LB,25,77,258,3,Stanford,Washington,Front Seven,DEF,1-4 Yrs
+94,Preston Smith,LB,23,77,271,2,Mississippi State,Washington,Front Seven,DEF,1-4 Yrs
+60,Lynden Trail,LB,25,79,269,1,Norfolk State,Washington,Front Seven,DEF,1-4 Yrs
+72,Jerrell Powe,NT,29,74,331,3,Ole Miss,Washington,Front Seven,DEF,1-4 Yrs
+61,Spencer Long,OG,25,77,311,3,Nebraska,Washington,OL,OFF,1-4 Yrs
+74,Arie Kouandjio,OG,24,77,310,2,Alabama,Washington,OL,OFF,1-4 Yrs
+--,Al Bond,OT,24,75,303,0,Memphis,Washington,OL,OFF,Rookie
+--,Cody Booth,OT,25,76,292,1,Temple,Washington,OL,OFF,1-4 Yrs
+69,Takoby Cofield,OT,24,76,310,1,Duke,Washington,OL,OFF,1-4 Yrs
+71,Trent Williams,OT,28,77,337,7,Oklahoma,Washington,OL,OFF,5-8 Yrs
+76,Morgan Moses,OT,25,78,318,3,Virginia,Washington,OL,OFF,1-4 Yrs
+79,Ty Nsekhe,OT,30,80,325,2,Texas State,Washington,OL,OFF,1-4 Yrs
+74,Kevin Bowen,OT,23,81,330,0,East Central,Washington,OL,OFF,Rookie
+5,Tress Way,P,26,73,215,3,Oklahoma,Washington,ST,ST,1-4 Yrs
+3,Dustin Hopkins,PK,25,74,193,3,Florida State,Washington,ST,ST,1-4 Yrs
+16,Colt McCoy,QB,29,73,215,7,Texas,Washington,QB,OFF,5-8 Yrs
+8,Kirk Cousins,QB,27,75,202,5,Michigan State,Washington,QB,OFF,5-8 Yrs
+7,Nate Sudfeld,QB,22,78,234,0,Indiana,Washington,QB,OFF,Rookie
+25,Chris Thompson,RB,25,68,193,3,Florida State,Washington,Tailback,OFF,1-4 Yrs
+--,Kelsey Young,RB,--,70,198,0,Boise State,Washington,Tailback,OFF,Rookie
+32,Silas Redd,RB,24,70,200,3,USC,Washington,Tailback,OFF,1-4 Yrs
+42,Mack Brown,RB,24,71,215,1,Florida,Washington,Tailback,OFF,1-4 Yrs
+4,Keith Marshall,RB,22,71,212,0,Georgia,Washington,Tailback,OFF,Rookie
+31,Matt Jones,RB,23,73,231,2,Florida,Washington,Tailback,OFF,1-4 Yrs
+24,Geno Matias-Smith,S,22,72,196,0,Alabama,Washington,DB,DEF,Rookie
+30,Kyshoen Jarrett,S,23,70,200,2,Virginia Tech,Washington,DB,DEF,1-4 Yrs
+24,Duke Ihenacho,S,27,73,207,5,San José State,Washington,DB,DEF,5-8 Yrs
+--,David Bruton Jr.,S,28,74,217,8,Notre Dame,Washington,DB,DEF,5-8 Yrs
+84,Niles Paul,TE,26,73,241,6,Nebraska,Washington,TE,OFF,5-8 Yrs
+86,Jordan Reed,TE,26,74,237,4,Florida,Washington,TE,OFF,1-4 Yrs
+--,Vernon Davis,TE,32,75,250,11,Maryland,Washington,TE,OFF,9-12 Yrs
+89,Derek Carrier,TE,25,76,241,4,Beloit College,Washington,TE,OFF,1-4 Yrs
+82,Logan Paulsen,TE,29,77,261,7,UCLA,Washington,TE,OFF,5-8 Yrs
+85,Marcel Jensen,TE,26,78,270,2,Fresno State,Washington,TE,OFF,1-4 Yrs
+88,Pierre Garcon,WR,29,72,216,9,Mount Union,Washington,WR,OFF,9-12 Yrs
+19,Rashad Ross,WR,26,72,181,2,Arizona State,Washington,WR,OFF,1-4 Yrs
+14,Ryan Grant,WR,25,72,193,3,Tulane,Washington,WR,OFF,1-4 Yrs
+80,Jamison Crowder,WR,23,68,185,2,Duke,Washington,WR,OFF,1-4 Yrs
+11,DeSean Jackson,WR,29,70,178,9,California,Washington,WR,OFF,9-12 Yrs
+10,Valdez Showers,WR,23,70,190,0,Florida,Washington,WR,OFF,Rookie
+15,Jarvis Turner,WR,22,73,194,0,Alcorn State,Washington,WR,OFF,Rookie
+--,Dez Stewart,WR,23,74,200,0,Ohio Dominican,Washington,WR,OFF,Rookie
+9,Josh Doctson,WR,23,75,195,0,TCU,Washington,WR,OFF,Rookie
+3,Maurice Harris,WR,23,75,201,0,California,Washington,WR,OFF,Rookie
+11,Reggie Diggs,WR,23,76,200,0,Richmond,Washington,WR,OFF,Rookie

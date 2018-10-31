@@ -65,8 +65,8 @@ def Destroy(p1,b_frame,container,frame): #destroy previous frames and select a n
     frame.destroy()
 
 def __salary_stats(name,gui,frame):
-    salaries_data_frame = pandas.read_csv('nfl_salaries.csv')
-    players_data_frame = pandas.read_csv('nfl_players.csv')
+    salaries_data_frame = pandas.read_csv('datasets\\nfl_salaries.csv')
+    players_data_frame = pandas.read_csv('datasets\\nfl_players.csv')
     spec_teams = {'Green_Bay_Packers': 'GNB', 'Jacksonville_Jaguars' : 'JAX', 'Los_Angeles_Rams' : 'LAR',
                   'Los_Angeles_Chargers' : 'LAC', 'New_Orleans_Saints' : 'NOR', 'New_England_Patriots' : 'NWE',
                   'New_York_Giants' : 'NYG', 'New_York_Jets' : 'NYJ', 'San_Francisco_49ers' : 'SFO'}

@@ -18,18 +18,33 @@ day = date[8:10]
 class Page(tkinter.Frame): #pages instead of scrollbar
     def __init__(self, *args, **kwargs):
         tkinter.Frame.__init__(self, *args, **kwargs)
-    def figure(self,df,df2,name):
+    def figure(self,df,df2,name,num):
        count = len(df2['Salary'])
-       statement = "There are " + str(count) + " players on the " + str(name).replace('_',' ') + " making over $1,000,000."
-       label = tkinter.Label(self, text=statement) #recent loss
-       label.pack()
+       df = df.fillna(0)
+       df['Age'] = df['Age'].astype(str)
+       df2 = df2.fillna(0)
+       df2['Age'] = df2['Age'].astype(str)
+       #print(df['Age'])
+       if(num == 0):
+           statement = "There are " + str(count) + " players on the " + str(name).replace('_',' ') + " making over $1,000,000."
+           label = tkinter.Label(self, text=statement) #recent loss
+           label.pack()
+
        fig = Figure(figsize=(100,100), dpi=100) #this part and below displays histogram of
                                         #salaries in Tkinter GUI
-       p = fig.gca()
-       p.hist(df['Salary'])
-       p.set_xlabel('Salary (in $1,000,000s)', fontsize = 14)
-       p.set_ylabel('Number of Players', fontsize = 14)
-       p.set_title("Salary by Number of Players of " + str(name).replace('_',' '), fontsize = 16)
+       if(num == 0):
+           p = fig.gca()
+           p.hist(df['Salary'])
+           p.set_xlabel('Salary (in $10,000,000s)', fontsize = 14)
+           p.set_ylabel('Number of Players', fontsize = 14)
+           p.set_title("Salary by Number of Players of " + str(name).replace('_',' '), fontsize = 16)
+       else:
+           p = fig.gca()
+           p.scatter(df['Age'],df['Salary'])
+           p.set_xlabel('Age', fontsize = 14)
+           p.set_ylabel('Salary', fontsize = 14)
+           p.set_title("Age by Number of Players of " + str(name).replace('_',' '), fontsize = 16)
+           
        canvas = FigureCanvasTkAgg(fig,self)
        canvas.draw()
        canvas.get_tk_widget().pack(fill="y",expand=True)
@@ -90,13 +105,14 @@ def __salary_stats(name,gui,frame):
     container.pack(side="top", fill="both", expand=True)
     p1.place(in_=container, x=0, y=0, relwidth=1, relheight=1)
     p2.place(in_=container, x=0, y=0, relwidth=1, relheight=1)
-    #b1 = tkinter.Button(buttonframe, text="Page 1", command=p1.lift)
-    #b2 = tkinter.Button(buttonframe, text="Page 2", command=p2.lift)
-    #b1.pack(side="left")
-    #b2.pack(side="left")
+    b1 = tkinter.Button(buttonframe, text="Page 1", command=p1.lift)
+    b2 = tkinter.Button(buttonframe, text="Page 2", command=p2.lift)
+    b1.pack(side="left")
+    b2.pack(side="left")
     b_forget = tkinter.Button(buttonframe, text="Clear Screen", command=lambda : Destroy(p1,buttonframe,container,frame))
     b_forget.pack(side="right")
-    p1.figure(df,df_big,full_name)
+    p2.figure(df,df_big,full_name,1)
+    p1.figure(df,df_big,full_name,0)
             
 
 def __games(team,gui):

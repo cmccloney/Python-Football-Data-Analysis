@@ -20,11 +20,14 @@ class Page(tkinter.Frame): #pages instead of scrollbar
         tkinter.Frame.__init__(self, *args, **kwargs)
     def figure(self,df,df2,name,num):
        count = len(df2['Salary'])
-       df = df.fillna(0)
-       df['Age'] = df['Age'].astype(str)
-       df2 = df2.fillna(0)
-       df2['Age'] = df2['Age'].astype(str)
-       #print(df['Age'])
+       df['Age'] = pandas.to_numeric(df['Age'], errors='coerce') #convert to float
+       df.fillna({'Age':0}, inplace=True) #replace NA values
+       df['Age'] = df['Age'].astype(int)
+       df.sort_values(by=['Age']) #sort numerically
+       df2['Age'] = pandas.to_numeric(df2['Age'], errors='coerce') #convert to float
+       df2.fillna({'Age':0}, inplace=True) #replace NA values
+       df2['Age'] = df2['Age'].astype(int)
+       df2.sort_values(by=['Age']) #sort numerically
        if(num == 0):
            statement = "There are " + str(count) + " players on the " + str(name).replace('_',' ') + " making over $1,000,000."
            label = tkinter.Label(self, text=statement) #recent loss
@@ -32,18 +35,19 @@ class Page(tkinter.Frame): #pages instead of scrollbar
 
        fig = Figure(figsize=(100,100), dpi=100) #this part and below displays histogram of
                                         #salaries in Tkinter GUI
-       if(num == 0):
+       if(num == 0): #display salary hist
            p = fig.gca()
-           p.hist(df['Salary'])
+           p.hist(df['Salary'],bins=25)
            p.set_xlabel('Salary (in $10,000,000s)', fontsize = 14)
            p.set_ylabel('Number of Players', fontsize = 14)
            p.set_title("Salary by Number of Players of " + str(name).replace('_',' '), fontsize = 16)
-       else:
+       else: #display age by salary
            p = fig.gca()
            p.scatter(df['Age'],df['Salary'])
+           p.set_xlim([18,60])
            p.set_xlabel('Age', fontsize = 14)
            p.set_ylabel('Salary', fontsize = 14)
-           p.set_title("Age by Number of Players of " + str(name).replace('_',' '), fontsize = 16)
+           p.set_title("Age by Salary of " + str(name).replace('_',' '), fontsize = 16)
            
        canvas = FigureCanvasTkAgg(fig,self)
        canvas.draw()
@@ -87,12 +91,12 @@ def __salary_stats(name,gui,frame):
             temp = salaries_data_frame.loc[i,'Player'].split("\\")
             temp2 = players_data_frame[players_data_frame['Name'] == (temp[0])].values
             if(len(temp2) > 0):
-                #print(temp2[0][0])
-                df.loc[index,'Age'] = temp2[0][0]
+                #print(temp2[0][3])
+                df.loc[index,'Age'] = temp2[0][3] #3rd entry is age
             if(int(df.loc[index,'Salary']) >= 1000000):
                 df_big.loc[index,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
                 if(len(temp2) > 0):
-                    df_big.loc[index,'Age'] = temp2[0][0]
+                    df_big.loc[index,'Age'] = temp2[0][3]
                 # only for player making more than a million
             index = index + 1
     df['Salary'] = df['Salary'].astype(str).astype(int) #convert to string before converting to int, from object

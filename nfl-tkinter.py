@@ -37,16 +37,17 @@ class Page(tkinter.Frame): #pages instead of scrollbar
                                         #salaries in Tkinter GUI
        if(num == 0): #display salary hist
            p = fig.gca()
-           p.hist(df['Salary'],bins=25)
-           p.set_xlabel('Salary (in $10,000,000s)', fontsize = 14)
+           p.hist(df['Salary'],bins=100)
+           p.set_xlim([0,5000000])
+           p.set_xlabel('Salary', fontsize = 14)
            p.set_ylabel('Number of Players', fontsize = 14)
-           p.set_title("Salary by Number of Players of " + str(name).replace('_',' '), fontsize = 16)
+           p.set_title("Salary by Number of Players of the " + str(name).replace('_',' ') + " (under $5,000,000)", fontsize = 16)
        else: #display age by salary
            p = fig.gca()
            p.scatter(df['Age'],df['Salary'])
-           p.set_xlim([18,60])
+           p.set_xlim([18,60]) #only people 18 years and older can play
            p.set_xlabel('Age', fontsize = 14)
-           p.set_ylabel('Salary', fontsize = 14)
+           p.set_ylabel('Salary (in $10,000,000s)', fontsize = 14)
            p.set_title("Age by Salary of " + str(name).replace('_',' '), fontsize = 16)
            
        canvas = FigureCanvasTkAgg(fig,self)
@@ -75,14 +76,14 @@ def __salary_stats(name,gui,frame):
                   'Los_Angeles_Chargers' : 'LAC', 'New_Orleans_Saints' : 'NOR', 'New_England_Patriots' : 'NWE',
                   'New_York_Giants' : 'NYG', 'New_York_Jets' : 'NYJ', 'San_Francisco_49ers' : 'SFO'}
     full_name = name[0]
-    for i in range(1,len(name)):
+    for i in range(1,len(name)): #create full name string
         full_name += "_"
         full_name += name[i]
-    if(full_name in spec_teams):
+    if(full_name in spec_teams): #special teams require different initials
         team = spec_teams[full_name]
     else:
         team = full_name[0:3].upper()
-    df = pandas.DataFrame(data=0,index=range(0,1),columns=['Salary','Age'])
+    df = pandas.DataFrame(data=0,index=range(0,1),columns=['Salary','Age']) #initialize empty data frame
     df_big = pandas.DataFrame(data=0,index=range(0,1),columns=['Salary','Age']) #players making more than a million
     index = 0
     for i in range(0,len(salaries_data_frame)):
@@ -91,7 +92,6 @@ def __salary_stats(name,gui,frame):
             temp = salaries_data_frame.loc[i,'Player'].split("\\")
             temp2 = players_data_frame[players_data_frame['Name'] == (temp[0])].values
             if(len(temp2) > 0):
-                #print(temp2[0][3])
                 df.loc[index,'Age'] = temp2[0][3] #3rd entry is age
             if(int(df.loc[index,'Salary']) >= 1000000):
                 df_big.loc[index,'Salary'] = salaries_data_frame.loc[i,'Cap Hit'][1:].replace(',','')
@@ -105,8 +105,8 @@ def __salary_stats(name,gui,frame):
     p2 = Page2(gui)
     buttonframe = tkinter.Frame(gui)
     container = tkinter.Frame(gui)
-    buttonframe.pack(side="bottom", fill="x", expand=False)
-    container.pack(side="top", fill="both", expand=True)
+    buttonframe.pack(side="bottom", fill="x", expand=False) #frame for buttons
+    container.pack(side="top", fill="both", expand=True) #container for pages and graphs
     p1.place(in_=container, x=0, y=0, relwidth=1, relheight=1)
     p2.place(in_=container, x=0, y=0, relwidth=1, relheight=1)
     b1 = tkinter.Button(buttonframe, text="Page 1", command=p1.lift)
@@ -116,7 +116,7 @@ def __salary_stats(name,gui,frame):
     b_forget = tkinter.Button(buttonframe, text="Clear Screen", command=lambda : Destroy(p1,buttonframe,container,frame))
     b_forget.pack(side="right")
     p2.figure(df,df_big,full_name,1)
-    p1.figure(df,df_big,full_name,0)
+    p1.figure(df,df_big,full_name,0) #display page 1 first
             
 
 def __games(team,gui):
@@ -134,7 +134,8 @@ def __games(team,gui):
         losses = soup.find_all("tr", {"style": "background:#fcc"})
         general_info = soup.select("table.infobox tbody tr td")
         record = general_info[4].get_text().strip()
-        if(future_weeks and str(team) != "Denver_Broncos"): #Only Broncos wiki page doesn't work only here, weird
+        bad_teams = ["Denver_Broncos","Houston_Texans", "Minnesota_Vikings"]#Need to create secondary function for these teams, wiki page
+        if(future_weeks and not(str(team) in bad_teams)): #structured differently for some reason
             current_week = future_weeks[0].get_text().split("\n")
             current_team = current_week[7]
             current_time = current_week[5].split("\\")[0]
